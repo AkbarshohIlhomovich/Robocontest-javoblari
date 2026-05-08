@@ -1,0 +1,14 @@
+{
+  "task_id": "A0017",
+  "title": "Juft bo'luvchilar",
+  "category": "",
+  "complexity_pct": 20,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 16,
+  "verdict": {
+    "submission_id": "10988516",
+    "time_ms": 1,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-09T02:25:43"
+}
