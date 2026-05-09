@@ -1,0 +1,14 @@
+{
+  "task_id": "A0004",
+  "title": "Yolg'iz son",
+  "category": "#Oson",
+  "complexity_pct": 10,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 16,
+  "verdict": {
+    "submission_id": "10989844",
+    "time_ms": 1,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-09T16:32:37"
+}

@@ -1,0 +1,14 @@
+{
+  "task_id": "A0019",
+  "title": "Ko'zalar",
+  "category": "",
+  "complexity_pct": 30,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 16,
+  "verdict": {
+    "submission_id": "10989880",
+    "time_ms": 1,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-09T16:36:06"
+}
