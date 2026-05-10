@@ -1,0 +1,14 @@
+{
+  "task_id": "M071B",
+  "title": "Transport",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 128,
+  "verdict": {
+    "submission_id": "10993063",
+    "time_ms": 0,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-10T13:57:22"
+}

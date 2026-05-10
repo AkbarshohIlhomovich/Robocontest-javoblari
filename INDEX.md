@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T13:56:06_
+_Yangilangan: 2026-05-10T13:57:22_
 
-Jami: **57** ta masala
+Jami: **58** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -51,6 +51,7 @@ Jami: **57** ta masala
 | [M070A](./M070A_extensions_uzaytirgichlar) | Extensions (uzaytirgichlar) |  | 1% | 0 ms | 0 KB |
 | [M070E](./M070E_mex-xe-xe) | MEX-xe-xe |  | 1% | 0 ms | 0 KB |
 | [M071A](./M071A_two_strings_ikki_satr) | Two strings (Ikki Satr) |  | 1% | 1 ms | 0 KB |
+| [M071B](./M071B_transport) | Transport |  | 1% | 0 ms | 0 KB |
 | [M072D](./M072D_futbol_oyini) | Futbol o'yini |  | 1% | 1 ms | 0 KB |
 | [M072F](./M072F_1) | 1% |  | 1% | 1 ms | 0 KB |
 | [M072G](./M072G_floor_funksiyasi) | Floor funksiyasi |  | 1% | 1 ms | 0 KB |
