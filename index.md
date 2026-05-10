@@ -1,5 +1,5 @@
 ---
-title: "Robocontest.uz Yechimlari Indeksi — 89 ta masala"
+title: "Robocontest.uz Yechimlari Indeksi — 90 ta masala"
 description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
 keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
 lang: uz
@@ -7,9 +7,9 @@ lang: uz
 
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T15:17:26_
+_Yangilangan: 2026-05-10T15:23:55_
 
-Jami: **89** ta masala
+Jami: **90** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -91,6 +91,7 @@ Jami: **89** ta masala
 | [M077D](./M077D_ortacha_maosh) | O'rtacha maosh |  | 1% | 44 ms | 1120 KB |
 | [M077E](./M077E_navbat) | Navbat |  | 1% | 1 ms | 0 KB |
 | [M080F](./M080F_dunes) | Dunes |  | 1% | 3 ms | 0 KB |
+| [M080H](./M080H_merlin) | Merlin |  | 1% | 1 ms | 0 KB |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar |  | 1% | 7 ms | 0 KB |
 | [M084C](./M084C_qutilar) | Qutilar |  | 1% | 1 ms | 0 KB |
 | [M087A](./M087A_koordinatalar_sistemasi) | Koordinatalar sistemasi |  | 1% | 1 ms | 0 KB |

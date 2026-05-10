@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-89-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-90-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 89 ta masala
+- **Jami yechilgan**: 90 ta masala
 - **O'rtacha qiyinchilik**: 4.0%
-- **O'rtacha vaqt**: 30.7 ms
-- **Eng oxirgi**: [M080F — Dunes](./M080F_dunes) _(2026-05-10)_
+- **O'rtacha vaqt**: 30.4 ms
+- **Eng oxirgi**: [M080H — Merlin](./M080H_merlin) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 75 |
+| Kategoriyasiz | 76 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M080H](./M080H_merlin) | Merlin | - | 1 ms | 2026-05-10 |
 | [M080F](./M080F_dunes) | Dunes | - | 3 ms | 2026-05-10 |
 | [M074D](./M074D_xor_va_summa) | Xor va summa | - | 10 ms | 2026-05-10 |
 | [M073F](./M073F_javascript_vs_python) | JavaScript vs Python | - | 1 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M073B](./M073B_ikkilik_yigindi) | Ikkilik yig'indi | - | 1 ms | 2026-05-10 |
 | [M073E](./M073E_togri_chiziq) | To'g'ri chiziq | - | 1 ms | 2026-05-10 |
 | [M072A](./M072A_robocontestdagi_rating_tizimi) | Robocontestdagi rating tizimi | - | 1 ms | 2026-05-10 |
-| [M070C](./M070C_aliens_ozga_sayyoraliklar) | Aliens (O'zga sayyoraliklar) | - | 0 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
