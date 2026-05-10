@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T14:04:38_
+_Yangilangan: 2026-05-10T14:07:06_
 
-Jami: **59** ta masala
+Jami: **60** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -53,6 +53,7 @@ Jami: **59** ta masala
 | [M071A](./M071A_two_strings_ikki_satr) | Two strings (Ikki Satr) |  | 1% | 1 ms | 0 KB |
 | [M071B](./M071B_transport) | Transport |  | 1% | 0 ms | 0 KB |
 | [M071D](./M071D_thanos_sort) | Thanos sort |  | 1% | 0 ms | 0 KB |
+| [M071E](./M071E_two_trees_ikki_daraxt) | Two Trees (Ikki daraxt) |  | 1% | 0 ms | 0 KB |
 | [M072D](./M072D_futbol_oyini) | Futbol o'yini |  | 1% | 1 ms | 0 KB |
 | [M072F](./M072F_1) | 1% |  | 1% | 1 ms | 0 KB |
 | [M072G](./M072G_floor_funksiyasi) | Floor funksiyasi |  | 1% | 1 ms | 0 KB |
