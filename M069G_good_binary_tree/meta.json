@@ -1,0 +1,14 @@
+{
+  "task_id": "M069G",
+  "title": "Good binary tree",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 32,
+  "verdict": {
+    "submission_id": "10992967",
+    "time_ms": 18,
+    "memory_kb": 96
+  },
+  "saved_at": "2026-05-10T13:14:57"
+}
