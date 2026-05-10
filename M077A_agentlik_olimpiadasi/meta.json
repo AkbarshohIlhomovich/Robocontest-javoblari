@@ -1,0 +1,14 @@
+{
+  "task_id": "M077A",
+  "title": "Agentlik olimpiadasi",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 32,
+  "verdict": {
+    "submission_id": "10993134",
+    "time_ms": 1,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-10T14:20:02"
+}
