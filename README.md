@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-83-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-84-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 83 ta masala
+- **Jami yechilgan**: 84 ta masala
 - **O'rtacha qiyinchilik**: 4.2%
-- **O'rtacha vaqt**: 32.7 ms
-- **Eng oxirgi**: [M073B — Ikkilik yig'indi](./M073B_ikkilik_yigindi) _(2026-05-10)_
+- **O'rtacha vaqt**: 32.4 ms
+- **Eng oxirgi**: [M073A — Vazifalar](./M073A_vazifalar) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 69 |
+| Kategoriyasiz | 70 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M073A](./M073A_vazifalar) | Vazifalar | - | 1 ms | 2026-05-10 |
 | [M073B](./M073B_ikkilik_yigindi) | Ikkilik yig'indi | - | 1 ms | 2026-05-10 |
 | [M073E](./M073E_togri_chiziq) | To'g'ri chiziq | - | 1 ms | 2026-05-10 |
 | [M072A](./M072A_robocontestdagi_rating_tizimi) | Robocontestdagi rating tizimi | - | 1 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M087B](./M087B_tik_tak_toe) | Tik Tak Toe | - | 1 ms | 2026-05-10 |
 | [M087A](./M087A_koordinatalar_sistemasi) | Koordinatalar sistemasi | - | 1 ms | 2026-05-10 |
 | [M076I](./M076I_язык_foo) | Язык Foo | - | 20 ms | 2026-05-10 |
-| [M076G](./M076G_степень_двойки) | Степень двойки | - | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
