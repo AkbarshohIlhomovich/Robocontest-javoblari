@@ -1,5 +1,5 @@
 ---
-title: "Robocontest.uz Yechimlari Indeksi — 92 ta masala"
+title: "Robocontest.uz Yechimlari Indeksi — 93 ta masala"
 description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
 keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
 lang: uz
@@ -7,9 +7,9 @@ lang: uz
 
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T15:40:05_
+_Yangilangan: 2026-05-10T15:42:58_
 
-Jami: **92** ta masala
+Jami: **93** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -99,6 +99,7 @@ Jami: **92** ta masala
 | [M087A](./M087A_koordinatalar_sistemasi) | Koordinatalar sistemasi |  | 1% | 1 ms | 0 KB |
 | [M087B](./M087B_tik_tak_toe) | Tik Tak Toe |  | 1% | 1 ms | 0 KB |
 | [M087E](./M087E_permutatsiya) | Permutatsiya |  | 1% | 2 ms | 0 KB |
+| [M088C](./M088C_shirinlik) | Shirinlik |  | 1% | 110 ms | 0 KB |
 | [M091F](./M091F_kanji_for_king_王) | Kanji for king (王) |  | 1% | 38 ms | 5216 KB |
 | [M095A](./M095A_increment_va_decrement) | Increment va Decrement |  | 1% | 77 ms | 5216 KB |
 | [R059E](./R059E_ajoyib_oyin) | Ajoyib o'yin |  | 1% | 2 ms | 0 KB |

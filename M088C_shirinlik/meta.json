@@ -1,0 +1,14 @@
+{
+  "task_id": "M088C",
+  "title": "Shirinlik",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 2000,
+  "memory_limit_mb": 128,
+  "verdict": {
+    "submission_id": "10993401",
+    "time_ms": 110,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-10T15:42:58"
+}
