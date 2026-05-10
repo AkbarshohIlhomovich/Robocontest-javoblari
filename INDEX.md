@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T12:48:52_
+_Yangilangan: 2026-05-10T12:50:19_
 
-Jami: **37** ta masala
+Jami: **38** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -41,5 +41,6 @@ Jami: **37** ta masala
 | [M058B](./M058B_magnit_raqamlar) | Magnit raqamlar |  | 1% | 1 ms | 0 KB |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar |  | 1% | 7 ms | 0 KB |
 | [M084C](./M084C_qutilar) | Qutilar |  | 1% | 1 ms | 0 KB |
+| [M095A](./M095A_increment_va_decrement) | Increment va Decrement |  | 1% | 77 ms | 5216 KB |
 | [R059E](./R059E_ajoyib_oyin) | Ajoyib o'yin |  | 1% | 2 ms | 0 KB |
 | [R078I](./R078I_ab) | A+B | #Oson | 1% | 0 ms | 0 KB |
