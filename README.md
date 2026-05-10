@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-80-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-81-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 80 ta masala
-- **O'rtacha qiyinchilik**: 4.4%
-- **O'rtacha vaqt**: 33.9 ms
-- **Eng oxirgi**: [M070C — Aliens (O'zga sayyoraliklar)](./M070C_aliens_ozga_sayyoraliklar) _(2026-05-10)_
+- **Jami yechilgan**: 81 ta masala
+- **O'rtacha qiyinchilik**: 4.3%
+- **O'rtacha vaqt**: 33.5 ms
+- **Eng oxirgi**: [M072A — Robocontestdagi rating tizimi](./M072A_robocontestdagi_rating_tizimi) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 66 |
+| Kategoriyasiz | 67 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M072A](./M072A_robocontestdagi_rating_tizimi) | Robocontestdagi rating tizimi | - | 1 ms | 2026-05-10 |
 | [M070C](./M070C_aliens_ozga_sayyoraliklar) | Aliens (O'zga sayyoraliklar) | - | 0 ms | 2026-05-10 |
 | [M070B](./M070B_fruits_mevalar) | Fruits (Mevalar) | - | 0 ms | 2026-05-10 |
 | [M087E](./M087E_permutatsiya) | Permutatsiya | - | 2 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M076G](./M076G_степень_двойки) | Степень двойки | - | 1 ms | 2026-05-10 |
 | [M076D](./M076D_минимальное_максимальное_ребро) | Минимальное Максимальное Ребро | - | 89 ms | 2026-05-10 |
 | [M076B](./M076B_космическая_балансировка) | Космическая Балансировка | - | 7 ms | 2026-05-10 |
-| [M075A](./M075A_yuklar) | Yuklar | - | 550 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)

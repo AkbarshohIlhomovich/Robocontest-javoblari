@@ -1,5 +1,5 @@
 ---
-title: "Robocontest.uz Yechimlari Indeksi — 80 ta masala"
+title: "Robocontest.uz Yechimlari Indeksi — 81 ta masala"
 description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
 keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
 lang: uz
@@ -7,9 +7,9 @@ lang: uz
 
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T15:00:53_
+_Yangilangan: 2026-05-10T15:07:54_
 
-Jami: **80** ta masala
+Jami: **81** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -63,6 +63,7 @@ Jami: **80** ta masala
 | [M071B](./M071B_transport) | Transport |  | 1% | 0 ms | 0 KB |
 | [M071D](./M071D_thanos_sort) | Thanos sort |  | 1% | 0 ms | 0 KB |
 | [M071E](./M071E_two_trees_ikki_daraxt) | Two Trees (Ikki daraxt) |  | 1% | 0 ms | 0 KB |
+| [M072A](./M072A_robocontestdagi_rating_tizimi) | Robocontestdagi rating tizimi |  | 1% | 1 ms | 0 KB |
 | [M072D](./M072D_futbol_oyini) | Futbol o'yini |  | 1% | 1 ms | 0 KB |
 | [M072E](./M072E_yoqolgan_son) | Yo'qolgan son |  | 1% | 14 ms | 0 KB |
 | [M072F](./M072F_1) | 1% |  | 1% | 1 ms | 0 KB |
