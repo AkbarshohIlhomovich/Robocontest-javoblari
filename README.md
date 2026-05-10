@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-75-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-76-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 75 ta masala
-- **O'rtacha qiyinchilik**: 4.6%
-- **O'rtacha vaqt**: 36.1 ms
-- **Eng oxirgi**: [M076I — Язык Foo](./M076I_язык_foo) _(2026-05-10)_
+- **Jami yechilgan**: 76 ta masala
+- **O'rtacha qiyinchilik**: 4.5%
+- **O'rtacha vaqt**: 35.7 ms
+- **Eng oxirgi**: [M087A — Koordinatalar sistemasi](./M087A_koordinatalar_sistemasi) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 61 |
+| Kategoriyasiz | 62 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M087A](./M087A_koordinatalar_sistemasi) | Koordinatalar sistemasi | - | 1 ms | 2026-05-10 |
 | [M076I](./M076I_язык_foo) | Язык Foo | - | 20 ms | 2026-05-10 |
 | [M076G](./M076G_степень_двойки) | Степень двойки | - | 1 ms | 2026-05-10 |
 | [M076D](./M076D_минимальное_максимальное_ребро) | Минимальное Максимальное Ребро | - | 89 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M077B](./M077B_galati_oyin) | G'alati o'yin | - | 1 ms | 2026-05-10 |
 | [M077A](./M077A_agentlik_olimpiadasi) | Agentlik olimpiadasi | - | 1 ms | 2026-05-10 |
 | [M077D](./M077D_ortacha_maosh) | O'rtacha maosh | - | 44 ms | 2026-05-10 |
-| [M077E](./M077E_navbat) | Navbat | - | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
