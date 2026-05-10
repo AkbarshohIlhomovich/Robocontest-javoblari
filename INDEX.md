@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T12:39:11_
+_Yangilangan: 2026-05-10T12:39:54_
 
-Jami: **25** ta masala
+Jami: **26** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -22,6 +22,7 @@ Jami: **25** ta masala
 | [A0022](./A0022_super_daraja) | Super daraja | #Sonlar nazariyasi | 45% | 1 ms | 0 KB |
 | [M033A](./M033A_asilbek_yoqotgan_son) | Asilbek yo`qotgan son |  | 1% | 1 ms | 0 KB |
 | [M034A](./M034A_yangi_yil_archasi) | Yangi yil archasi |  | 1% | 1 ms | 0 KB |
+| [M034C](./M034C_quruvchi_xumoy) | Quruvchi Xumoy |  | 1% | 2 ms | 0 KB |
 | [M037E](./M037E_ikki_bandit) | Ikki bandit |  | 1% | 1 ms | 0 KB |
 | [M038B](./M038B_kvadrat) | Kvadrat |  | 1% | 1 ms | 0 KB |
 | [M040D](./M040D_yongoqlar) | Yong’oqlar |  | 1% | 1 ms | 0 KB |
