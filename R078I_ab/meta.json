@@ -1,0 +1,14 @@
+{
+  "task_id": "R078I",
+  "title": "A+B",
+  "category": "#Oson",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 16,
+  "verdict": {
+    "submission_id": "10992726",
+    "time_ms": 0,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-10T12:20:20"
+}

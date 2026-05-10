@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-09T16:41:18_
+_Yangilangan: 2026-05-10T12:39:11_
 
-Jami: **14** ta masala
+Jami: **25** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -20,3 +20,14 @@ Jami: **14** ta masala
 | [A0020](./A0020_kanfetlar) | Kanfetlar | #Dinamik dasturlash | 30% | 1 ms | 0 KB |
 | [A0021](./A0021_smith_soni) | Smith soni | #Sonlar nazariyasi | 17% | 1 ms | 0 KB |
 | [A0022](./A0022_super_daraja) | Super daraja | #Sonlar nazariyasi | 45% | 1 ms | 0 KB |
+| [M033A](./M033A_asilbek_yoqotgan_son) | Asilbek yo`qotgan son |  | 1% | 1 ms | 0 KB |
+| [M034A](./M034A_yangi_yil_archasi) | Yangi yil archasi |  | 1% | 1 ms | 0 KB |
+| [M037E](./M037E_ikki_bandit) | Ikki bandit |  | 1% | 1 ms | 0 KB |
+| [M038B](./M038B_kvadrat) | Kvadrat |  | 1% | 1 ms | 0 KB |
+| [M040D](./M040D_yongoqlar) | Yong’oqlar |  | 1% | 1 ms | 0 KB |
+| [M041A](./M041A_gulliver) | Gulliver |  | 1% | 1 ms | 0 KB |
+| [M043C](./M043C_oshib_borish) | Oshib borish |  | 1% | 2 ms | 0 KB |
+| [M058A](./M058A_bunyodbekning_dostlari) | Bunyodbekning do‘stlari |  | 1% | 1 ms | 0 KB |
+| [M058B](./M058B_magnit_raqamlar) | Magnit raqamlar |  | 1% | 1 ms | 0 KB |
+| [R059E](./R059E_ajoyib_oyin) | Ajoyib o'yin |  | 1% | 2 ms | 0 KB |
+| [R078I](./R078I_ab) | A+B | #Oson | 1% | 0 ms | 0 KB |
