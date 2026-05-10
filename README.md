@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-85-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-86-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 85 ta masala
-- **O'rtacha qiyinchilik**: 4.2%
-- **O'rtacha vaqt**: 32.0 ms
-- **Eng oxirgi**: [M073G — Satrni qayta qurish](./M073G_satrni_qayta_qurish) _(2026-05-10)_
+- **Jami yechilgan**: 86 ta masala
+- **O'rtacha qiyinchilik**: 4.1%
+- **O'rtacha vaqt**: 31.6 ms
+- **Eng oxirgi**: [M073H — Modullar yig'indisi](./M073H_modullar_yigindisi) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 71 |
+| Kategoriyasiz | 72 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M073H](./M073H_modullar_yigindisi) | Modullar yig'indisi | - | 2 ms | 2026-05-10 |
 | [M073G](./M073G_satrni_qayta_qurish) | Satrni qayta qurish | - | 1 ms | 2026-05-10 |
 | [M073A](./M073A_vazifalar) | Vazifalar | - | 1 ms | 2026-05-10 |
 | [M073B](./M073B_ikkilik_yigindi) | Ikkilik yig'indi | - | 1 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M070B](./M070B_fruits_mevalar) | Fruits (Mevalar) | - | 0 ms | 2026-05-10 |
 | [M087E](./M087E_permutatsiya) | Permutatsiya | - | 2 ms | 2026-05-10 |
 | [M087B](./M087B_tik_tak_toe) | Tik Tak Toe | - | 1 ms | 2026-05-10 |
-| [M087A](./M087A_koordinatalar_sistemasi) | Koordinatalar sistemasi | - | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
