@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T13:06:28_
+_Yangilangan: 2026-05-10T13:07:12_
 
-Jami: **39** ta masala
+Jami: **40** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -39,6 +39,7 @@ Jami: **39** ta masala
 | [M057C](./M057C_sakrashlar_soni) | Sakrashlar soni | #Matematika | 1% | 1 ms | 0 KB |
 | [M058A](./M058A_bunyodbekning_dostlari) | Bunyodbekning do‘stlari |  | 1% | 1 ms | 0 KB |
 | [M058B](./M058B_magnit_raqamlar) | Magnit raqamlar |  | 1% | 1 ms | 0 KB |
+| [M064F](./M064F_ketma-ketlik_ab) | Ketma-ketlik a/b |  | 1% | 1 ms | 0 KB |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar |  | 1% | 7 ms | 0 KB |
 | [M084C](./M084C_qutilar) | Qutilar |  | 1% | 1 ms | 0 KB |
 | [M091F](./M091F_kanji_for_king_王) | Kanji for king (王) |  | 1% | 38 ms | 5216 KB |
