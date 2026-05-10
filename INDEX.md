@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T12:44:11_
+_Yangilangan: 2026-05-10T12:44:41_
 
-Jami: **31** ta masala
+Jami: **32** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -33,6 +33,7 @@ Jami: **31** ta masala
 | [M047B](./M047B_juft_karrali) | Juft karrali | #Oson | 1% | 1 ms | 0 KB |
 | [M047C](./M047C_taqqoslash) | Taqqoslash |  | 1% | 1 ms | 0 KB |
 | [M047E](./M047E_natural_son_2) | Natural son #2 |  | 1% | 1 ms | 0 KB |
+| [M054E](./M054E_damino_toshlari) | Damino toshlari |  | 1% | 1 ms | 0 KB |
 | [M058A](./M058A_bunyodbekning_dostlari) | Bunyodbekning do‘stlari |  | 1% | 1 ms | 0 KB |
 | [M058B](./M058B_magnit_raqamlar) | Magnit raqamlar |  | 1% | 1 ms | 0 KB |
 | [R059E](./R059E_ajoyib_oyin) | Ajoyib o'yin |  | 1% | 2 ms | 0 KB |
