@@ -1,0 +1,14 @@
+{
+  "task_id": "M076D",
+  "title": "Минимальное Максимальное Ребро",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 2000,
+  "memory_limit_mb": 32,
+  "verdict": {
+    "submission_id": "10993246",
+    "time_ms": 89,
+    "memory_kb": 5660
+  },
+  "saved_at": "2026-05-10T14:50:04"
+}

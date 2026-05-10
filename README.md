@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-72-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-73-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 72 ta masala
+- **Jami yechilgan**: 73 ta masala
 - **O'rtacha qiyinchilik**: 4.7%
-- **O'rtacha vaqt**: 36.1 ms
-- **Eng oxirgi**: [M076B — Космическая Балансировка](./M076B_космическая_балансировка) _(2026-05-10)_
+- **O'rtacha vaqt**: 36.8 ms
+- **Eng oxirgi**: [M076D — Минимальное Максимальное Ребро](./M076D_минимальное_максимальное_ребро) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 58 |
+| Kategoriyasiz | 59 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M076D](./M076D_минимальное_максимальное_ребро) | Минимальное Максимальное Ребро | - | 89 ms | 2026-05-10 |
 | [M076B](./M076B_космическая_балансировка) | Космическая Балансировка | - | 7 ms | 2026-05-10 |
 | [M075A](./M075A_yuklar) | Yuklar | - | 550 ms | 2026-05-10 |
 | [M076A](./M076A_анаграмматический_хаос) | Анаграмматический Хаос | - | 8 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M077E](./M077E_navbat) | Navbat | - | 1 ms | 2026-05-10 |
 | [R094D](./R094D_teleportatsiya) | Teleportatsiya | #Matrix | 1069 ms | 2026-05-10 |
 | [M074G](./M074G_orollar_urushi) | Orollar urushi | - | 33 ms | 2026-05-10 |
-| [M072E](./M072E_yoqolgan_son) | Yo'qolgan son | - | 14 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
