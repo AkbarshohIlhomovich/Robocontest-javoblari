@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T12:47:56_
+_Yangilangan: 2026-05-10T12:48:52_
 
-Jami: **36** ta masala
+Jami: **37** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -36,6 +36,7 @@ Jami: **36** ta masala
 | [M054E](./M054E_damino_toshlari) | Damino toshlari |  | 1% | 1 ms | 0 KB |
 | [M057A](./M057A_teskari2) | Teskari^2 | #Oson | 1% | 1 ms | 0 KB |
 | [M057B](./M057B_operatsiyalar_soni) | Operatsiyalar soni |  | 1% | 1 ms | 0 KB |
+| [M057C](./M057C_sakrashlar_soni) | Sakrashlar soni | #Matematika | 1% | 1 ms | 0 KB |
 | [M058A](./M058A_bunyodbekning_dostlari) | Bunyodbekning do‘stlari |  | 1% | 1 ms | 0 KB |
 | [M058B](./M058B_magnit_raqamlar) | Magnit raqamlar |  | 1% | 1 ms | 0 KB |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar |  | 1% | 7 ms | 0 KB |
