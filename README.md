@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-91-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-92-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 91 ta masala
-- **O'rtacha qiyinchilik**: 4.0%
-- **O'rtacha vaqt**: 34.3 ms
-- **Eng oxirgi**: [M079C — O'yin maydonchasi](./M079C_oyin_maydonchasi) _(2026-05-10)_
+- **Jami yechilgan**: 92 ta masala
+- **O'rtacha qiyinchilik**: 3.9%
+- **O'rtacha vaqt**: 36.1 ms
+- **Eng oxirgi**: [M079F — Karantin](./M079F_karantin) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 77 |
+| Kategoriyasiz | 78 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M079F](./M079F_karantin) | Karantin | - | 204 ms | 2026-05-10 |
 | [M079C](./M079C_oyin_maydonchasi) | O'yin maydonchasi | - | 385 ms | 2026-05-10 |
 | [M080H](./M080H_merlin) | Merlin | - | 1 ms | 2026-05-10 |
 | [M080F](./M080F_dunes) | Dunes | - | 3 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M073G](./M073G_satrni_qayta_qurish) | Satrni qayta qurish | - | 1 ms | 2026-05-10 |
 | [M073A](./M073A_vazifalar) | Vazifalar | - | 1 ms | 2026-05-10 |
 | [M073B](./M073B_ikkilik_yigindi) | Ikkilik yig'indi | - | 1 ms | 2026-05-10 |
-| [M073E](./M073E_togri_chiziq) | To'g'ri chiziq | - | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
