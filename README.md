@@ -6,7 +6,7 @@
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-48-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-49-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -44,10 +44,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 48 ta masala
-- **O'rtacha qiyinchilik**: 6.6%
-- **O'rtacha vaqt**: 13.4 ms
-- **Eng oxirgi**: [M069H — Satrni tiklash](./M069H_satrni_tiklash) _(2026-05-10)_
+- **Jami yechilgan**: 49 ta masala
+- **O'rtacha qiyinchilik**: 6.5%
+- **O'rtacha vaqt**: 13.1 ms
+- **Eng oxirgi**: [M072D — Futbol o'yini](./M072D_futbol_oyini) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -55,7 +55,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 35 |
+| Kategoriyasiz | 36 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -68,6 +68,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M072D](./M072D_futbol_oyini) | Futbol o'yini | - | 1 ms | 2026-05-10 |
 | [M069H](./M069H_satrni_tiklash) | Satrni tiklash | - | 10 ms | 2026-05-10 |
 | [M069J](./M069J_oquv_mashguloti) | O'quv mashg'uloti | - | 209 ms | 2026-05-10 |
 | [M069K](./M069K_qoyxona) | Qo'yxona | - | 103 ms | 2026-05-10 |
@@ -77,7 +78,6 @@ solutions/
 | [M064C](./M064C_k_belgili_satr) | K belgili satr | - | 1 ms | 2026-05-10 |
 | [M064D](./M064D_qavslar) | Qavslar | - | 26 ms | 2026-05-10 |
 | [M064F](./M064F_ketma-ketlik_ab) | Ketma-ketlik a/b | - | 1 ms | 2026-05-10 |
-| [M091F](./M091F_kanji_for_king_王) | Kanji for king (王) | - | 38 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
