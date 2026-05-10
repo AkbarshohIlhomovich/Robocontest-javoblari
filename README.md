@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-61-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-62-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 61 ta masala
-- **O'rtacha qiyinchilik**: 5.4%
-- **O'rtacha vaqt**: 14.3 ms
-- **Eng oxirgi**: [M072H — +1](./M072H_1) _(2026-05-10)_
+- **Jami yechilgan**: 62 ta masala
+- **O'rtacha qiyinchilik**: 5.3%
+- **O'rtacha vaqt**: 14.1 ms
+- **Eng oxirgi**: [M072J — Kvitansiya](./M072J_kvitansiya) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 48 |
+| Kategoriyasiz | 49 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -79,6 +79,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M072J](./M072J_kvitansiya) | Kvitansiya | - | 1 ms | 2026-05-10 |
 | [M072H](./M072H_1) | +1 | - | 1 ms | 2026-05-10 |
 | [M071E](./M071E_two_trees_ikki_daraxt) | Two Trees (Ikki daraxt) | - | 0 ms | 2026-05-10 |
 | [M071D](./M071D_thanos_sort) | Thanos sort | - | 0 ms | 2026-05-10 |
@@ -88,7 +89,6 @@ solutions/
 | [M070A](./M070A_extensions_uzaytirgichlar) | Extensions (uzaytirgichlar) | - | 0 ms | 2026-05-10 |
 | [R095D](./R095D_ifodani_maksimallashtirish) | Ifodani maksimallashtirish | - | 32 ms | 2026-05-10 |
 | [M074B](./M074B_daraxtdagi_lis) | Daraxtdagi LIS | - | 174 ms | 2026-05-10 |
-| [M072G](./M072G_floor_funksiyasi) | Floor funksiyasi | - | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)

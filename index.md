@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T14:07:43_
+_Yangilangan: 2026-05-10T14:08:29_
 
-Jami: **61** ta masala
+Jami: **62** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -58,6 +58,7 @@ Jami: **61** ta masala
 | [M072F](./M072F_1) | 1% |  | 1% | 1 ms | 0 KB |
 | [M072G](./M072G_floor_funksiyasi) | Floor funksiyasi |  | 1% | 1 ms | 0 KB |
 | [M072H](./M072H_1) | +1 |  | 1% | 1 ms | 0 KB |
+| [M072J](./M072J_kvitansiya) | Kvitansiya |  | 1% | 1 ms | 0 KB |
 | [M073D](./M073D_juda_kop_talablar) | Juda ko'p talablar |  | 1% | 18 ms | 0 KB |
 | [M074B](./M074B_daraxtdagi_lis) | Daraxtdagi LIS |  | 1% | 174 ms | 26208 KB |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar |  | 1% | 7 ms | 0 KB |
