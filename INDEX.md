@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T12:41:45_
+_Yangilangan: 2026-05-10T12:42:19_
 
-Jami: **27** ta masala
+Jami: **28** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -25,6 +25,7 @@ Jami: **27** ta masala
 | [M034C](./M034C_quruvchi_xumoy) | Quruvchi Xumoy |  | 1% | 2 ms | 0 KB |
 | [M034F](./M034F_tadqiqotchi_fedya) | Tadqiqotchi Fedya |  | 1% | 58 ms | 0 KB |
 | [M037E](./M037E_ikki_bandit) | Ikki bandit |  | 1% | 1 ms | 0 KB |
+| [M038A](./M038A_piima_olimpiadasiga_xush_kelibsiz_2) | PIIMA olimpiadasiga xush kelibsiz #2 |  | 1% | 1 ms | 0 KB |
 | [M038B](./M038B_kvadrat) | Kvadrat |  | 1% | 1 ms | 0 KB |
 | [M040D](./M040D_yongoqlar) | Yong’oqlar |  | 1% | 1 ms | 0 KB |
 | [M041A](./M041A_gulliver) | Gulliver |  | 1% | 1 ms | 0 KB |
