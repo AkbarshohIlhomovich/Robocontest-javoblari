@@ -1,3 +1,10 @@
+---
+title: "M074B — Daraxtdagi LIS | Robocontest.uz Yechimi"
+description: "Robocontest.uz M074B (Daraxtdagi LIS) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 64 MB."
+keywords: "robocontest M074B, Daraxtdagi LIS yechimi, robocontest Daraxtdagi LIS, M074B c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M074B — Daraxtdagi LIS
 
 ## Masala haqida
@@ -165,3 +172,14 @@ int main() {
 *   **1-indekslangan tugunlar**: Masala va kod tugunlarni 1-dan `N` gacha indekslaydi. Bu `a` va `adj` massivlari uchun `MAXN` hajmini to'g'ri belgilashni talab qiladi.
 *   **`LIS_tails` tartibi**: `LIS_tails` vektori har doim o'suvchi tartibda saqlanadi, bu `lower_bound` funksiyasining to'g'ri ishlashi uchun zarur.
 *   **Backtracking (Ortga qaytish)**: DFSda global holatni (bu yerda `LIS_tails`) o'zgartirganda, tugundan chiqishda uni oldingi holatiga qaytarish zarur. Bu, daraxtning turli shoxlarini bir-biridan mustaqil ravishda qayta ishlash imkonini beradi. Aks holda, bir shoxdagi o'zgarishlar boshqa shoxlarga noto'g'ri ta'sir qilishi mumkin.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M074B) platformasidagi **M074B** raqamli **Daraxtdagi LIS** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M074B>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M074B, Daraxtdagi LIS yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

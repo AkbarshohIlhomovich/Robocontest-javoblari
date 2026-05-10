@@ -1,3 +1,10 @@
+---
+title: "M047B — Juft karrali | Robocontest.uz Yechimi"
+description: "Robocontest.uz M047B (Juft karrali) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Oson. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M047B, Juft karrali yechimi, robocontest Juft karrali, M047B c++ kod, oson, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M047B — Juft karrali
 
 ## Masala haqida
@@ -52,3 +59,14 @@ int main() {
 - **Kichik sonlar**: Agar `n=1` bo'lsa (toq son), kod `2 * 1 = 2` ni chiqaradi, bu to'g'ri. Agar `n=2` bo'lsa (juft son), kod `2` ni chiqaradi, bu ham to'g'ri.
 - **Natural sonlar**: Masala matnida `n` ning natural son ekanligi ko'rsatilgan. Natural sonlar odatda 1 dan boshlab musbat butun sonlarni anglatadi. Shuning uchun `n` hech qachon 0 yoki manfiy bo'lmaydi.
 - **Maksimal qiymat**: `n` ning maksimal qiymati 1000. Agar `n=1000` bo'lsa (juft), javob 1000 bo'ladi. Agar `n=999` bo'lsa (toq), javob `2 * 999 = 1998` bo'ladi. Bu qiymatlar `int` turiga sig'adi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M047B) platformasidagi **M047B** raqamli **Juft karrali** masalasi. U **Oson** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M047B>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M047B, Juft karrali yechimi, robocontest masalalari, c++17, olimpiada yechimi, oson, dasturlash uzbek, competitive programming O'zbekiston.</sub>

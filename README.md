@@ -1,8 +1,19 @@
-<h1 align="center">Robocontest.uz yechimlari</h1>
+---
+title: "Robocontest.uz Yechimlari — C++ Algoritm Masalalari Arxivi"
+description: "Robocontest.uz masalalari uchun C++17 yechimlari va o'zbek tilida batafsil tushuntirishlar. Algoritm, dinamik dasturlash, sonlar nazariyasi bo'yicha 50+ yechilgan masala."
+keywords: "robocontest, robocontest.uz, robocontest yechimlari, robocontest masalalari, C++ algoritm, competitive programming O'zbekiston, dasturlash masalalari, olimpiada yechimlari, PIIMA olimpiada, algoritm darslar, dinamik dasturlash, sonlar nazariyasi, c++17, dasturlash uzbek, olimpiada masalalari"
+author: "Akbarshoh Dadamirzayev"
+lang: uz
+---
+
+<h1 align="center">Robocontest.uz Masalalari Yechimlari — C++ Algoritm Arxivi</h1>
 
 <p align="center">
-  <i><a href="https://robocontest.uz">robocontest.uz</a> platformasidan masalalarning <b>C++17 yechimlari</b> va o'zbek tilida batafsil tushuntirishlari</i>
+  <b><a href="https://robocontest.uz">Robocontest.uz</a></b> dasturlash olimpiadasi platformasidagi masalalarning to'liq <b>C++17 yechimlari</b> va o'zbek tilida batafsil tushuntirishlari to'plami.
+  Algoritm, ma'lumotlar tuzilmalari, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha hujjatlangan yechimlar.
 </p>
+
+> **Robocontest masalalari yechimlari**, **olimpiada yechimlari**, **C++ algoritm**, **competitive programming** va boshqa kalit so'zlar bo'yicha qidiruvda topish mumkin.
 
 <!-- AUTO:badges-START -->
 <p align="center">

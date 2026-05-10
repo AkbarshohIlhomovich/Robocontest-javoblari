@@ -1,3 +1,10 @@
+---
+title: "M058A — Bunyodbekning do‘stlari | Robocontest.uz Yechimi"
+description: "Robocontest.uz M058A (Bunyodbekning do‘stlari) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M058A, Bunyodbekning do‘stlari yechimi, robocontest Bunyodbekning do‘stlari, M058A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M058A — Bunyodbekning do‘stlari
 
 ## Masala haqida
@@ -59,3 +66,14 @@ Bu asosiy hisoblash va chiqarish qatoridir. `n - 3` ifodasi Bunyodbekning "fast 
 ## Edge case lar va eslatmalar
 -   **`N` ning minimal qiymati**: Masala shartida `N` ning minimal qiymati 3 ekanligi aytilgan (`3 <= N <= 50`). Bu muhim, chunki agar `N` 3 dan kichik bo'lganida (masalan, `N = 2`), `n - 3` natijasi manfiy (-1) bo'lar edi, bu esa do'stlar soni uchun mantiqiy xato hisoblanadi. `N >= 3` sharti sababli, `n - 3` natijasi har doim manfiy bo'lmagan (nol yoki musbat) son bo'lib chiqadi, bu esa vaziyatga to'g'ri keladi (masalan, `N=3` bo'lsa, `3-3=0` do'st buyurtma qiladi).
 -   **Chalg'ituvchi ma'lumot (red herring)**: Masala shartida Bunyodbekning o'zi ham o'zi bilan tushlik olib kelgani haqida aytilgan. Bu ma'lumot faqatgina hikoyani to'ldirish uchun berilgan bo'lib, "Bunyodning nechta do‘stlari “fast food” buyurtma qilishdi?" degan savolga javob berishda hech qanday rol o'ynamaydi. Faqatgina Halim, Salim va Bilolning buyurtma qilmaganligi muhim.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M058A) platformasidagi **M058A** raqamli **Bunyodbekning do‘stlari** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M058A>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M058A, Bunyodbekning do‘stlari yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

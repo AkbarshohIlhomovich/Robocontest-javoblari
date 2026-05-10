@@ -1,3 +1,10 @@
+---
+title: "M034C — Quruvchi Xumoy | Robocontest.uz Yechimi"
+description: "Robocontest.uz M034C (Quruvchi Xumoy) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M034C, Quruvchi Xumoy yechimi, robocontest Quruvchi Xumoy, M034C c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M034C — Quruvchi Xumoy
 
 ## Masala haqida
@@ -63,3 +70,14 @@ int main() {
 *   **Minimal qiymatlar**: `X` va `Y` minimal `1` bo'lishi mumkin. Masalan, `1 1` bo'lsa, EKUB `1` ga teng. Natija `2 * (1 + 1) / 1 = 4`. Bu ham to'g'ri.
 *   **`std::gcd` funksiyasi**: Bu funksiya C++17 standartining bir qismidir. Agar eskiroq C++ versiyasi ishlatilayotgan bo'lsa, Evklid algoritmini qo'lda implementatsiya qilish yoki `<numeric>` kutubxonasini `<bits/stdc++.h>` o'rniga kiritish kerak bo'ladi (garchi `<bits/stdc++.h>` odatda uni ham o'z ichiga olsa ham).
 *   **Butun sonli bo'lish**: `(X + Y)` har doim `common_divisor` ga bo'linadi, chunki `common_divisor` `X` va `Y` ning bo'luvchisi bo'lgani uchun, ularning yig'indisi ham `common_divisor` ga bo'linadi. Shuning uchun `(X + Y) / common_divisor` qoldiqsiz butun son bo'ladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M034C) platformasidagi **M034C** raqamli **Quruvchi Xumoy** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M034C>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M034C, Quruvchi Xumoy yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

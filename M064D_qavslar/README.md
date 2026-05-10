@@ -1,3 +1,10 @@
+---
+title: "M064D — Qavslar | Robocontest.uz Yechimi"
+description: "Robocontest.uz M064D (Qavslar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M064D, Qavslar yechimi, robocontest Qavslar, M064D c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 Bu dokumentatsiya `M064D — Qavslar` masalasining C++ tilidagi AC (Accepted) yechimini chuqur tushuntirish uchun mo'ljallangan.
 
 # M064D — Qavslar
@@ -172,3 +179,14 @@ int main() {
 *   **Mos kelmaydigan qavslar:** Agar `')'` kelganda `open_paren_indices_stack` bo'sh bo'lsa, bu yopuvchi qavsga mos keluvchi ochuvchi qavs yo'q degani. Bunday holatda `dp[current_idx]` `0` bo'lib qoladi va `total_rbs_count` ga hech narsa qo'shilmaydi. Bu to'g'ri, chunki mos kelmaydigan qavs bilan tugaydigan yaxshi qism-satr bo'lishi mumkin emas.
 *   **`match_idx > 0` sharti:** `dp[current_idx] += dp[match_idx - 1]` qismida `match_idx - 1` indeksining haqiqiy ekanligini ta'minlash uchun `match_idx > 0` sharti juda muhim. Agar `match_idx` `0` bo'lsa, `str_vec[0]` ochuvchi qavs bo'ladi va undan oldin hech qanday belgi mavjud emas, shuning uchun `dp[-1]` ga murojaat qilish xato bo'ladi. Kod bu holatni to'g'ri boshqaradi.
 *   **`long long` ishlatish:** `total_rbs_count` va `dp` massividagi qiymatlar katta sonlarga yetishi mumkin (200,000 uzunlikdagi satrda potentsial yaxshi qism-satrlar soni juda ko'p bo'lishi mumkin), shuning uchun `int` o'rniga `long long` ma'lumot turini ishlatish to'g'ri tanlov.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M064D) platformasidagi **M064D** raqamli **Qavslar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M064D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M064D, Qavslar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

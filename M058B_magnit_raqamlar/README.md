@@ -1,3 +1,10 @@
+---
+title: "M058B — Magnit raqamlar | Robocontest.uz Yechimi"
+description: "Robocontest.uz M058B (Magnit raqamlar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M058B, Magnit raqamlar yechimi, robocontest Magnit raqamlar, M058B c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M058B — Magnit raqamlar
 
 ## Masala haqida
@@ -68,3 +75,14 @@ int main() {
 *   **Ikki xonali sonlar, bir xil raqamlar bilan**: Masalan, 11, 22, ..., 99. Bu sonlarning raqamlari o'rnini almashtirsak ham, avvalgi sonning o'zi hosil bo'ladi. Kodning `if (d1 == d2)` sharti bu holatni aniqlab, "NO" chiqaradi.
 *   **Ikki xonali sonlar, har xil raqamlar bilan**: Masalan, 10, 23, 54. Bu sonlarning raqamlari o'rnini almashtirsak, har doim avvalgi sondan farqli boshqa son hosil bo'ladi. Kodning `else { cout << "YES" << endl; }` qismi bu holatni to'g'ri ishladi.
 *   **Kirish cheklovlari**: `1 <= N < 100` sharti masalaning murakkabligini sezilarli darajada kamaytiradi. Sonning uzunligi doimiy (bir yoki ikki raqamli) bo'lganligi sababli, murakkab algoritm yoki ma'lumotlar tuzilmalaridan foydalanishga hojat qolmaydi, to'g'ridan-to'g'ri raqamlarni ajratib olish va taqqoslash kifoya.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M058B) platformasidagi **M058B** raqamli **Magnit raqamlar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M058B>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M058B, Magnit raqamlar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

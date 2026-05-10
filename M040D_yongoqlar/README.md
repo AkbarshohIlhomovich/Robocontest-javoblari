@@ -1,3 +1,10 @@
+---
+title: "M040D — Yong’oqlar | Robocontest.uz Yechimi"
+description: "Robocontest.uz M040D (Yong’oqlar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M040D, Yong’oqlar yechimi, robocontest Yong’oqlar, M040D c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M040D — Yong’oqlar
 
 ## Masala haqida
@@ -75,3 +82,14 @@ int main() {             // 3
 ## Edge case lar va eslatmalar
 *   **Yechim mavjudligi kafolati**: Masala matnida "Yechim mavjudligi kafolatlanadi" deyilgan. Bu `S` har doim 6 ga qoldiqsiz bo'linadigan son bo'ladi degan ma'noni anglatadi. Shuning uchun `S / 6` amali har doim butun son natijasini beradi va biz yong'oqlar soni kasr bo'lishi mumkinligi haqida tashvishlanishimiz shart emas.
 *   **Ma'lumotlar diapazoni**: `S < 10^6` sharti `int` turidagi o'zgaruvchilardan foydalanishga imkon beradi, chunki `int` tipi C++ da odatda `2 * 10^9` gacha bo'lgan butun sonlarni saqlay oladi. Hisoblashlarda (masalan, `4 * D`) ham qiymatlar `int` chegarasidan chiqib ketmaydi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M040D) platformasidagi **M040D** raqamli **Yong’oqlar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M040D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M040D, Yong’oqlar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

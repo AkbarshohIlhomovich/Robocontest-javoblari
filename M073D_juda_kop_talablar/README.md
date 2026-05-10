@@ -1,3 +1,10 @@
+---
+title: "M073D — Juda ko'p talablar | Robocontest.uz Yechimi"
+description: "Robocontest.uz M073D (Juda ko'p talablar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M073D, Juda ko'p talablar yechimi, robocontest Juda ko'p talablar, M073D c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M073D — Juda ko'p talablar
 
 ## Masala haqida
@@ -130,3 +137,14 @@ int main() {
 *   **`long long` ishlatish**: `d_i` qiymati $10^5$ gacha, `Q` esa 50 gacha bo'lishi mumkin. Bu degani, umumiy natija $50 \times 10^5 = 5 \times 10^6$ gacha yetishi mumkin. `int` tipining maksimal qiymati taxminan $2 \times 10^9$ bo'lganligi sababli, bu masala uchun `int` tipi ham yetarli bo'lardi. Biroq, `long long` dan foydalanish har doim katta yig'indilarni hisoblashda xavfsizlikni ta'minlaydi va yaxshi amaliyot hisoblanadi.
 *   **`prev_val` ning muhimligi**: `solve(index + 1, val)` rekursiv chaqiruvida `val` ning ikkinchi parametr sifatida berilishi juda muhimdir. Bu `A` ketma-ketligining `A_k >= A_{k-1}` shartni qanoatlantirishini ta'minlaydi, ya'ni ketma-ketlik o'smaydigan (non-decreasing) bo'ladi.
 *   **Kichik cheklovlar**: `N` va `M` uchun kichik cheklovlar (maksimal 10) bunday brut-kuch/qaytarma yechimning samarali bo'lishiga imkon beradi. Agar bu cheklovlar katta bo'lganida, boshqa (masalan, dinamik dasturlash kabi) yondashuvlar kerak bo'lar edi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M073D) platformasidagi **M073D** raqamli **Juda ko'p talablar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M073D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M073D, Juda ko'p talablar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

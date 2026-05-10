@@ -1,3 +1,10 @@
+---
+title: "M043C — Oshib borish | Robocontest.uz Yechimi"
+description: "Robocontest.uz M043C (Oshib borish) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M043C, Oshib borish yechimi, robocontest Oshib borish, M043C c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M043C — Oshib borish
 
 ## Masala haqida
@@ -91,3 +98,14 @@ int main() {
 *   **Barcha elementlar bir xil bo'lgan holat**: Agar `n > 1` va barcha elementlar bir xil bo'lsa (masalan, `[1, 1, 1, 1]`), tartiblangandan keyin ham ular bir xil bo'ladi. Birinchi `a[i] == a[i-1]` tekshiruvda dublikat topiladi va "NO" chiqariladi, bu to'g'ri.
 *   **Katta sonlar**: Massiv elementlari $10^9$ gacha bo'lishi mumkin. `int` ma'lumot turi C++ da odatda $2 \times 10^9$ gacha bo'lgan sonlarni saqlay oladi, shuning uchun bu qiymatlar `int` turiga sig'adi.
 *   **I/O tezlashtirish**: `ios_base::sync_with_stdio(false); cin.tie(0);` qatorlari C++ dagi standart kirish-chiqish (I/O) operatsiyalarini tezlashtirish uchun ishlatiladi. Bu ayniqsa katta hajmdagi kirish ma'lumotlari (ko'p testlar yoki katta $N$) bo'lganda vaqt limitiga rioya qilishga yordam beradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M043C) platformasidagi **M043C** raqamli **Oshib borish** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M043C>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M043C, Oshib borish yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

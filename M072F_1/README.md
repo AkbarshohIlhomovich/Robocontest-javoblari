@@ -1,3 +1,10 @@
+---
+title: "M072F — 1% | Robocontest.uz Yechimi"
+description: "Robocontest.uz M072F (1%) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M072F, 1% yechimi, robocontest 1%, M072F c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M072F — 1%
 
 ## Masala haqida
@@ -63,3 +70,14 @@ int main() {
 *   **Butun sonli bo'lish (Integer Division)**: C++ dagi butun sonli bo'lish (`balance / 100`) avtomatik ravishda bo'linmaning faqat butun qismini qaytaradi. Bu masalaning "bir dollardan kamroq qismi hisobga olinmaydi" degan shartini bajarishning oddiy va samarali usuli hisoblanadi. Masalan, agar `balance` 101 bo'lsa, `101 / 100` ning natijasi 1 bo'ladi (qoldiq 1 e'tiborsiz qoldiriladi).
 *   **Tsikl sharti**: `while (balance < X)` sharti balansi `X` dan kam ekan, yillarni hisoblashni davom ettiradi. Balans `X` ga teng bo'lganda yoki undan oshganda tsikl to'xtaydi va shu nuqtaga qadar o'tgan yillar soni chiqariladi. Bu masalaning "birinchi marta X dollar yoki undan yuqori darajaga yetadi" degan talabini to'g'ri bajaradi.
 *   **Minimal $X$ qiymati**: Masala bo'yicha $X \ge 101$. Agar $X=101$ bo'lsa, birinchi yil oxirida balans 101 dollarga yetadi va javob 1 bo'ladi. Kod bu holatni to'g'ri boshqaradi. (100 -> 101, 1 yil).
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072F) platformasidagi **M072F** raqamli **1%** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M072F>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M072F, 1% yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

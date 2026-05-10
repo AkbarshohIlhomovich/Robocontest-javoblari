@@ -1,3 +1,10 @@
+---
+title: "M070A — Extensions (uzaytirgichlar) | Robocontest.uz Yechimi"
+description: "Robocontest.uz M070A (Extensions (uzaytirgichlar)) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 512 MB."
+keywords: "robocontest M070A, Extensions (uzaytirgichlar) yechimi, robocontest Extensions (uzaytirgichlar), M070A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M070A — Extensions (uzaytirgichlar)
 
 ## Masala haqida
@@ -70,3 +77,14 @@ int main() {
 *   **`a_i` ning minimal qiymati**: Masala shartiga ko'ra, har bir `a_i >= 2`. Bu degani, har bir uzaytirgichda kamida 2 ta rozetka bor. Bu esa har doim ijobiy natija chiqishini kafolatlaydi, chunki har bir uzaytirgich hech bo'lmaganda bitta telefonni quvvatlay oladi va agar kerak bo'lsa, o'zining bitta rozetkasini boshqa uzaytirgichni ulash uchun bera oladi.
     *   Masalan, \(N=2\), \(a_1=2, a_2=2\) bo'lsa: `total_sockets = 4`. Ulanishlar uchun `N-1 = 1`. Natija `4 - 1 = 3`. Birinchi pilot devorga ulanadi, ikkinchisi birinchi pilotga. Birinchi pilot o'zining bitta rozetkasini ikkinchi pilotga beradi, o'zida bitta rozetka qoladi. Ikkinchi pilot esa ikkita rozetkasini telefonlarga beradi. Jami: 1 + 2 = 3 ta telefon. Bu formulaga mos keladi.
 *   **`long long` dan foydalanish**: `total_sockets` o'zgaruvchisi uchun `long long` ma'lumot turi ishlatilishi, \(N\) va \(a_i\) ning maksimal qiymatlarida ( \(N=10^5, a_i=100\), yig'indi \(10^7\) ga yetishi mumkin) int ma'lumot turining chegarasidan oshib ketishining oldini oladi. Garchi `int` ko'pgina tizimlarda \(2 \cdot 10^9\) gacha qiymatlarni saqlay olsa ham, `long long` bunday hisob-kitoblar uchun xavfsizroq va umumiy amaliyot hisoblanadi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M070A) platformasidagi **M070A** raqamli **Extensions (uzaytirgichlar)** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M070A>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M070A, Extensions (uzaytirgichlar) yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

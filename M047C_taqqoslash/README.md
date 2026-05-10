@@ -1,3 +1,10 @@
+---
+title: "M047C — Taqqoslash | Robocontest.uz Yechimi"
+description: "Robocontest.uz M047C (Taqqoslash) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M047C, Taqqoslash yechimi, robocontest Taqqoslash, M047C c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M047C — Taqqoslash
 
 ## Masala haqida
@@ -86,3 +93,14 @@ Bu yerda `a`, `b`, `c` nomli uchta butun son turidagi o'zgaruvchilar e'lon qilin
 *   **Barcha sonlar turli**: Barcha uchta son turli bo'lishi mumkin (masalan, `-7 264 -584`). `std::set` barcha uchala sonni saqlaydi, natija `3` bo'ladi.
 
 `std::set` dan foydalanish ushbu barcha holatlarni avtomatik tarzda hal qiladi va qo'shimcha shartli ifodalarni (if-else) yozish zaruratini yo'q qiladi, bu esa kodni juda sodda va tushunarli qiladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M047C) platformasidagi **M047C** raqamli **Taqqoslash** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M047C>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M047C, Taqqoslash yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

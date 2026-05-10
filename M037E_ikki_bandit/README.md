@@ -1,3 +1,10 @@
+---
+title: "M037E — Ikki bandit | Robocontest.uz Yechimi"
+description: "Robocontest.uz M037E (Ikki bandit) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M037E, Ikki bandit yechimi, robocontest Ikki bandit, M037E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M037E — Ikki bandit
 
 ## Masala haqida
@@ -47,3 +54,14 @@ int main() {
 - **Minimal qutilar soni**: Masala shartiga ko'ra, Garri va Larri "bir xil so'nggi qutini otishgan". Bu shuni anglatadiki, `H` va `L` kamida 1 ga teng bo'lishi kerak. Agar `H=1` va `L=1` bo'lsa (ya'ni, jami bitta quti bor va ikkalasi ham uni otgan), unda Garri otmagan qutilar `1-1=0` va Larri otmagan qutilar `1-1=0` bo'ladi. Bu holat ham algoritm bilan to'g'ri hisoblanadi.
 - **Maksimal qutilar soni**: Masala matnida "10 tadan ko'p emas" deb berilgan. Bu cheklov juda kichik bo'lib, hisoblashda hech qanday muammoga olib kelmaydi va `int` turining diapazoniga bemalol sig'adi.
 - **Tezlashtirish uchun kod**: `std::ios_base::sync_with_stdio(false);` va `std::cin.tie(0);` qatorlari odatda katta kirish ma'lumotlariga ega bo'lgan masalalarda C++ I/O operatsiyalarini tezlashtirish uchun ishlatiladi. Ushbu masala uchun, kirish hajmi juda kichik bo'lgani sababli, bu optimizatsiyalar shart emas, lekin zarar ham qilmaydi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M037E) platformasidagi **M037E** raqamli **Ikki bandit** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M037E>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M037E, Ikki bandit yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

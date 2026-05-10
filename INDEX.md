@@ -1,6 +1,13 @@
+---
+title: "Robocontest.uz Yechimlari Indeksi — 55 ta masala"
+description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
+keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
+lang: uz
+---
+
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T13:36:34_
+_Yangilangan: 2026-05-10T13:40:56_
 
 Jami: **55** ta masala
 

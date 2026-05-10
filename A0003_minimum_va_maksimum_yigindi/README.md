@@ -1,3 +1,10 @@
+---
+title: "A0003 — Minimum va maksimum yig'indi | Robocontest.uz Yechimi"
+description: "Robocontest.uz A0003 (Minimum va maksimum yig'indi) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Oson. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest A0003, Minimum va maksimum yig'indi yechimi, robocontest Minimum va maksimum yig'indi, A0003 c++ kod, oson, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # A0003 — Minimum va maksimum yig'indi
 
 ## Masala haqida
@@ -91,3 +98,14 @@ int main() {
 *   **Katta sonlar va `long long`**: Sonlar `10^9` gacha bo'lganligi sababli, ularning yig'indisi `int` ma'lumot turining sig'imidan oshib ketishi mumkin. Shu sababli, barcha yig'indi va individual sonlarni saqlash uchun `long long` ma'lumot turidan foydalanish muhimdir. Aks holda, overflow (qiymat chegarasidan chiqib ketish) sodir bo'lishi va noto'g'ri natijalar berilishi mumkin.
 *   **Bitta sonni tashlab yuborish mantiqi**: Bu masala uchun eng muhim tushuncha, to'rtta sonni tanlash — bu bitta sonni tashlab yuborishga teng ekanligidir. Bu tushuncha yechimni juda soddalashtiradi.
 *   **Kod samaradorligi**: Kod `std::min_element` va `std::max_element` kabi standart kutubxona funksiyalaridan foydalanmasdan min/max qiymatlarini topadi. Bu unchalik farq qilmasa-da, doimiy kichik hajmli ma'lumotlar bilan ishlaganda o'zimizning oddiy tsikl yozish kutubxona funksiyalarini chaqirishdan biroz tezroq bo'lishi mumkin. Umumiy samaradorlik O(1) bo'lib qoladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0003) platformasidagi **A0003** raqamli **Minimum va maksimum yig'indi** masalasi. U **Oson** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/A0003>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest A0003, Minimum va maksimum yig'indi yechimi, robocontest masalalari, c++17, olimpiada yechimi, oson, dasturlash uzbek, competitive programming O'zbekiston.</sub>

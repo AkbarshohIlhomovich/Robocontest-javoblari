@@ -1,3 +1,10 @@
+---
+title: "M034F — Tadqiqotchi Fedya | Robocontest.uz Yechimi"
+description: "Robocontest.uz M034F (Tadqiqotchi Fedya) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 64 MB."
+keywords: "robocontest M034F, Tadqiqotchi Fedya yechimi, robocontest Tadqiqotchi Fedya, M034F c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M034F — Tadqiqotchi Fedya
 
 ## Masala haqida
@@ -111,3 +118,14 @@ Dastur `n` ta shahar bo'ylab bir marta iteratsiya qilib, `val_1` va `val_2` ning
 *   **Ma'lumotlar turlari va chegaralar**: `a[i]` qiymatlari va `n` ning maksimal qiymatlari (`-10^6 <= a[i] <= 10^6`, `1 <= n <= 5 * 10^5`) `a[i] + i` va `a[i] - i` kabi ifodalarning `int` ma'lumot turining chegaralaridan oshib ketmasligini ta'minlaydi. Hisoblangan eng katta qiymatlar `int` (odatda `[-2*10^9, 2*10^9]`) oralig'iga to'g'ri keladi, shuning uchun `overflow` (qiymat chegaradan chiqib ketishi) xavfi yo'q.
 *   **Yagona shahar holati (`n=1`)**: Agar `n=1` bo'lsa, algoritm to'g'ri ishlaydi va natija 0 bo'ladi. Bu mantiqan to'g'ri, chunki bir shahardan faqat o'ziga borish mumkin, bu esa narxi 0 bo'lgan sayohat hisoblanadi. Masala "bir shahardan boshqasiga" (different cities) degan shartni qat'iy qo'ymaganligi sababli, `i=j` holat ham qabul qilinadi.
 *   **Indekslash**: Masalada indekslash noldan boshlanishi (`i`-shahar, `a[i]` badali) aniq ko'rsatilgan, bu C++ dagi massivlar va tsikllar uchun standart hisoblanadi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M034F) platformasidagi **M034F** raqamli **Tadqiqotchi Fedya** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M034F>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M034F, Tadqiqotchi Fedya yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

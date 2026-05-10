@@ -1,3 +1,10 @@
+---
+title: "M047E — Natural son #2 | Robocontest.uz Yechimi"
+description: "Robocontest.uz M047E (Natural son #2) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M047E, Natural son #2 yechimi, robocontest Natural son #2, M047E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M047E — Natural son #2
 
 ## Masala haqida
@@ -117,3 +124,14 @@ int main() {
 *   **100 ga karrali sonlar (100, 200, ..., 900)**: Misol uchun, `n = 200` bo'lsa, `hundreds_digit = 2`, `remainder = 0`. `ones[2]` ("ikki") va " yuz" chop etiladi ("ikki yuz"). `remainder > 0` sharti qanoatlantirilmaydi, shuning uchun ortiqcha so'zlar qo'shilmaydi.
 *   **O'nliklarsiz sonlar (101, 203, ...)**: Misol uchun, `n = 101` bo'lsa, `hundreds_digit = 1`, `remainder = 1`. `ones[1]` ("bir") va " yuz" chop etiladi ("bir yuz"). Keyin `remainder > 0` bo'lgani uchun, `spellTwoDigits(1)` ("bir") chop etiladi. Natija: "bir yuz bir".
 *   **To'g'ri bo'sh joylar**: `spellTwoDigits` funksiyasining 0 uchun bo'sh satr qaytarishi va `main` funksiyasidagi `if (remainder > 0)` sharti, shuningdek, `tens` va `ones` massivlarining 0-indeksida bo'sh satr bo'lishi ortiqcha bo'sh joylarni yoki "besh yuz nol" kabi noto'g'ri yozuvlarni oldini oladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M047E) platformasidagi **M047E** raqamli **Natural son #2** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M047E>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M047E, Natural son #2 yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

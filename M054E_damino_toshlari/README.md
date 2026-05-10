@@ -1,3 +1,10 @@
+---
+title: "M054E — Damino toshlari | Robocontest.uz Yechimi"
+description: "Robocontest.uz M054E (Damino toshlari) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M054E, Damino toshlari yechimi, robocontest Damino toshlari, M054E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M054E — Damino toshlari
 
 ## Masala haqida
@@ -54,3 +61,14 @@ int main() {
 *   **Maksimum o'lchamlar**: N va M ning maksimal qiymatlari 16 ga teng. Agar doska 16x16 o'lchamda bo'lsa, `(16 * 16) / 2 = 256 / 2 = 128`. Bu ham to'g'ri. `long long` dan foydalanish hatto bunday kichik sonlar uchun ortiqcha bo'lsa-da, katta qiymatlar bilan ishlashda doim xavfsizlikni ta'minlaydi.
 *   **Toq sonli kataklar**: Agar doskaning umumiy kataklar soni toq bo'lsa (masalan, 3x3 doska: `(3 * 3) / 2 = 9 / 2 = 4`), javob butun sonli bo'linma tufayli pastga qarab yaxlitlanadi. Bu to'g'ri, chunki toq sonli kataklar bo'lganda, bitta katak har doim qoplanmay qoladi va biz faqat butun daminolarni joylashtirishimiz mumkin.
 *   **Xotira cheklovi**: Masalada xotira cheklovi 16 MB qilib belgilangan. O(1) xotira murakkabligiga ega bo'lgan ushbu yechim ushbu cheklovga bemalol sig'adi, chunki u faqat bir nechta o'zgaruvchini saqlaydi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M054E) platformasidagi **M054E** raqamli **Damino toshlari** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M054E>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M054E, Damino toshlari yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

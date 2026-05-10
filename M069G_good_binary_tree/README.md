@@ -1,3 +1,10 @@
+---
+title: "M069G — Good binary tree | Robocontest.uz Yechimi"
+description: "Robocontest.uz M069G (Good binary tree) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M069G, Good binary tree yechimi, robocontest Good binary tree, M069G c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M069G — Good binary tree
 
 ## Masala haqida
@@ -103,3 +110,14 @@ Barcha tugunlarga IDlar 1 dan boshlab ketma-ket beriladi. Ildiz tugun har doim 1
 *   **Tugun ID'larining ketma-ketligi:** Algoritm tugunlarga 1 dan boshlab ketma-ket ID'lar beradi. "Good Binary Tree" ning shartlari (ota bolalaridan kichik va chap qismdaraxt o'ng qismdaraxtdan kichik ID'larga ega) shu ketma-ket raqamlash usulini qo'llab-quvvatlaydi, chunki biz daraxtni chapdan o'ngga qarab qurib boramiz va har doim yangi, eng kichik mavjud ID ni beramiz.
 *   **`std::stack` va `std::tuple` ning ishlatilishi:** Bu yondashuv rekursiv DFS ni iterativ shaklga aylantirish uchun standart usul hisoblanadi. `std::tuple` bir nechta turli xil ma'lumotlarni bitta obyektda saqlash uchun qulay, `auto& [ ... ] = s.top();` esa C++17 xususiyati bo'lib, stekning tepasidagi tuple a'zolarini osonlikcha o'zgartirish imkonini beradi.
 *   **Javobning mavjudligi kafolati:** Masala matnida har doim javob mavjudligi kafolatlanadi. Bu bizni noto'g'ri kirish ma'lumotlari yoki hech qanday daraxt qurib bo'lmaydigan holatlar haqida tashvishlanishdan xalos qiladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M069G) platformasidagi **M069G** raqamli **Good binary tree** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M069G>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M069G, Good binary tree yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

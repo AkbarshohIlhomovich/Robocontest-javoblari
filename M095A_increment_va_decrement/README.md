@@ -1,3 +1,10 @@
+---
+title: "M095A — Increment va Decrement | Robocontest.uz Yechimi"
+description: "Robocontest.uz M095A (Increment va Decrement) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M095A, Increment va Decrement yechimi, robocontest Increment va Decrement, M095A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M095A — Increment va Decrement
 
 ## Masala haqida
@@ -113,3 +120,14 @@ int main() {
 *   **`std::map` xususiyatlari:** `std::map` ma'lumot tuzilmasi kalitlarni avtomatik ravishda o'sish tartibida saqlaydi va iteratsiya (aylanib chiqish) paytida shu tartibni ta'minlaydi. Bu bizga *oldindan yig'indi* (prefix sum) ni to'g'ri hisoblash va har bir segmentning haqiqiy qiymatini ketma-ket aniqlash imkonini beradi.
 *   **`long long` dan foydalanish:** `N`, `X`, `Y` va massiv elementlarining yakuniy qiymatlari juda katta bo'lishi mumkin (`10^9` gacha). Bir nechta `Y` qiymatlari qo'shilganda yoki ayirilganda `int` turining chegaralaridan (taxminan `±2 * 10^9`) chiqib ketishi mumkin, shuning uchun barcha tegishli o'zgaruvchilar va qiymatlar uchun `long long` turidan foydalanish shart.
 *   **Mutlaq qiymat:** So'nggi natijada massiv elementlarining mutlaq qiymati (`std::abs()`) hisobga olinadi. Bu muhim, chunki, masalan, `-100` va `50` ni solishtirganda, `-100` ning mutlaq qiymati `100` bo'lib, u `50` dan katta hisoblanadi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M095A) platformasidagi **M095A** raqamli **Increment va Decrement** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M095A>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M095A, Increment va Decrement yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -1,3 +1,10 @@
+---
+title: "R095D — Ifodani maksimallashtirish | Robocontest.uz Yechimi"
+description: "Robocontest.uz R095D (Ifodani maksimallashtirish) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 512 MB."
+keywords: "robocontest R095D, Ifodani maksimallashtirish yechimi, robocontest Ifodani maksimallashtirish, R095D c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # R095D — Ifodani maksimallashtirish
 
 ## Masala haqida
@@ -102,3 +109,14 @@ Yechim ikki asosiy holatni ko'rib chiqadi:
 *   **Minimal `n` qiymati**: `n=2` bo'lgan holatda ham (masalan, `a[0] & a[1]` yoki `a[0] + (a[1])`) algoritm to'g'ri ishlaydi, chunki Sparse Table va prefix/suffix hisob-kitoblari kichik massivlar uchun ham mo'ljallangan.
 *   **`long long` dan foydalanish**: Masala matnida `a_i <= 10^9` berilgan. Ikki `int` qiymatining yig'indisi (`10^9 + 10^9 = 2 * 10^9`) `int` tipiga sig'adi (odatda `INT_MAX` ~ `2.1 * 10^9`). Shunday bo'lsa ham, `long long` dan foydalanish xatolikka yo'l qo'ymaslik uchun xavfsizroq yondashuv hisoblanadi.
 *   **Kandidat indekslar soni**: `O(log MAX_VAL)` ga teng bo'lgan `relevant_i_indices` va `relevant_k_splits` soni, `std::set` larga kiritilgan vaqtlar hisobga olinganda ham, umumiy vaqt murakkabligiga katta ta'sir qilmaydi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/R095D) platformasidagi **R095D** raqamli **Ifodani maksimallashtirish** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/R095D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest R095D, Ifodani maksimallashtirish yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

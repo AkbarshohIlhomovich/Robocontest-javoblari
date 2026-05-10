@@ -1,3 +1,10 @@
+---
+title: "M064C — K belgili satr | Robocontest.uz Yechimi"
+description: "Robocontest.uz M064C (K belgili satr) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M064C, K belgili satr yechimi, robocontest K belgili satr, M064C c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M064C — K belgili satr
 
 ## Masala haqida
@@ -71,3 +78,14 @@ int main() { // Dasturning asosiy bajarilish nuqtasi.
 *   **`S` uzunligi `K` ga teng bo'lsa**: Agar `S` satrining uzunligi `K` ga teng bo'lsa (`s.length() == k`), `s.length() > k` sharti noto'g'ri bo'ladi va `else` bloki bajariladi, ya'ni `S` satrining o'zi to'liq chop etiladi. Bu masalaning talabiga mos keladi (1-misol: K=5, S="hello", output="hello").
 *   **`S` uzunligi `K` dan kichik bo'lsa**: Agar `S` satrining uzunligi `K` dan kichik bo'lsa (`s.length() < k`), bu holatda ham `s.length() > k` sharti noto'g'ri bo'ladi va `else` bloki bajarilib, `S` satri to'liq chop etiladi. Bu ham masalaning talabiga mos keladi (3-misol: K=7, S="aaa", output="aaa").
 *   **Belgi turlari**: `S` satri faqat ingliz alifbosining kichik harflaridan tashkil topishi aytilgan. Boshqa maxsus belgilar yoki katta harflar bilan ishlash haqida tashvishlanish shart emas.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M064C) platformasidagi **M064C** raqamli **K belgili satr** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M064C>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M064C, K belgili satr yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

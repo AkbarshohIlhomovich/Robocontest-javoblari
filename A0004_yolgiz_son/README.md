@@ -1,3 +1,10 @@
+---
+title: "A0004 — Yolg'iz son | Robocontest.uz Yechimi"
+description: "Robocontest.uz A0004 (Yolg'iz son) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Oson. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest A0004, Yolg'iz son yechimi, robocontest Yolg'iz son, A0004 c++ kod, oson, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # A0004 — Yolg'iz son
 
 ## Masala haqida
@@ -79,3 +86,14 @@ int main() {
 *   **Sonlarning qiymati `0` dan `100` gacha**: Bu chegaralar XOR operatsiyasining ishlashiga ta'sir qilmaydi, chunki XOR butun sonlar ustida samarali ishlaydi va kattaroq qiymatlarni ham xatosiz ishlashga qodir. `0` ham XOR operatsiyasida to'g'ri ishtirok etadi (`X ^ 0 = X`).
 *   **Xotira va vaqt cheklovlari**: Berilgan `N < 100` cheklovlari va algoritmning `O(N)` vaqt va `O(1)` xotira murakkabligi tufayli masala cheklovlaridan ancha past ko'rsatkichlar bilan yechim AC (Accepted) oladi.
 *   **Texnik atama "bitwise XOR"**: Bu ikki butun sonning ikkilik (binary) ko'rinishidagi tegishli bitlarini taqqoslash orqali yangi butun son hosil qiluvchi mantiqiy operatsiyadir. Agar ikkita bit har xil bo'lsa (0 va 1 yoki 1 va 0), natija 1 bo'ladi; agar bir xil bo'lsa (0 va 0 yoki 1 va 1), natija 0 bo'ladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0004) platformasidagi **A0004** raqamli **Yolg'iz son** masalasi. U **Oson** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/A0004>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest A0004, Yolg'iz son yechimi, robocontest masalalari, c++17, olimpiada yechimi, oson, dasturlash uzbek, competitive programming O'zbekiston.</sub>

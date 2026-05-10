@@ -1,3 +1,10 @@
+---
+title: "M041A — Gulliver | Robocontest.uz Yechimi"
+description: "Robocontest.uz M041A (Gulliver) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M041A, Gulliver yechimi, robocontest Gulliver, M041A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M041A — Gulliver
 
 ## Masala haqida
@@ -58,3 +65,14 @@ int main() { // 3
 *   **Minimal qiymatlar**: Masala shartiga ko'ra `K` va `M` ning minimal qiymati 2 ga teng. Agar `K=2, M=2` bo'lsa, formula `2 * 2 * 2 = 8` natijasini beradi, bu birinchi sample testiga mos keladi. Bu shuni ko'rsatadiki, formula eng kichik mumkin bo'lgan holatlar uchun ham to'g'ri ishlaydi.
 *   **Maksimal qiymatlar**: `K` va `M` ning maksimal qiymati 100 ga teng. Agar `K=100, M=100` bo'lsa, natija `100 * 100 * 100 = 1,000,000` bo'ladi. Bu qiymat `int` turiga (odatda 2 milliardgacha) sig'sa ham, `long long` turidan foydalanish amalda katta natijalar bilan ishlayotganda xavfsizroq va odatiy yondashuv hisoblanadi.
 *   **Matematik formulaning soddaligi**: Masala hech qanday murakkab algoritm yoki ma'lumotlar tuzilmalarini talab qilmaydi. Bu oddiy arifmetik formulaga asoslangan bo'lib, uning yechimi to'g'ridan-to'g'ri hisoblashdan iborat. Bu turdagi masalalar ko'pincha "to'g'ridan-to'g'ri amalga oshirish" (direct implementation) yoki "matematika" kategoriyasiga kiradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M041A) platformasidagi **M041A** raqamli **Gulliver** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M041A>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M041A, Gulliver yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

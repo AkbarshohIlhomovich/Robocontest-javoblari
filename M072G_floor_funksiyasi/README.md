@@ -1,3 +1,10 @@
+---
+title: "M072G — Floor funksiyasi | Robocontest.uz Yechimi"
+description: "Robocontest.uz M072G (Floor funksiyasi) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M072G, Floor funksiyasi yechimi, robocontest Floor funksiyasi, M072G c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M072G — Floor funksiyasi
 
 ## Masala haqida
@@ -95,3 +102,14 @@ int main() {
 *   **`B = 1` holati**: Agar `B = 1` bo'lsa, `x \% B = x \% 1 = 0`. Bizning algoritmda `x_val_for_max_remainder = min(N, 1 - 1) = min(N, 0) = 0` bo'ladi. Natija `(A * 0) / 1 = 0`. Asl ifodaga ko'ra `floor(Ax/1) - A*floor(x/1) = Ax - A*x = 0`. To'g'ri ishlaydi.
 *   **Katta sonlar (`long long`)**: `A \cdot x_val_for_max_remainder` ko'paytmasi `10^6 \cdot 10^{12} = 10^{18}` gacha qiymatga ega bo'lishi mumkin. C++ dagi `int` tipi odatda `2 \cdot 10^9` atrofida maksimal qiymatni saqlaydi, bu esa yetarli emas. Shuning uchun barcha tegishli o'zgaruvchilar (ayniqsa `B, N` va ularning ishtirokidagi hisob-kitoblar) `long long` tipida e'lon qilinishi muhim.
 *   **`floor` va butun bo'lish**: C++ da musbat butun sonlarni bo'lish (`/` operatori) natijani har doim nolga qarab yaxlitlaydi (truncation). Musbat sonlar uchun bu `floor` funksiyasining vazifasini bajaradi. Masalan, `20 / 7` natijasi `2` bo'ladi, bu `floor(2.85...)` ga teng. Bu masalada barcha sonlar musbat bo'lgani uchun, oddiy butun bo'lish operatoridan foydalanish to'g'ri yechim beradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072G) platformasidagi **M072G** raqamli **Floor funksiyasi** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M072G>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M072G, Floor funksiyasi yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

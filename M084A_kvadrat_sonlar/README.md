@@ -1,3 +1,10 @@
+---
+title: "M084A — Kvadrat sonlar | Robocontest.uz Yechimi"
+description: "Robocontest.uz M084A (Kvadrat sonlar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest M084A, Kvadrat sonlar yechimi, robocontest Kvadrat sonlar, M084A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M084A — Kvadrat sonlar
 
 ## Masala haqida
@@ -47,3 +54,14 @@ Yechimning asosiy g'oyasi juda sodda va to'g'ridan-to'g'ri. Biz 1 dan boshlab na
 -   **`N=1` holati**: Agar \(N=1\) bo'lsa, sikl `k=1` uchun `square=1` ni hisoblaydi, chop etadi. Keyin `k=2` uchun `square=4` ni hisoblaydi, bu \(N\) dan katta bo'lgani uchun sikl to'xtaydi. Natija `1` bo'ladi, bu to'g'ri.
 -   **Katta `N` qiymatlari**: \(N\) `10^9` gacha bo'lishi mumkin. Shuning uchun `k*k` hisobida integer overflow (butun son toshib ketishi) yuz bermasligi uchun `k`, `square` va `n` o'zgaruvchilari `long long` ma'lumot turida e'lon qilingan. Bu juda muhim qadam.
 -   **Chop etish formati**: Masalada javoblar bo'sh joy bilan ajratilgan holda, o'sish tartibida va oxirida yangi qator bilan tugashi talab qilinadi. Koddagi `first_output` mantiqiy o'zgaruvchisi va `cout << endl;` buyrug'i bu format talablarini to'liq qondiradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M084A) platformasidagi **M084A** raqamli **Kvadrat sonlar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M084A>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M084A, Kvadrat sonlar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -1,3 +1,10 @@
+---
+title: "A0001 — A+B | Robocontest.uz Yechimi"
+description: "Robocontest.uz A0001 (A+B) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Uzun sonlar arifmetikasi. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest A0001, A+B yechimi, robocontest A+B, A0001 c++ kod, uzun sonlar arifmetikasi, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # A0001 — A+B
 
 ## Masala haqida
@@ -124,3 +131,14 @@ int main() {
 *   **Vaqt va xotira chegaralari**: 10^100 gacha bo'lgan sonlar (`string` uzunligi maksimal 100) uchun algoritm juda samarali ishlaydi va berilgan 1000 ms va 16 MB xotira chegarasiga bemalol sig'adi.
 *   **`char`dan `int`ga o'tkazish**: `num1[i] - '0'` iborasi `char` turidagi raqam belgisini (masalan, '5') uning `int` turidagi qiymatiga (ya'ni 5) o'tkazishning standart va samarali usuli hisoblanadi.
 *   **I/O optimallashtirish**: `ios_base::sync_with_stdio(false);` va `cin.tie(0);` qatorlari C++ stream (oqim)larining tezligini oshirish uchun juda muhim, ayniqsa katta hajmli kirish/chiqish ma'lumotlari bo'lganda.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0001) platformasidagi **A0001** raqamli **A+B** masalasi. U **Uzun sonlar arifmetikasi** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/A0001>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest A0001, A+B yechimi, robocontest masalalari, c++17, olimpiada yechimi, uzun sonlar arifmetikasi, dasturlash uzbek, competitive programming O'zbekiston.</sub>

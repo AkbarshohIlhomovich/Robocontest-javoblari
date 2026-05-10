@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akbarshohilhomovich.github.io/Robocontest-javoblari/sitemap.xml

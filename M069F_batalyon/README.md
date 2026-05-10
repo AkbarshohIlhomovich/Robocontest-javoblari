@@ -1,3 +1,10 @@
+---
+title: "M069F — Batalyon | Robocontest.uz Yechimi"
+description: "Robocontest.uz M069F (Batalyon) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M069F, Batalyon yechimi, robocontest Batalyon, M069F c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M069F — Batalyon
 
 ## Masala haqida
@@ -74,3 +81,14 @@ Asosiy g'oya — dushmanlarning katta soni qancha batalyonni to'liq yo'q qila ol
     2.  Agar joriy kunning o'zida barcha batalyonlar yo'q qilingan bo'lsa (`current_idx == N`), kun oxirida ular qayta tiklanganligi sababli `N` soni chop etiladi.
 *   **`upper_bound` ning ishlatilishi**: `upper_bound(begin, end, val)` `[begin, end)` oraliqda `val` dan qat'iy katta bo'lgan birinchi elementni topadi. Bizning holatda, `P[k] > target_sum_for_prefix_search` bo'lgan birinchi `P[k]` ni topib, uning indeksini (va shundan kelib chiqib `-1` qilib) batalyonlar chegarasini aniqlaymiz.
 *   **Minimal N, Q**: `N=1`, `Q=1` kabi holatlar ham to'g'ri ishlashini ta'minlash kerak. Algoritm bu holatlarda ham to'g'ri ishlaydi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M069F) platformasidagi **M069F** raqamli **Batalyon** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M069F>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M069F, Batalyon yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

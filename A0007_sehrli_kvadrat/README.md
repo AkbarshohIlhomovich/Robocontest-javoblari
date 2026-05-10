@@ -1,3 +1,10 @@
+---
+title: "A0007 — Sehrli kvadrat | Robocontest.uz Yechimi"
+description: "Robocontest.uz A0007 (Sehrli kvadrat) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
+keywords: "robocontest A0007, Sehrli kvadrat yechimi, robocontest Sehrli kvadrat, A0007 c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # A0007 — Sehrli kvadrat
 
 ## Masala haqida
@@ -49,3 +56,14 @@ Masala 3x3 o'lchamli sehrli kvadrat haqida bo'lganligi sababli, uning o'lchami k
 -   **Oldindan belgilangan sehrli kvadratlar**: 3x3 o'lchamli va 1 dan 9 gacha bo'lgan sonlardan tashkil topgan barcha sehrli kvadratlar oldindan ma'lum. Kodda ularning barchasi ro'yxat sifatida kiritilgan. Bu ro'yxatning to'g'riligi va to'liqligi yechimning aniqligini ta'minlaydi.
 -   **Elementlarning o'zgarishi**: Kirish matritsasidagi elementlar 1 dan 9 gacha bo'lmasligi mumkin (faqat misollarda shu oraliq berilgan, masala matnida `[1...9]` oraliq deb yozilgan, lekin bu shart *natijaviy* sehrli kvadratga tegishli). Energiya hisoblash faqat elementlar orasidagi mutlaq farqqa asoslanadi, shuning uchun kirishdagi qiymatlar 1..9 oralig'idan tashqariga chiqsa ham algoritm to'g'ri ishlaydi. Masala matnida kiruvchi ma'lumotlar `[1...9]` oralig'idagi butun sonlar kiritiladi deb aniq ko'rsatilgan.
 -   **Sehrli yig'indi**: 3x3 o'lchamli va 1 dan 9 gacha bo'lgan elementlarga ega sehrli kvadratlarning sehrli yig'indisi har doim $(1+2+...+9)/3 = 45/3 = 15$ ga teng bo'ladi. Bu hisoblashda ishlatilgan sehrli kvadratlarning barchasi bu xususiyatga javob beradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0007) platformasidagi **A0007** raqamli **Sehrli kvadrat** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/A0007>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest A0007, Sehrli kvadrat yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

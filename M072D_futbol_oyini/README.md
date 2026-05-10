@@ -1,3 +1,10 @@
+---
+title: "M072D — Futbol o'yini | Robocontest.uz Yechimi"
+description: "Robocontest.uz M072D (Futbol o'yini) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M072D, Futbol o'yini yechimi, robocontest Futbol o'yini, M072D c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+lang: uz
+---
+
 # M072D — Futbol o'yini
 
 ## Masala haqida
@@ -58,3 +65,14 @@ int main() { // Har qanday C++ dasturining asosiy kirish nuqtasi.
 *   **`K = 1` holati**: Agar `K = 1` bo'lsa, har qanday butun son 1 ga bo'linadi. Shuning uchun, agar `A <= B` bo'lsa, `x = A` ning o'zi `K=1` ga bo'linadi va javob doimo "YES" bo'ladi. Algoritm bu holatni to'g'ri boshqaradi.
 *   **Chegaralar**: `A`, `B`, `K` sonlari 1 dan 1000 gacha bo'lgan musbat butun sonlardir. Bu esa `K=0` bo'lishi yoki manfiy sonlar bilan ishlash kabi murakkab holatlarning oldini oladi. Yechim bu chegaralar ichida to'g'ri ishlaydi.
 *   **Tez I/O**: `ios_base::sync_with_stdio(false); cin.tie(0);` qatorlari kiritish/chiqarish operatsiyalarini tezlashtirish uchun juda muhim, ammo bu masala uchun kirish ma'lumotlari hajmi kichik bo'lgani sababli, ularning yo'qligi ham javob vaqtiga katta ta'sir qilmasdi. Shunga qaramay, competitive programmingda bu yaxshi odat hisoblanadi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072D) platformasidagi **M072D** raqamli **Futbol o'yini** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M072D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M072D, Futbol o'yini yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

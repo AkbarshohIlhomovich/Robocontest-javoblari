@@ -1,0 +1,66 @@
+title: "Robocontest.uz Yechimlari"
+description: >-
+  Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari va
+  o'zbek tilida batafsil tushuntirishlari. Algoritm, dinamik dasturlash,
+  sonlar nazariyasi, ma'lumotlar tuzilmalari bo'yicha 50+ yechilgan masala.
+
+url: "https://akbarshohilhomovich.github.io"
+baseurl: "/Robocontest-javoblari"
+lang: uz
+
+author:
+  name: "Akbarshoh Dadamirzayev"
+  url: "https://github.com/AkbarshohIlhomovich"
+
+# Twitter Card / Open Graph uchun
+twitter:
+  username: AkbarshohIlhomovich
+  card: summary_large_image
+
+social:
+  name: "Akbarshoh Dadamirzayev"
+  links:
+    - https://github.com/AkbarshohIlhomovich
+    - https://robocontest.uz/profile/akbarshoh2580
+
+logo: /assets/icon.png
+
+# Markdown va kerakli pluginlar (GitHub Pages whitelisti)
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Build optimizatsiyasi
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - vendor/
+  - "*.gemspec"
+  - "*.cpp"
+  - .cache/
+  - .DS_Store
+
+# SEO uchun keng kalit so'zlar
+keywords:
+  - robocontest
+  - robocontest.uz
+  - robocontest yechimlari
+  - robocontest masalalari
+  - C++ algoritm
+  - competitive programming O'zbekiston
+  - dasturlash masalalari
+  - olimpiada yechimlari
+  - PIIMA olimpiada
+  - algoritm darslar
+  - dinamik dasturlash
+  - sonlar nazariyasi
+  - C++17 yechimlar
+  - dasturlash uzbek
