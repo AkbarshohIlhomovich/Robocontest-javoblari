@@ -1,0 +1,14 @@
+{
+  "task_id": "M069H",
+  "title": "Satrni tiklash",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 32,
+  "verdict": {
+    "submission_id": "10992996",
+    "time_ms": 10,
+    "memory_kb": 4192
+  },
+  "saved_at": "2026-05-10T13:25:20"
+}
