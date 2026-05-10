@@ -1,8 +1,15 @@
+---
+title: "Robocontest.uz Yechimlari Indeksi — 79 ta masala"
+description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
+keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
+lang: uz
+---
+
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T14:55:39_
+_Yangilangan: 2026-05-10T14:58:51_
 
-Jami: **78** ta masala
+Jami: **79** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -49,6 +56,7 @@ Jami: **78** ta masala
 | [M069J](./M069J_oquv_mashguloti) | O'quv mashg'uloti |  | 1% | 209 ms | 8800 KB |
 | [M069K](./M069K_qoyxona) | Qo'yxona |  | 1% | 103 ms | 10156 KB |
 | [M070A](./M070A_extensions_uzaytirgichlar) | Extensions (uzaytirgichlar) |  | 1% | 0 ms | 0 KB |
+| [M070B](./M070B_fruits_mevalar) | Fruits (Mevalar) |  | 1% | 0 ms | 0 KB |
 | [M070E](./M070E_mex-xe-xe) | MEX-xe-xe |  | 1% | 0 ms | 0 KB |
 | [M071A](./M071A_two_strings_ikki_satr) | Two strings (Ikki Satr) |  | 1% | 1 ms | 0 KB |
 | [M071B](./M071B_transport) | Transport |  | 1% | 0 ms | 0 KB |
