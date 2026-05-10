@@ -1,0 +1,14 @@
+{
+  "task_id": "M047C",
+  "title": "Taqqoslash",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 16,
+  "verdict": {
+    "submission_id": "10992830",
+    "time_ms": 1,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-10T12:42:50"
+}
