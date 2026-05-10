@@ -12,7 +12,6 @@ author:
   name: "Akbarshoh Dadamirzayev"
   url: "https://github.com/AkbarshohIlhomovich"
 
-# Twitter Card / Open Graph uchun
 twitter:
   username: AkbarshohIlhomovich
   card: summary_large_image
@@ -23,9 +22,6 @@ social:
     - https://github.com/AkbarshohIlhomovich
     - https://robocontest.uz/profile/akbarshoh2580
 
-logo: /assets/icon.png
-
-# Markdown va kerakli pluginlar (GitHub Pages whitelisti)
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
@@ -36,9 +32,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-remote-theme
 
-# Build optimizatsiyasi
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
@@ -47,20 +41,5 @@ exclude:
   - "*.cpp"
   - .cache/
   - .DS_Store
-
-# SEO uchun keng kalit so'zlar
-keywords:
-  - robocontest
-  - robocontest.uz
-  - robocontest yechimlari
-  - robocontest masalalari
-  - C++ algoritm
-  - competitive programming O'zbekiston
-  - dasturlash masalalari
-  - olimpiada yechimlari
-  - PIIMA olimpiada
-  - algoritm darslar
-  - dinamik dasturlash
-  - sonlar nazariyasi
-  - C++17 yechimlar
-  - dasturlash uzbek
+  - .venv/
+  - solution.cpp
