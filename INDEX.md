@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T12:42:50_
+_Yangilangan: 2026-05-10T12:43:45_
 
-Jami: **29** ta masala
+Jami: **30** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -31,6 +31,7 @@ Jami: **29** ta masala
 | [M041A](./M041A_gulliver) | Gulliver |  | 1% | 1 ms | 0 KB |
 | [M043C](./M043C_oshib_borish) | Oshib borish |  | 1% | 2 ms | 0 KB |
 | [M047C](./M047C_taqqoslash) | Taqqoslash |  | 1% | 1 ms | 0 KB |
+| [M047E](./M047E_natural_son_2) | Natural son #2 |  | 1% | 1 ms | 0 KB |
 | [M058A](./M058A_bunyodbekning_dostlari) | Bunyodbekning do‘stlari |  | 1% | 1 ms | 0 KB |
 | [M058B](./M058B_magnit_raqamlar) | Magnit raqamlar |  | 1% | 1 ms | 0 KB |
 | [R059E](./R059E_ajoyib_oyin) | Ajoyib o'yin |  | 1% | 2 ms | 0 KB |
