@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T14:51:52_
+_Yangilangan: 2026-05-10T14:52:28_
 
-Jami: **74** ta masala
+Jami: **75** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -68,6 +68,7 @@ Jami: **74** ta masala
 | [M076B](./M076B_космическая_балансировка) | Космическая Балансировка |  | 1% | 7 ms | 15968 KB |
 | [M076D](./M076D_минимальное_максимальное_ребро) | Минимальное Максимальное Ребро |  | 1% | 89 ms | 5660 KB |
 | [M076G](./M076G_степень_двойки) | Степень двойки |  | 1% | 1 ms | 0 KB |
+| [M076I](./M076I_язык_foo) | Язык Foo |  | 1% | 20 ms | 1120 KB |
 | [M077A](./M077A_agentlik_olimpiadasi) | Agentlik olimpiadasi |  | 1% | 1 ms | 0 KB |
 | [M077B](./M077B_galati_oyin) | G'alati o'yin |  | 1% | 1 ms | 0 KB |
 | [M077D](./M077D_ortacha_maosh) | O'rtacha maosh |  | 1% | 44 ms | 1120 KB |

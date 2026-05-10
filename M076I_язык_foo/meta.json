@@ -1,0 +1,14 @@
+{
+  "task_id": "M076I",
+  "title": "Язык Foo",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 2000,
+  "memory_limit_mb": 32,
+  "verdict": {
+    "submission_id": "10993254",
+    "time_ms": 20,
+    "memory_kb": 1120
+  },
+  "saved_at": "2026-05-10T14:52:28"
+}
