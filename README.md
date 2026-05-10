@@ -4,12 +4,14 @@
   <i><a href="https://robocontest.uz">robocontest.uz</a> platformasidan masalalarning <b>C++17 yechimlari</b> va o'zbek tilida batafsil tushuntirishlari</i>
 </p>
 
+<!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-36+-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-39-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
 </p>
+<!-- AUTO:badges-END -->
 
 ---
 
@@ -39,21 +41,46 @@ solutions/
 
 ---
 
-## Tezkor navigatsiya
+## Statistika
+
+<!-- AUTO:stats-START -->
+- **Jami yechilgan**: 39 ta masala
+- **O'rtacha qiyinchilik**: 7.9%
+- **O'rtacha vaqt**: 5.8 ms
+- **Eng oxirgi**: [M091F — Kanji for king (王)](./M091F_kanji_for_king_王) _(2026-05-10)_
+<!-- AUTO:stats-END -->
+
+## Kategoriyalar bo'yicha
+
+<!-- AUTO:categories-START -->
+| Kategoriya | Yechilgan |
+|-----------|-----------|
+| Kategoriyasiz | 26 |
+| Oson | 7 |
+| Sonlar nazariyasi | 3 |
+| Uzun sonlar arifmetikasi | 1 |
+| Dinamik dasturlash | 1 |
+| Matematika | 1 |
+<!-- AUTO:categories-END -->
+
+## So'nggi yechilgan masalalar
+
+<!-- AUTO:recent-START -->
+| ID | Sarlavha | Kategoriya | Vaqt | Sana |
+|----|----------|-----------|------|------|
+| [M091F](./M091F_kanji_for_king_王) | Kanji for king (王) | - | 38 ms | 2026-05-10 |
+| [M095A](./M095A_increment_va_decrement) | Increment va Decrement | - | 77 ms | 2026-05-10 |
+| [M057C](./M057C_sakrashlar_soni) | Sakrashlar soni | #Matematika | 1 ms | 2026-05-10 |
+| [M057B](./M057B_operatsiyalar_soni) | Operatsiyalar soni | - | 1 ms | 2026-05-10 |
+| [M057A](./M057A_teskari2) | Teskari^2 | #Oson | 1 ms | 2026-05-10 |
+| [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar | - | 7 ms | 2026-05-10 |
+| [M084C](./M084C_qutilar) | Qutilar | - | 1 ms | 2026-05-10 |
+| [M054E](./M054E_damino_toshlari) | Damino toshlari | - | 1 ms | 2026-05-10 |
+| [M047B](./M047B_juft_karrali) | Juft karrali | #Oson | 1 ms | 2026-05-10 |
+| [M047E](./M047E_natural_son_2) | Natural son #2 | - | 1 ms | 2026-05-10 |
+<!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
-
-Tanlangan masalalar:
-
-| Masala | Kategoriya |
-|--------|-----------|
-| [A0001 — A+B](./A0001_ab) | Uzun sonlar arifmetikasi |
-| [A0002 — Dasturchilar kuni](./A0002_dasturchilar_kuni) | Sana arifmetikasi |
-| [A0006 — O'yin](./A0006_oyin) | Sonlar nazariyasi |
-| [A0020 — Kanfetlar](./A0020_kanfetlar) | Dinamik dasturlash |
-| [A0021 — Smith soni](./A0021_smith_soni) | Sonlar nazariyasi |
-| [A0022 — Super daraja](./A0022_super_daraja) | Sonlar nazariyasi |
-| ... | _va boshqa 30+ masala — [INDEX.md](./INDEX.md) ga qarang_ |
 
 ---
 
@@ -133,6 +160,30 @@ Xato topdingizmi yoki yaxshiroq yechim taklif qilasizmi? **Issue** oching yoki *
     <img alt="Stars" src="https://img.shields.io/github/stars/AkbarshohIlhomovich/Robocontest-javoblari?style=flat-square">
   </a>
 </p>
+
+---
+
+## Muallif
+
+<table>
+<tr>
+<td>
+
+**Akbarshoh Dadamirzayev** ([@akbarshoh2580](https://robocontest.uz/profile/akbarshoh2580))
+
+- O'quv muassasasi: **Eurosoft**
+- Viloyat: Toshkent shahar, Mirzo Ulug'bek tumani
+- Murabbiy: [Jasurbek Nurmuhammedov](https://robocontest.uz/profile/jasurbek2003)
+
+</td>
+<td>
+
+[![GitHub](https://img.shields.io/badge/GitHub-AkbarshohIlhomovich-181717?style=flat-square&logo=github)](https://github.com/AkbarshohIlhomovich)
+[![Robocontest](https://img.shields.io/badge/Robocontest-akbarshoh2580-orange?style=flat-square)](https://robocontest.uz/profile/akbarshoh2580)
+
+</td>
+</tr>
+</table>
 
 ---
 
