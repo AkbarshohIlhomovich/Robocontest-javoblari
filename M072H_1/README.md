@@ -79,13 +79,20 @@ int main() {
 *   **Oxirgi raqam 9 bo'lsa**: Agar sonning oxirgi raqami 9 bo'lsa (masalan, "123 456 789"), unga 1 qo'shganda raqamlar o'zgarishi ("123456790") yoki hattoki xonalar soni ortishi (masalan, "999 999" ga 1 qo'shganda "1000000") mumkin. `long long` ma'lumot turi bu hisob-kitoblarni avtomatik tarzda to'g'ri bajaradi.
 *   **Bo'sh joylarni olib tashlash usuli**: `remove` va `erase` funksiyalarining birgalikda ishlatilishi C++ da stringdagi ma'lum belgilarni samarali olib tashlashning standart va tavsiya etilgan usullaridan biridir.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072H) platformasidagi **M072H** raqamli **+1** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M072H>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M072H, +1 yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

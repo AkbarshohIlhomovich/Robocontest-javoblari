@@ -76,13 +76,20 @@ int main() {
 -   **Maksimum `n` qiymati**: `n=10^9`. Bu kabi katta sonlar uchun ham 3 ga bo'linmani tekshirish faqat doimiy vaqt oladi, chunki operatsiya `n` ning qiymatiga emas, balki bitlar soniga bog'liq.
 -   **"10 yurish" cheklovi**: Masalada berilgan "10 yurishdan keyin ham Shaxboz g'olib bo'la olmasa Shohruh g'olib bo'ladi" jumlasi odatda o'yin nazariyasida "red herring" (chalg'ituvchi ma'lumot) deb ataladi. Haqiqatda, o'yin natijasi birinchi ikki yurish (ya'ni, Shohruhning birinchi yurishi va Shaxbozning birinchi yurishi) doirasida aniqlanadi. Optimal o'yin tufayli, Shaxboz birinchi imkoniyatdagi g'alabasini qo'ldan boy bermaydi yoki aksincha, Shohruh Shaxbozning g'alabasiga yo'l qo'ymaydi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M077B) platformasidagi **M077B** raqamli **G'alati o'yin** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M077B>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M077B, G'alati o'yin yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

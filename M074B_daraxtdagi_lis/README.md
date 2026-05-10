@@ -175,13 +175,20 @@ int main() {
 *   **Backtracking (Ortga qaytish)**: DFSda global holatni (bu yerda `LIS_tails`) o'zgartirganda, tugundan chiqishda uni oldingi holatiga qaytarish zarur. Bu, daraxtning turli shoxlarini bir-biridan mustaqil ravishda qayta ishlash imkonini beradi. Aks holda, bir shoxdagi o'zgarishlar boshqa shoxlarga noto'g'ri ta'sir qilishi mumkin.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M074B) platformasidagi **M074B** raqamli **Daraxtdagi LIS** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M074B>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M074B, Daraxtdagi LIS yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -93,13 +93,20 @@ int main() {
 *   **Faqat bo'sh joylar**: Agar navbatda faqat 0 lar bo'lsa (masalan, "00000"), algoritm har bir ikkinchi joyga ishtirokchi qo'yib boradi: 0-joyga, keyin 2-joyga, keyin 4-joyga va hokazo. Bu "greedy" strategiya to'g'ri natijani beradi.
 *   **Algoritmning asosi — greedy tanlov**: Har doim birinchi mavjud shartlarni qanoatlantiruvchi joyga ishtirokchi qo'yishimiz, keyingi joyni o'tkazib yuborish orqali eng optimal yechimga erishiladi. Bu shuning uchunki, joylashtirish har doim eng chapdagi birinchi imkoniyatda amalga oshiriladi va bu keyingi imkoniyatlarni kamaytirishi mumkin bo'lgan ta'sirlarni minimallashtiradi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M077E) platformasidagi **M077E** raqamli **Navbat** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M077E>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M077E, Navbat yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

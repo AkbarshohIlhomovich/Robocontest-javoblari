@@ -101,13 +101,20 @@ int main() {
 *   **I/O tezlashtirish**: `ios_base::sync_with_stdio(false); cin.tie(0);` qatorlari C++ dagi standart kirish-chiqish (I/O) operatsiyalarini tezlashtirish uchun ishlatiladi. Bu ayniqsa katta hajmdagi kirish ma'lumotlari (ko'p testlar yoki katta $N$) bo'lganda vaqt limitiga rioya qilishga yordam beradi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M043C) platformasidagi **M043C** raqamli **Oshib borish** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M043C>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M043C, Oshib borish yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

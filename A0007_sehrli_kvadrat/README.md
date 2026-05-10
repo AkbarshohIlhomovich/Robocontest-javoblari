@@ -59,13 +59,20 @@ Masala 3x3 o'lchamli sehrli kvadrat haqida bo'lganligi sababli, uning o'lchami k
 -   **Sehrli yig'indi**: 3x3 o'lchamli va 1 dan 9 gacha bo'lgan elementlarga ega sehrli kvadratlarning sehrli yig'indisi har doim $(1+2+...+9)/3 = 45/3 = 15$ ga teng bo'ladi. Bu hisoblashda ishlatilgan sehrli kvadratlarning barchasi bu xususiyatga javob beradi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0007) platformasidagi **A0007** raqamli **Sehrli kvadrat** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0007>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0007, Sehrli kvadrat yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

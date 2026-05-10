@@ -157,13 +157,20 @@ Kodda `SegmentTree` struct` va undan keyingi ba'zi kommentlar bor, ammo ular aso
 *   **Bo'sh `pos_list[x]`**: Agar `x` qiymati massivda umuman uchramasa, `pos_list[x]` bo'sh bo'ladi. `std::lower_bound` chaqirilganda `pos_list[x].end()` ni qaytaradi, bu `found_missing_in_range_0_to_k = true` holatiga olib keladi va to'g'ri ishlaydi.
 *   `std::ios_base::sync_with_stdio(false); std::cin.tie(0);` qatorlari C++ da katta kirish/chiqish hajmlari bilan ishlaganda vaqtni optimallashtirish uchun ishlatiladi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M070E) platformasidagi **M070E** raqamli **MEX-xe-xe** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M070E>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M070E, MEX-xe-xe yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

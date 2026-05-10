@@ -123,13 +123,20 @@ int main() {
 *   **Mutlaq qiymat:** So'nggi natijada massiv elementlarining mutlaq qiymati (`std::abs()`) hisobga olinadi. Bu muhim, chunki, masalan, `-100` va `50` ni solishtirganda, `-100` ning mutlaq qiymati `100` bo'lib, u `50` dan katta hisoblanadi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M095A) platformasidagi **M095A** raqamli **Increment va Decrement** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M095A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M095A, Increment va Decrement yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

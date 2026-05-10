@@ -65,13 +65,20 @@ int main() {             // 3
 *   **Katta/kichik harflar**: Dastur kiritilgan ismni aynan o'sha katta/kichik harflar bilan chop etadi. Masalada bu haqda hech qanday talab bo'lmagani uchun, o'zgartirish shart emas.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M038A) platformasidagi **M038A** raqamli **PIIMA olimpiadasiga xush kelibsiz #2** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M038A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M038A, PIIMA olimpiadasiga xush kelibsiz #2 yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

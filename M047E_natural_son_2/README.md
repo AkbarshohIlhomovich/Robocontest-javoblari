@@ -127,13 +127,20 @@ int main() {
 *   **To'g'ri bo'sh joylar**: `spellTwoDigits` funksiyasining 0 uchun bo'sh satr qaytarishi va `main` funksiyasidagi `if (remainder > 0)` sharti, shuningdek, `tens` va `ones` massivlarining 0-indeksida bo'sh satr bo'lishi ortiqcha bo'sh joylarni yoki "besh yuz nol" kabi noto'g'ri yozuvlarni oldini oladi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M047E) platformasidagi **M047E** raqamli **Natural son #2** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M047E>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M047E, Natural son #2 yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

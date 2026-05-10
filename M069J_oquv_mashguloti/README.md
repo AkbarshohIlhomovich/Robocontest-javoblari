@@ -163,13 +163,20 @@ int main() {
 *   **Optimal harakat**: Masala shartida "optimal harakat qilishsa" deb aytilgan. Bu aynan yuqorida tavsiflangan "kelajakda eng uzoq ishlatiladigan qurolni almashtirish" strategiyasini anglatadi, chunki bu greedy yechim ushbu turdagi muammolar uchun optimal ekanligi isbotlangan.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M069J) platformasidagi **M069J** raqamli **O'quv mashg'uloti** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M069J>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M069J, O'quv mashg'uloti yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -69,13 +69,20 @@ Bu asosiy hisoblash va chiqarish qatoridir. `n - 3` ifodasi Bunyodbekning "fast 
 -   **Chalg'ituvchi ma'lumot (red herring)**: Masala shartida Bunyodbekning o'zi ham o'zi bilan tushlik olib kelgani haqida aytilgan. Bu ma'lumot faqatgina hikoyani to'ldirish uchun berilgan bo'lib, "Bunyodning nechta do‘stlari “fast food” buyurtma qilishdi?" degan savolga javob berishda hech qanday rol o'ynamaydi. Faqatgina Halim, Salim va Bilolning buyurtma qilmaganligi muhim.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M058A) platformasidagi **M058A** raqamli **Bunyodbekning do‘stlari** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M058A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M058A, Bunyodbekning do‘stlari yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

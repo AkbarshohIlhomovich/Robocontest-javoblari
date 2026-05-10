@@ -96,13 +96,20 @@ Kodning ushbu qismida yuqorida tushuntirilgan algebraik soddalashtirish va modul
 *   **Modulning tub sonligi**: `10^9 + 7` tub son hisoblanadi. Garchi bu masala uchun unchalik kritik bo'lmasa-da, ko'plab modulyar arifmetika masalalarida (masalan, modulyar inversiya, Fermatning kichik teoremasi) modulning tub sonligi muhim rol o'ynaydi. Bu yerda esa faqat modulyar ko'paytirish qoidasidan foydalanilgan.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0014) platformasidagi **A0014** raqamli **Ketma-ketlik yig'indisi** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0014>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0014, Ketma-ketlik yig'indisi yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

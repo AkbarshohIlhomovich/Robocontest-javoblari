@@ -230,13 +230,20 @@ int query_max_idx(int node_idx, int start, int end, int query_L, int query_R, in
 *   **Indeks chegaralari**: `P` massivi `N+1` elementga ega (`0` dan `N` gacha indekslar). Asl stringning `S[i...j]` oraliqi `P` massivida `P[i...j+1]` ga mos keladi. Uzunlik `(j+1) - i = R_idx - L_idx`. Bu hisob-kitoblar kodda to'g'ri aks etgan.
 *   **Tez I/O**: `std::ios_base::sync_with_stdio(false);` va `std::cin.tie(0);` qatorlari `N=10^6` bo'lganda kirish/chiqish operatsiyalarining sekinligini oldini olish uchun zarur.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M070B) platformasidagi **M070B** raqamli **Fruits (Mevalar)** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M070B>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M070B, Fruits (Mevalar) yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

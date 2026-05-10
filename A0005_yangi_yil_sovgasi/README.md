@@ -71,13 +71,20 @@ int main() {
 *   **Minimal masala**: Masala juda oddiy va asosan asosiy arifmetikaga, shuningdek, to'g'ri ma'lumot turini tanlashga qaratilgan. Bu turdagi masalalar ko'pincha dasturlash musobaqalariga kirish qismi sifatida beriladi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0005) platformasidagi **A0005** raqamli **Yangi yil sovg'asi** masalasi. U **Oson** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0005>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0005, Yangi yil sovg'asi yechimi, robocontest masalalari, c++17, olimpiada yechimi, oson, dasturlash uzbek, competitive programming O'zbekiston.</sub>

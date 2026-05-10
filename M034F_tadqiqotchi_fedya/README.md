@@ -121,13 +121,20 @@ Dastur `n` ta shahar bo'ylab bir marta iteratsiya qilib, `val_1` va `val_2` ning
 *   **Indekslash**: Masalada indekslash noldan boshlanishi (`i`-shahar, `a[i]` badali) aniq ko'rsatilgan, bu C++ dagi massivlar va tsikllar uchun standart hisoblanadi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M034F) platformasidagi **M034F** raqamli **Tadqiqotchi Fedya** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M034F>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M034F, Tadqiqotchi Fedya yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

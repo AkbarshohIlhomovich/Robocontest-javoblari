@@ -123,13 +123,20 @@ int main() {
 *   **Bir nechta g'oliblar**: Masala shartiga ko'ra, agar bir nechta o'yinchi eng yuqori ballga ega bo'lsa, ularning barchasi g'olib hisoblanadi. Kodda g'oliblarni chiqarish uchun alohida `if` shartlaridan foydalanilgan, bu esa bir nechta ismni chop etishga imkon beradi (masalan, Ali va Vali g'olib bo'lsa, ikkisining ham ismi chiqariladi).
 *   **Kiritish/chiqish (I/O) optimizatsiyasi**: `ios_base::sync_with_stdio(false); cin.tie(0);` qatorlari odatda competitive programmingda C++ `cin`/`cout` funksiyalarining tezligini oshirish uchun ishlatiladi. Bu kichik `N` va `C` qiymatlari uchun unchalik muhim bo'lmasa-da, katta kirish ma'lumotlari bo'lganda dasturning vaqt chegarasiga sig'ishiga yordam beradi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M087A) platformasidagi **M087A** raqamli **Koordinatalar sistemasi** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M087A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M087A, Koordinatalar sistemasi yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -78,13 +78,20 @@ int main() {
 *   **Kirish cheklovlari**: `1 <= N < 100` sharti masalaning murakkabligini sezilarli darajada kamaytiradi. Sonning uzunligi doimiy (bir yoki ikki raqamli) bo'lganligi sababli, murakkab algoritm yoki ma'lumotlar tuzilmalaridan foydalanishga hojat qolmaydi, to'g'ridan-to'g'ri raqamlarni ajratib olish va taqqoslash kifoya.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M058B) platformasidagi **M058B** raqamli **Magnit raqamlar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M058B>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M058B, Magnit raqamlar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

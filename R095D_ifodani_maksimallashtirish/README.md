@@ -112,13 +112,20 @@ Yechim ikki asosiy holatni ko'rib chiqadi:
 *   **Kandidat indekslar soni**: `O(log MAX_VAL)` ga teng bo'lgan `relevant_i_indices` va `relevant_k_splits` soni, `std::set` larga kiritilgan vaqtlar hisobga olinganda ham, umumiy vaqt murakkabligiga katta ta'sir qilmaydi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/R095D) platformasidagi **R095D** raqamli **Ifodani maksimallashtirish** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/R095D>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest R095D, Ifodani maksimallashtirish yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

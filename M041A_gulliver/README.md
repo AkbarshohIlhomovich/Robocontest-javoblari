@@ -68,13 +68,20 @@ int main() { // 3
 *   **Matematik formulaning soddaligi**: Masala hech qanday murakkab algoritm yoki ma'lumotlar tuzilmalarini talab qilmaydi. Bu oddiy arifmetik formulaga asoslangan bo'lib, uning yechimi to'g'ridan-to'g'ri hisoblashdan iborat. Bu turdagi masalalar ko'pincha "to'g'ridan-to'g'ri amalga oshirish" (direct implementation) yoki "matematika" kategoriyasiga kiradi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M041A) platformasidagi **M041A** raqamli **Gulliver** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M041A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M041A, Gulliver yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

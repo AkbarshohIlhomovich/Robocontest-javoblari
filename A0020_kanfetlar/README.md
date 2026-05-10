@@ -171,13 +171,20 @@ int main() {
 *   **Tez I/O**: `ios_base::sync_with_stdio(false); cin.tie(0);` kod qatorlari katta kiritish/chiqarish hajmlari bo'lgan musobaqa dasturlash masalalarida vaqtni tejash uchun standart amaliyot hisoblanadi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0020) platformasidagi **A0020** raqamli **Kanfetlar** masalasi. U **Dinamik dasturlash** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0020>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0020, Kanfetlar yechimi, robocontest masalalari, c++17, olimpiada yechimi, dinamik dasturlash, dasturlash uzbek, competitive programming O'zbekiston.</sub>

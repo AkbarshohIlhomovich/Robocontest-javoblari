@@ -107,13 +107,20 @@ int main() {
 *   **Xotira optimizatsiyasi**: C++ dagi `vector<bool>` xususan bit-packing (bitlarni yig'ish) mexanizmi orqali juda samarali xotiradan foydalanadi, ya'ni har bir `bool` uchun 1 bayt emas, balki 1 bit ishlatadi. Bu `N=10^5` kabi katta `N` qiymatlarida `16 MB` kabi kichik xotira chegaralariga sig'ishga yordam beradi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0006) platformasidagi **A0006** raqamli **O'yin** masalasi. U **Sonlar nazariyasi** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0006>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0006, O'yin yechimi, robocontest masalalari, c++17, olimpiada yechimi, sonlar nazariyasi, dasturlash uzbek, competitive programming O'zbekiston.</sub>

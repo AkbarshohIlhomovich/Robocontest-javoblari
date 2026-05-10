@@ -104,13 +104,20 @@ Yechimning asosiy g'oyasi – berilgan daraxtdagi har bir tugunni "Kanji for Kin
 *   **Sub-daraxtlar farqi:** Masalada ikki sub-daraxt bir-biridan, agar bittasida qaysidir tugun mavjud bo'lsa, lekin boshqasida bo'lmasa, farqli hisoblanishi aytilgan. Bizning yondashuvimiz har bir markaziy tugun atrofida hosil bo'lishi mumkin bo'lgan har bir noyob 9 tugunli to'plamni sanash orqali bu shartni qanoatlantiradi, chunki har xil kombinatsiyalar doimo tugunlarning har xil to'plamiga olib keladi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M091F) platformasidagi **M091F** raqamli **Kanji for king (王)** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M091F>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M091F, Kanji for king (王) yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

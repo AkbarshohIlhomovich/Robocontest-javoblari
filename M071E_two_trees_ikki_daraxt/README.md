@@ -94,13 +94,20 @@ Bunday turdagi masalalarni samarali hal qilish uchun "sweep-line" (sudrab o'tish
 *   **`timer_dfs` ni nolga qaytarish:** Ikkinchi daraxt uchun DFS ni ishga tushirishdan oldin `timer_dfs` ni qayta nolga o'rnatish muhimdir, chunki `tin1` va `tin2` qiymatlari bir-biridan mustaqil bo'lishi kerak.
 *   **Optimal I/O:** `std::ios_base::sync_with_stdio(false); std::cin.tie(0);` qatorlari C++ oqimlarining standart kirish/chiqarish operatsiyalarini tezlashtirish uchun ishlatiladi, bu katta hajmdagi kiritish/chiqarishga ega bo'lgan raqobatbardosh dasturlash masalalarida muhim.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M071E) platformasidagi **M071E** raqamli **Two Trees (Ikki daraxt)** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M071E>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M071E, Two Trees (Ikki daraxt) yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

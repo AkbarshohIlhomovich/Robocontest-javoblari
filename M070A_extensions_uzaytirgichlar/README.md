@@ -80,13 +80,20 @@ int main() {
 *   **`long long` dan foydalanish**: `total_sockets` o'zgaruvchisi uchun `long long` ma'lumot turi ishlatilishi, \(N\) va \(a_i\) ning maksimal qiymatlarida ( \(N=10^5, a_i=100\), yig'indi \(10^7\) ga yetishi mumkin) int ma'lumot turining chegarasidan oshib ketishining oldini oladi. Garchi `int` ko'pgina tizimlarda \(2 \cdot 10^9\) gacha qiymatlarni saqlay olsa ham, `long long` bunday hisob-kitoblar uchun xavfsizroq va umumiy amaliyot hisoblanadi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M070A) platformasidagi **M070A** raqamli **Extensions (uzaytirgichlar)** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M070A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M070A, Extensions (uzaytirgichlar) yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -103,13 +103,20 @@ int main() {
 *   **Optimal orientatsiya**: O'lchamlarni saralash usuli qutini joylashtirish mumkin bo'lgan barcha mumkin bo'lgan orientatsiyalar orasidan eng qulayini avtomatik ravishda tanlaydi. Bu bizga bo'yi, eni, balandlikni aniq moslashtirish haqida o'ylamasdan, shunchaki eng kichikni kichigiga, o'rtanchani o'rtanchasiga va eng kattani kattasiga solishtirish imkonini beradi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M084C) platformasidagi **M084C** raqamli **Qutilar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M084C>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M084C, Qutilar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

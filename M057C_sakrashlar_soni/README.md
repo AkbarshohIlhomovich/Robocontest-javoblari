@@ -102,13 +102,20 @@ int main() {
 - **Minimal qadamlar**: Algoritm `k` ni 1 dan boshlab bosqichma-bosqich oshirib boradi va shartlar bajarilganda birinchi topilgan `k` minimal hisoblanadi, chunki `current_sum` monoton ravishda o'sib boradi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M057C) platformasidagi **M057C** raqamli **Sakrashlar soni** masalasi. U **Matematika** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M057C>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M057C, Sakrashlar soni yechimi, robocontest masalalari, c++17, olimpiada yechimi, matematika, dasturlash uzbek, competitive programming O'zbekiston.</sub>

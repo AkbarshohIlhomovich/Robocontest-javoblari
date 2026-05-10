@@ -134,13 +134,20 @@ int main() {
 *   **I/O optimallashtirish**: `ios_base::sync_with_stdio(false);` va `cin.tie(0);` qatorlari C++ stream (oqim)larining tezligini oshirish uchun juda muhim, ayniqsa katta hajmli kirish/chiqish ma'lumotlari bo'lganda.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0001) platformasidagi **A0001** raqamli **A+B** masalasi. U **Uzun sonlar arifmetikasi** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0001>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0001, A+B yechimi, robocontest masalalari, c++17, olimpiada yechimi, uzun sonlar arifmetikasi, dasturlash uzbek, competitive programming O'zbekiston.</sub>

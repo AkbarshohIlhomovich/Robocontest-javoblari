@@ -189,13 +189,20 @@ int main() {
 *   **DP bazis holatlari**: `N_val <= K_val + 1` holatining to'g'ri aniqlanishi va `dp[i] = 2^(i-2)` ning to'g'ri qo'llanilishi muhim. DP ni boshidan boshlab qo'lda hisoblab ko'rish bu bazis holatlarning to'g'riligini tasdiqlashga yordam beradi.
 *   **Indekslar bilan ehtiyot bo'lish**: Matritsa va vektor indekslari, ayniqsa `dp[t-K_val]` kabi atamalar bilan ishlaganda (ular vektorning qaysi indeksiga to'g'ri kelishi) diqqat talab qiladi. Kodda `initial_vec[i]` ning `dp[K_val + 1 - i]` ga mos kelishi to'g'ri qabul qilingan.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/R094D) platformasidagi **R094D** raqamli **Teleportatsiya** masalasi. U **Matrix** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/R094D>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest R094D, Teleportatsiya yechimi, robocontest masalalari, c++17, olimpiada yechimi, matrix, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -105,13 +105,20 @@ int main() {
 *   **`floor` va butun bo'lish**: C++ da musbat butun sonlarni bo'lish (`/` operatori) natijani har doim nolga qarab yaxlitlaydi (truncation). Musbat sonlar uchun bu `floor` funksiyasining vazifasini bajaradi. Masalan, `20 / 7` natijasi `2` bo'ladi, bu `floor(2.85...)` ga teng. Bu masalada barcha sonlar musbat bo'lgani uchun, oddiy butun bo'lish operatoridan foydalanish to'g'ri yechim beradi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072G) platformasidagi **M072G** raqamli **Floor funksiyasi** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M072G>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M072G, Floor funksiyasi yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

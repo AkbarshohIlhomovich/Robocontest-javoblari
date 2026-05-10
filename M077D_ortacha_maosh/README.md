@@ -112,13 +112,20 @@ int main() {
 *   **Chiqarish aniqligi**: Masala 10^-5 absolut xatolik talab qiladi. Kodda ishlatilgan `std::setprecision(14)` `long double` uchun bu aniqlikni qondirishga yetarli. Namuna natijalariga moslashish uchun butun sonli o'rtachalar (masalan, 80.0) alohida formatlangan. Bu yaxshi amaliyot bo'lib, ba'zi test tizimlari uchun muhim bo'lishi mumkin.
 *   **I/O Tezlashtirish**: `std::ios_base::sync_with_stdio(false);` va `std::cin.tie(0);` kod qatorlari katta kirish/chiqish (I/O) ma'lumotlari bilan ishlaganda dasturning vaqt chegarasidan oshib ketmasligi uchun muhim. Ular C++ streamlarining ishlashini sezilarli darajada tezlashtiradi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M077D) platformasidagi **M077D** raqamli **O'rtacha maosh** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M077D>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M077D, O'rtacha maosh yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

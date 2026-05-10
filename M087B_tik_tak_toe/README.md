@@ -116,13 +116,20 @@ int main() {
 *   **Qisqa satrlar**: Agar kirish satrining uzunligi 3 dan kam bo'lsa (masalan, "xo", "xx"), `check_win` funksiyasining sikli (`i <= (int)board.length() - 3`) ishlamaydi va `false` qaytaradi, chunki uchta ketma-ket `x` hosil qilish imkonsiz. Bu ham to'g'ri.
 *   **Boshida allaqachon uchta 'x' mavjud bo'lsa**: Masalan, "xxoxxx". Birinchi o'yinchi birinchi `o` ni almashtiradi (masalan, "xxxoxx" bo'ladi). Shundan so'ng `check_win` funksiyasi tekshirib, g'olibni topadi ("Birinchi" o'yinchi g'alaba qozonadi), chunki masala sharti "Kimda birinchi bo'lib 3 ta ketma-ket x hosil bo'lsa o'sha g'olib bo'ladi" deydi, bu o'z harakati natijasida hosil bo'lishini anglatadi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M087B) platformasidagi **M087B** raqamli **Tik Tak Toe** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M087B>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M087B, Tik Tak Toe yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

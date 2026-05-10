@@ -125,13 +125,20 @@ int main() {
 *   **Chiqish formati:** `DD/MM/YYYY` formatini ta'minlash uchun `iomanip` kutubxonasidagi `setfill('0')` va `setw()` manipulyatorlaridan foydalanish shart. Bular kun va oy uchun ikki xonali, yil uchun toʻrt xonali formatni, kerak boʻlsa oldiga nollar qoʻyib chiqarilishini ta'minlaydi. Masalan, yil 9 bo'lsa `0009` ko'rinishida chiqariladi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0002) platformasidagi **A0002** raqamli **Dasturchilar kuni** masalasi. U **Oson** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0002>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0002, Dasturchilar kuni yechimi, robocontest masalalari, c++17, olimpiada yechimi, oson, dasturlash uzbek, competitive programming O'zbekiston.</sub>

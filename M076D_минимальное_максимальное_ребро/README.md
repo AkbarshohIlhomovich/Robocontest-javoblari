@@ -135,13 +135,20 @@ int main() {
 *   **`s == t` holati**: Agar `s` va `t` bir xil tugunlar bo'lsa, `find_set(s) == find_set(t)` sharti DSU initsializatsiyasidan keyinoq, hatto birorta qirra qo'shmasdan ham `true` bo'ladi. Biroq, kod loopga kiradi va birinchi qirrani qo'shib, keyin tekshiradi. Agar `s == t` bo'lsa, nazariy jihatdan javob 0 bo'lishi kerak edi (hech qanday qirra ishlatmasdan o'z-o'ziga borish). Lekin, odatda, bunday masalalarda `s != t` deb faraz qilinadi. Agar bu holat yuzaga kelsa, kod birinchi qirraning og'irligini chop etadi, bu noto'g'ri bo'lishi mumkin. Masala shartiga ko'ra, bu muammo emas, deb hisoblaymiz.
 *   **Qirra og'irliklari**: Qirra og'irliklari `1` dan `10^9` gacha bo'lishi mumkin. `int` tipi bu diapazonni qoplash uchun yetarli.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M076D) platformasidagi **M076D** raqamli **Минимальное Максимальное Ребро** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M076D>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M076D, Минимальное Максимальное Ребро yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

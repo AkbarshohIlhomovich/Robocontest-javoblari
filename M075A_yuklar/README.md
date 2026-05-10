@@ -105,13 +105,20 @@ Algoritm quyidagicha ishlaydi:
 *   **Yuklarning kelish tartibi**: Yuklar saralanganligi sababli, `current_collection_day` (`packages[i].r`) har doim `packages[j].r` dan (`j >= i` uchun) kichik yoki teng bo'ladi. Shu sababli, ichki `while` siklida `packages[current_package_idx].r >= current_collection_day` shartini tekshirish shart emas, chunki bu shart `current_package_idx >= i` bo'lgan har qanday yuk uchun avtomatik bajariladi. Faqat `packages[current_package_idx].l <= current_collection_day` shartini tekshirish kifoya.
 *   **Greedy yondashuvning to'g'riligi**: Nega "eng erta muddat" strategiyasi optimal? Chunki biz har doim eng qisqa muddat ichida yig'ilishi kerak bo'lgan yukni birinchi bo'lib ko'rib chiqamiz. Bu yukni yig'ishni keyinga qoldirish, boshqa yuklarning muddatini ham tugatishi mumkin, natijada ko'proq sayohat qilishga to'g'ri keladi. Bu yukni uning tugash kunida yig'ish esa, boshqa yuklar uchun maksimal yig'ish oynasini saqlab qoladi va ularni ham shu sayohatda yig'ish imkoniyatini oshiradi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M075A) platformasidagi **M075A** raqamli **Yuklar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M075A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M075A, Yuklar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

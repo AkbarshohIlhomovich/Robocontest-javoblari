@@ -96,13 +96,20 @@ Bu yerda `a`, `b`, `c` nomli uchta butun son turidagi o'zgaruvchilar e'lon qilin
 `std::set` dan foydalanish ushbu barcha holatlarni avtomatik tarzda hal qiladi va qo'shimcha shartli ifodalarni (if-else) yozish zaruratini yo'q qiladi, bu esa kodni juda sodda va tushunarli qiladi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M047C) platformasidagi **M047C** raqamli **Taqqoslash** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M047C>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M047C, Taqqoslash yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

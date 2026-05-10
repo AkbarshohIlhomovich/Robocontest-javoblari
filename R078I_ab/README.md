@@ -84,13 +84,20 @@ int main() {
 *   **Tezkor I/O**: Garchi bu masalada tezkor kirish/chiqish (`ios_base::sync_with_stdio(false); cin.tie(0);`) juda muhim bo'lmasa-da, katta hajmdagi ma'lumotlar bilan ishlaganda bu yaxshi odat va dasturning ishlashini sezilarli darajada tezlashtirishi mumkin. Shuning uchun buni har doim dasturlaringizga kiritishni tavsiya etamiz.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/R078I) platformasidagi **R078I** raqamli **A+B** masalasi. U **Oson** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/R078I>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest R078I, A+B yechimi, robocontest masalalari, c++17, olimpiada yechimi, oson, dasturlash uzbek, competitive programming O'zbekiston.</sub>

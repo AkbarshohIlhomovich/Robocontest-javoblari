@@ -72,13 +72,20 @@ int main() {
 - **`reverse` funksiyasining ta'siri**: Bu masalaning eng muhim jihati sonni teskariga aylantirish funksiyasi qanday ishlashini bilishdir. Aksariyat programmalash tillarida yoki raqamni stringga o'tkazib teskariga aylantirganda, keyin uni qayta int/long ga o'tkazganda oxiridagi nollar yo'qoladi (masalan, "3400" -> "0043" (string) -> 43 (int)). Aynan shu xususiyat yechimning samarali bo'lishini ta'minlaydi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M057A) platformasidagi **M057A** raqamli **Teskari^2** masalasi. U **Oson** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M057A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M057A, Teskari^2 yechimi, robocontest masalalari, c++17, olimpiada yechimi, oson, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -101,13 +101,20 @@ int main() {
 *   **Kod samaradorligi**: Kod `std::min_element` va `std::max_element` kabi standart kutubxona funksiyalaridan foydalanmasdan min/max qiymatlarini topadi. Bu unchalik farq qilmasa-da, doimiy kichik hajmli ma'lumotlar bilan ishlaganda o'zimizning oddiy tsikl yozish kutubxona funksiyalarini chaqirishdan biroz tezroq bo'lishi mumkin. Umumiy samaradorlik O(1) bo'lib qoladi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0003) platformasidagi **A0003** raqamli **Minimum va maksimum yig'indi** masalasi. U **Oson** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0003>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0003, Minimum va maksimum yig'indi yechimi, robocontest masalalari, c++17, olimpiada yechimi, oson, dasturlash uzbek, competitive programming O'zbekiston.</sub>

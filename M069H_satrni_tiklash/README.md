@@ -120,13 +120,20 @@ int main() {
 *   **`long long` dan foydalanish**: `m` operatsiyalar soni va `k` ko'paytmasi `m*k` `int` turining maksimal qiymatidan (taxminan 2 * 10^9) oshib ketishi mumkin (`m` 10^6 ga, `k` ham 10^6 ga yetishi mumkin, ko'paytma 10^12). Shuning uchun `m` va uning ko'paytmasi uchun `long long` turidan foydalanish zarur va kodda bu to'g'ri qo'llanilgan.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M069H) platformasidagi **M069H** raqamli **Satrni tiklash** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M069H>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M069H, Satrni tiklash yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

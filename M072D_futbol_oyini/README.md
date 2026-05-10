@@ -68,13 +68,20 @@ int main() { // Har qanday C++ dasturining asosiy kirish nuqtasi.
 *   **Tez I/O**: `ios_base::sync_with_stdio(false); cin.tie(0);` qatorlari kiritish/chiqarish operatsiyalarini tezlashtirish uchun juda muhim, ammo bu masala uchun kirish ma'lumotlari hajmi kichik bo'lgani sababli, ularning yo'qligi ham javob vaqtiga katta ta'sir qilmasdi. Shunga qaramay, competitive programmingda bu yaxshi odat hisoblanadi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072D) platformasidagi **M072D** raqamli **Futbol o'yini** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M072D>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M072D, Futbol o'yini yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

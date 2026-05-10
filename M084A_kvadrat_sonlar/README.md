@@ -57,13 +57,20 @@ Yechimning asosiy g'oyasi juda sodda va to'g'ridan-to'g'ri. Biz 1 dan boshlab na
 -   **Chop etish formati**: Masalada javoblar bo'sh joy bilan ajratilgan holda, o'sish tartibida va oxirida yangi qator bilan tugashi talab qilinadi. Koddagi `first_output` mantiqiy o'zgaruvchisi va `cout << endl;` buyrug'i bu format talablarini to'liq qondiradi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M084A) platformasidagi **M084A** raqamli **Kvadrat sonlar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M084A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M084A, Kvadrat sonlar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

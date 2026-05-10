@@ -1,3 +1,11 @@
+---
+title: "M087E — Permutatsiya | Robocontest.uz Yechimi"
+description: "Robocontest.uz M087E (Permutatsiya) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M087E, Permutatsiya yechimi, robocontest Permutatsiya, M087E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M087E_permutatsiya/
+lang: uz
+---
+
 # M087E — Permutatsiya
 
 ## Masala haqida
@@ -146,3 +154,20 @@ int main() {
 *   **`visited` massivi va permutatsiya sharti**: `visited` massivi har bir sonning permutatsiyada faqat bir marta ishlatilishini ta'minlaydi. `max_val_so_far == num_elements_so_far` sharti esa topilgan sonlar 1 dan N gacha bo'lgan to'liq to'plamni tashkil etishini tasdiqlaydi. Bu ikkita mexanizm birgalikda, agar yechim topilsa, u haqiqatan ham 1 dan N gacha bo'lgan sonlarning permutatsiyasi ekanligini kafolatlaydi.
 *   **Maksimal N = 50**: Bu cheklov juda muhim, chunki u har bir sonning maksimal 2 xonali bo'lishini (10 dan 50 gacha) yoki 1 xonali bo'lishini (1 dan 9 gacha) anglatadi. Agar N kattaroq bo'lganda, 3 xonali sonlarni ham ko'rib chiqish kerak bo'lar edi.
 *   **I/O optimallashtirish**: `std::ios_base::sync_with_stdio(false);` va `std::cin.tie(0);` qatorlari C++ oqimlarining tezligini oshirish uchun ishlatiladi, bu musobaqa dasturlashda katta kirish ma'lumotlari uchun muhim.
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M087E) platformasidagi **M087E** raqamli **Permutatsiya** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M087E>
+- Boshqa yechimlar: [Yechimlar indeksi](../)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M087E, Permutatsiya yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

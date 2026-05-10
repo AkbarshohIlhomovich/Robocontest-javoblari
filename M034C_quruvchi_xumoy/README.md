@@ -73,13 +73,20 @@ int main() {
 *   **Butun sonli bo'lish**: `(X + Y)` har doim `common_divisor` ga bo'linadi, chunki `common_divisor` `X` va `Y` ning bo'luvchisi bo'lgani uchun, ularning yig'indisi ham `common_divisor` ga bo'linadi. Shuning uchun `(X + Y) / common_divisor` qoldiqsiz butun son bo'ladi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M034C) platformasidagi **M034C** raqamli **Quruvchi Xumoy** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M034C>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M034C, Quruvchi Xumoy yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

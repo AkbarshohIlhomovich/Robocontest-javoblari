@@ -104,13 +104,20 @@ int main() {
 *   **`std::ios_base::sync_with_stdio(false); std::cin.tie(0);`**: Ushbu qatorlar C++ standart kirish/chiqish (I/O) oqimlarini raqobatli dasturlash muhitida tezlashtirish uchun juda muhimdir. Ular `std::cin` va `std::cout` ning C tilining `stdio` kutubxonasi bilan sinxronizatsiyasini o'chiradi va `std::cin` ning har bir kiritish operatsiyasidan oldin `std::cout` buferini tozalashini bekor qiladi. Bu katta miqdordagi kiritish/chiqish operatsiyalari mavjud bo'lgan masalalarda dasturning umumiy ish vaqtini sezilarli darajada qisqartirishi mumkin.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0015) platformasidagi **A0015** raqamli **Raqamlangan to'plar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0015>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0015, Raqamlangan to'plar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -119,13 +119,20 @@ Bu turdagi oraliklar bo'yicha maksimal qiymatni topish masalalari odatda **Segme
 *   **1-indeksdan foydalanish:** Kodda massiv `a` va so'rov oralig'i `l, r` 1-indeksdan boshlab ishlatilgan. Bu indeksatsiya sxemasiga doimiy ravishda rioya qilish zarur.
 *   **`__builtin_clz` ning portativligi:** `__builtin_clz` funksiyasi GCC va Clang kompilyatorlariga xosdir. Agar boshqa kompilyatorlar (masalan, MSVC) ishlatilsa, u ishlamasligi mumkin. Bunday hollarda, `std::log2` (double qabul qiladi, butun sonlarga aylantirish kerak bo'ladi) yoki bitli operatsiyalar bilan `log2` ni hisoblaydigan boshqa butun son funksiyasini yozish kerak bo'ladi. Biroq, competitive programming muhitlarida bu intrinsik funksiyalar keng qo'llaniladi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M071D) platformasidagi **M071D** raqamli **Thanos sort** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M071D>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M071D, Thanos sort yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

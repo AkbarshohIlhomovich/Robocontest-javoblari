@@ -100,13 +100,20 @@ int main() {
 *   **Alifbo cheklovi**: Masala sharti bo'yicha faqat kichik ingliz harflari ("a" dan "z" gacha) ishlatiladi. Bu `freqS` va `freqT` massivlarining hajmini aniq 26 ta element bilan cheklashga imkon beradi, bu esa algoritmning `O(1)` xotira murakkabligini ta'minlaydi.
 *   **Kirish/chiqish optimizatsiyalari**: `ios_base::sync_with_stdio(false);` va `cin.tie(0);` qatorlari C++ dasturlashda katta hajmdagi kirish/chiqish ma'lumotlari bilan ishlashda dastur ish faoliyatini sezilarli darajada yaxshilash uchun keng qo'llaniladigan standart amaliyotdir.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M071A) platformasidagi **M071A** raqamli **Two strings (Ikki Satr)** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M071A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M071A, Two strings (Ikki Satr) yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

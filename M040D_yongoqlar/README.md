@@ -85,13 +85,20 @@ int main() {             // 3
 *   **Ma'lumotlar diapazoni**: `S < 10^6` sharti `int` turidagi o'zgaruvchilardan foydalanishga imkon beradi, chunki `int` tipi C++ da odatda `2 * 10^9` gacha bo'lgan butun sonlarni saqlay oladi. Hisoblashlarda (masalan, `4 * D`) ham qiymatlar `int` chegarasidan chiqib ketmaydi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M040D) platformasidagi **M040D** raqamli **Yong’oqlar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M040D>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M040D, Yong’oqlar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

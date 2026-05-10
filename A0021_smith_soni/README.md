@@ -136,13 +136,20 @@ int main() {
 *   **`long long` dan foydalanish:** Kodda `sum_prime_factor_digits` `long long` deb e'lon qilingan. Aslida, $N < 2 \cdot 10^9$ bo'lgani uchun, uning raqamlari yig'indisi eng ko'pi $1+9 \times 9 = 82$ (masalan, $1,999,999,999$ uchun). Tub ko'paytuvchilarning raqamlari yig'indisi ham bundan katta bo'lmaydi, chunki ular \(N\) dan kichik bo'ladi. Shuning uchun `int` turi ham ushbu yig'indilar uchun yetarli bo'ladi. Biroq, `(long long)i * i <= temp_N` qismi `i*i` ning `int` diapazonidan chiqib ketishini oldini olish uchun muhim va to'g'ri ishlatilgan.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/A0021) platformasidagi **A0021** raqamli **Smith soni** masalasi. U **Sonlar nazariyasi** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/A0021>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest A0021, Smith soni yechimi, robocontest masalalari, c++17, olimpiada yechimi, sonlar nazariyasi, dasturlash uzbek, competitive programming O'zbekiston.</sub>

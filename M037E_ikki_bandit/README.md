@@ -57,13 +57,20 @@ int main() {
 - **Tezlashtirish uchun kod**: `std::ios_base::sync_with_stdio(false);` va `std::cin.tie(0);` qatorlari odatda katta kirish ma'lumotlariga ega bo'lgan masalalarda C++ I/O operatsiyalarini tezlashtirish uchun ishlatiladi. Ushbu masala uchun, kirish hajmi juda kichik bo'lgani sababli, bu optimizatsiyalar shart emas, lekin zarar ham qilmaydi.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M037E) platformasidagi **M037E** raqamli **Ikki bandit** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M037E>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M037E, Ikki bandit yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

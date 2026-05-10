@@ -38,8 +38,13 @@ exclude:
   - "Gemfile.lock"
   - vendor/
   - "*.gemspec"
-  - "*.cpp"
   - .cache/
   - .DS_Store
   - .venv/
-  - solution.cpp
+
+# .cpp fayllar Jekyll tomonidan jimgina ko'chiriladi (sahifa qilinmaydi).
+include:
+  - "*.cpp"
+
+keep_files:
+  - "*.cpp"

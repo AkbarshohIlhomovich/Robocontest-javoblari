@@ -104,13 +104,20 @@ Asosiy g'oya — rekursiv funksiya yordamida har bir galaktika uchun yulduzlarni
 *   **`start_idx_for_inner` parametri**: Bu parametr, bir galaktikani shakllantirishda yulduzlarni tanlash permutatsiyalarini oldini oladi. Ya'ni, agar biz A yulduzini keyin B yulduzini tanlasak, keyinroq B yulduzini keyin A yulduzini tanlashga urinmaymiz, chunki ularning yig'indisi bir xil. Bu ham vaqtni tejaydi.
 *   **Memoizatsiya holati**: Memoizatsiya faqat `current_bucket_sum == 0` bo'lganda qo'llaniladi. Bu juda muhim, chunki `current_bucket_sum` holatning bir qismi sifatida juda ko'p turli qiymatlarni qabul qilishi mumkin va bu holatni to'g'ridan-to'g'ri memoizatsiya qilish xotirani oshirib yuborishi mumkin. `(k_remaining, available_mask)` juftligi to'liq galaktikalarni shakllantirish holatini anglatadi va ushbu turdagi `subset sum` muammolarida samarali hisoblanadi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M076B) platformasidagi **M076B** raqamli **Космическая Балансировка** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M076B>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M076B, Космическая Балансировка yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

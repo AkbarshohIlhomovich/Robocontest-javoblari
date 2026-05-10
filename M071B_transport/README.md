@@ -72,13 +72,20 @@ Har bir transport turi uchun ikkita variant bor: abonement sotib olish yoki olma
 *   **Barcha transportlar uchun abonement sotib olish**: `mask = 15` (`1111` ikkilikda) bo‘lgan holatda barcha 4 ta transport turiga abonement sotib olinadi. Bunday holda, segmentlar bo‘ylab harakatlanish tekin bo‘ladi (agar -1 bo‘lmasa), faqat abonement narxlari (`C[0] + C[1] + C[2] + C[3]`) hisobga olinadi.
 *   **Hech qanday abonement sotib olmaslik**: `mask = 0` bo‘lgan holatda hech qanday abonement sotib olinmaydi. Bunday holda, har bir segment uchun faqatgina `A[t][i]` qiymatlaridan minimali tanlanadi. Bu holat ham to'g'ri hisobga olinadi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M071B) platformasidagi **M071B** raqamli **Transport** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M071B>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M071B, Transport yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -122,13 +122,20 @@ int main() {
 *   **Saralash tartibi**: Oraloqlarni o'ng chegarasi bo'yicha saralash bu ochko'z algoritmning to'g'riligi uchun juda muhim. Agar o'ng chegaralar teng bo'lsa, chap chegara bo'yicha saralash natijaga ta'sir qilmaydi, ammo xuddi shunday qiymatlarga ega oraliqlar uchun tartibni barqaror qiladi.
 *   **N va M chegaralari**: $N, M \le 10^5$ kabi katta qiymatlar `O(M log M)` yoki `O(N log N)` kabi samarali algoritmlarni talab qilishini ko'rsatadi, kvadratik (`O(N^2)`) yechimlar vaqt limitidan oshib ketadi. Bizning yechimimiz bu talabga javob beradi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M074G) platformasidagi **M074G** raqamli **Orollar urushi** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M074G>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M074G, Orollar urushi yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

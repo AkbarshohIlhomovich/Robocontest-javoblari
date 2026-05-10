@@ -70,13 +70,20 @@ int main() {
 *   **Maksimal qiymat (10^15)**: Bu 16 xonali son. `long long` tipi uni bemalol saqlay oladi. Satrga o'tkazish va sikl bu uzunlikdagi sonni ham to'g'ri qayta ishlaydi va spaces to'g'ri joylarga qo'yiladi (masalan, `1 000 000 000 000 000,00`).
 *   **Vaqt va xotira samaradorligi**: Yondashuv `O(L)` vaqt va `O(L)` xotira murakkabligiga ega bo'lib, `L` (raqamlar soni) juda kichik bo'lganligi sababli, bu yechim berilgan vaqt va xotira chegaralariga bemalol mos keladi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072J) platformasidagi **M072J** raqamli **Kvitansiya** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M072J>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M072J, Kvitansiya yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

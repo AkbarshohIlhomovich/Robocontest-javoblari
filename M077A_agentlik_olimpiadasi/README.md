@@ -86,13 +86,20 @@ int main() {
 *   **Kiruvchi belgi turi**: Masala ASCII jadvalidan chop etish mumkin bo'lgan belgilardan biri berilishini ta'kidlagan. Bu xususiy (special) belgilar, masalan, raqamlar, punktuatsiya belgilari va boshqalar ham kiritilishi mumkinligini bildiradi. Kod barcha shu turdagi belgilarni to'g'ri ishlata oladi.
 *   **Satrning o'zgarmasligi**: "Agentlik olimpiadasiga xush kelibsiz" satri masalada qat'iy belgilab qo'yilgan. Bu uning uzunligi va mazmuni o'zgarmasligini anglatadi, bu esa vaqt va xotira murakkabligini doimiy O(1) darajasiga tushiradi.
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M077A) platformasidagi **M077A** raqamli **Agentlik olimpiadasi** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M077A>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M077A, Agentlik olimpiadasi yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

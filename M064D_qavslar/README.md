@@ -182,13 +182,20 @@ int main() {
 *   **`long long` ishlatish:** `total_rbs_count` va `dp` massividagi qiymatlar katta sonlarga yetishi mumkin (200,000 uzunlikdagi satrda potentsial yaxshi qism-satrlar soni juda ko'p bo'lishi mumkin), shuning uchun `int` o'rniga `long long` ma'lumot turini ishlatish to'g'ri tanlov.
 ---
 ---
+---
+
+## Fayllar
+
+- [`solution.cpp`](./solution.cpp) — C++17 yechim kodi
+- [`problem.md`](./problem.md) — masala matni va sample testlar
+- [`meta.json`](./meta.json) — natija (vaqt, xotira, submission ID)
 
 ## Robocontest haqida ko'proq
 
 Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M064D) platformasidagi **M064D** raqamli **Qavslar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
 
 - Asl masala havolasi: <https://robocontest.uz/tasks/M064D>
-- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Boshqa yechimlar: [Yechimlar indeksi](../)
 - Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
 
 <sub>**Kalit so'zlar**: robocontest M064D, Qavslar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>
