@@ -1,0 +1,14 @@
+{
+  "task_id": "M079C",
+  "title": "O'yin maydonchasi",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 2000,
+  "memory_limit_mb": 128,
+  "verdict": {
+    "submission_id": "10993350",
+    "time_ms": 385,
+    "memory_kb": 3168
+  },
+  "saved_at": "2026-05-10T15:27:00"
+}
