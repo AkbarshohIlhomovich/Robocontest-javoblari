@@ -6,7 +6,7 @@
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-42-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-43-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -44,10 +44,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 42 ta masala
-- **O'rtacha qiyinchilik**: 7.4%
-- **O'rtacha vaqt**: 6.1 ms
-- **Eng oxirgi**: [M064C — K belgili satr](./M064C_k_belgili_satr) _(2026-05-10)_
+- **Jami yechilgan**: 43 ta masala
+- **O'rtacha qiyinchilik**: 7.3%
+- **O'rtacha vaqt**: 6.0 ms
+- **Eng oxirgi**: [M069E — Matematikani yomon ko'raman](./M069E_matematikani_yomon_koraman) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -55,7 +55,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 29 |
+| Kategoriyasiz | 30 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -68,6 +68,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M069E](./M069E_matematikani_yomon_koraman) | Matematikani yomon ko'raman | - | 1 ms | 2026-05-10 |
 | [M064C](./M064C_k_belgili_satr) | K belgili satr | - | 1 ms | 2026-05-10 |
 | [M064D](./M064D_qavslar) | Qavslar | - | 26 ms | 2026-05-10 |
 | [M064F](./M064F_ketma-ketlik_ab) | Ketma-ketlik a/b | - | 1 ms | 2026-05-10 |
@@ -77,7 +78,6 @@ solutions/
 | [M057B](./M057B_operatsiyalar_soni) | Operatsiyalar soni | - | 1 ms | 2026-05-10 |
 | [M057A](./M057A_teskari2) | Teskari^2 | #Oson | 1 ms | 2026-05-10 |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar | - | 7 ms | 2026-05-10 |
-| [M084C](./M084C_qutilar) | Qutilar | - | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
