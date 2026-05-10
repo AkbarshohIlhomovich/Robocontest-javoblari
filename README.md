@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-65-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-66-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 65 ta masala
+- **Jami yechilgan**: 66 ta masala
 - **O'rtacha qiyinchilik**: 5.1%
-- **O'rtacha vaqt**: 30.6 ms
-- **Eng oxirgi**: [R094D — Teleportatsiya](./R094D_teleportatsiya) _(2026-05-10)_
+- **O'rtacha vaqt**: 30.1 ms
+- **Eng oxirgi**: [M077E — Navbat](./M077E_navbat) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 51 |
+| Kategoriyasiz | 52 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M077E](./M077E_navbat) | Navbat | - | 1 ms | 2026-05-10 |
 | [R094D](./R094D_teleportatsiya) | Teleportatsiya | #Matrix | 1069 ms | 2026-05-10 |
 | [M074G](./M074G_orollar_urushi) | Orollar urushi | - | 33 ms | 2026-05-10 |
 | [M072E](./M072E_yoqolgan_son) | Yo'qolgan son | - | 14 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M071D](./M071D_thanos_sort) | Thanos sort | - | 0 ms | 2026-05-10 |
 | [M071B](./M071B_transport) | Transport | - | 0 ms | 2026-05-10 |
 | [M071A](./M071A_two_strings_ikki_satr) | Two strings (Ikki Satr) | - | 1 ms | 2026-05-10 |
-| [M070E](./M070E_mex-xe-xe) | MEX-xe-xe | - | 0 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
