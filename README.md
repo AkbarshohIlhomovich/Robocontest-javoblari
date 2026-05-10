@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-87-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-88-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 87 ta masala
+- **Jami yechilgan**: 88 ta masala
 - **O'rtacha qiyinchilik**: 4.1%
-- **O'rtacha vaqt**: 31.3 ms
-- **Eng oxirgi**: [M073F — JavaScript vs Python](./M073F_javascript_vs_python) _(2026-05-10)_
+- **O'rtacha vaqt**: 31.0 ms
+- **Eng oxirgi**: [M074D — Xor va summa](./M074D_xor_va_summa) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 73 |
+| Kategoriyasiz | 74 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M074D](./M074D_xor_va_summa) | Xor va summa | - | 10 ms | 2026-05-10 |
 | [M073F](./M073F_javascript_vs_python) | JavaScript vs Python | - | 1 ms | 2026-05-10 |
 | [M073H](./M073H_modullar_yigindisi) | Modullar yig'indisi | - | 2 ms | 2026-05-10 |
 | [M073G](./M073G_satrni_qayta_qurish) | Satrni qayta qurish | - | 1 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M072A](./M072A_robocontestdagi_rating_tizimi) | Robocontestdagi rating tizimi | - | 1 ms | 2026-05-10 |
 | [M070C](./M070C_aliens_ozga_sayyoraliklar) | Aliens (O'zga sayyoraliklar) | - | 0 ms | 2026-05-10 |
 | [M070B](./M070B_fruits_mevalar) | Fruits (Mevalar) | - | 0 ms | 2026-05-10 |
-| [M087E](./M087E_permutatsiya) | Permutatsiya | - | 2 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)

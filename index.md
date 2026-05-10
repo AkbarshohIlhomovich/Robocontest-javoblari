@@ -1,5 +1,5 @@
 ---
-title: "Robocontest.uz Yechimlari Indeksi — 87 ta masala"
+title: "Robocontest.uz Yechimlari Indeksi — 88 ta masala"
 description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
 keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
 lang: uz
@@ -7,9 +7,9 @@ lang: uz
 
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T15:14:39_
+_Yangilangan: 2026-05-10T15:15:56_
 
-Jami: **87** ta masala
+Jami: **88** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -78,6 +78,7 @@ Jami: **87** ta masala
 | [M073G](./M073G_satrni_qayta_qurish) | Satrni qayta qurish |  | 1% | 1 ms | 0 KB |
 | [M073H](./M073H_modullar_yigindisi) | Modullar yig'indisi |  | 1% | 2 ms | 0 KB |
 | [M074B](./M074B_daraxtdagi_lis) | Daraxtdagi LIS |  | 1% | 174 ms | 26208 KB |
+| [M074D](./M074D_xor_va_summa) | Xor va summa |  | 1% | 10 ms | 7264 KB |
 | [M074G](./M074G_orollar_urushi) | Orollar urushi |  | 1% | 33 ms | 96 KB |
 | [M075A](./M075A_yuklar) | Yuklar |  | 1% | 550 ms | 3228 KB |
 | [M076A](./M076A_анаграмматический_хаос) | Анаграмматический Хаос |  | 1% | 8 ms | 0 KB |
