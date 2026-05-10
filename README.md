@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-68-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-69-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 68 ta masala
-- **O'rtacha qiyinchilik**: 5.0%
-- **O'rtacha vaqt**: 29.9 ms
-- **Eng oxirgi**: [M077A — Agentlik olimpiadasi](./M077A_agentlik_olimpiadasi) _(2026-05-10)_
+- **Jami yechilgan**: 69 ta masala
+- **O'rtacha qiyinchilik**: 4.9%
+- **O'rtacha vaqt**: 29.5 ms
+- **Eng oxirgi**: [M077B — G'alati o'yin](./M077B_galati_oyin) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 54 |
+| Kategoriyasiz | 55 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M077B](./M077B_galati_oyin) | G'alati o'yin | - | 1 ms | 2026-05-10 |
 | [M077A](./M077A_agentlik_olimpiadasi) | Agentlik olimpiadasi | - | 1 ms | 2026-05-10 |
 | [M077D](./M077D_ortacha_maosh) | O'rtacha maosh | - | 44 ms | 2026-05-10 |
 | [M077E](./M077E_navbat) | Navbat | - | 1 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M072J](./M072J_kvitansiya) | Kvitansiya | - | 1 ms | 2026-05-10 |
 | [M072H](./M072H_1) | +1 | - | 1 ms | 2026-05-10 |
 | [M071E](./M071E_two_trees_ikki_daraxt) | Two Trees (Ikki daraxt) | - | 0 ms | 2026-05-10 |
-| [M071D](./M071D_thanos_sort) | Thanos sort | - | 0 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
