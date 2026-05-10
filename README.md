@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-55-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-56-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 55 ta masala
-- **O'rtacha qiyinchilik**: 5.9%
-- **O'rtacha vaqt**: 15.8 ms
-- **Eng oxirgi**: [M070A — Extensions (uzaytirgichlar)](./M070A_extensions_uzaytirgichlar) _(2026-05-10)_
+- **Jami yechilgan**: 56 ta masala
+- **O'rtacha qiyinchilik**: 5.8%
+- **O'rtacha vaqt**: 15.5 ms
+- **Eng oxirgi**: [M070E — MEX-xe-xe](./M070E_mex-xe-xe) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 42 |
+| Kategoriyasiz | 43 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -79,6 +79,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M070E](./M070E_mex-xe-xe) | MEX-xe-xe | - | 0 ms | 2026-05-10 |
 | [M070A](./M070A_extensions_uzaytirgichlar) | Extensions (uzaytirgichlar) | - | 0 ms | 2026-05-10 |
 | [R095D](./R095D_ifodani_maksimallashtirish) | Ifodani maksimallashtirish | - | 32 ms | 2026-05-10 |
 | [M074B](./M074B_daraxtdagi_lis) | Daraxtdagi LIS | - | 174 ms | 2026-05-10 |
@@ -88,7 +89,6 @@ solutions/
 | [M072D](./M072D_futbol_oyini) | Futbol o'yini | - | 1 ms | 2026-05-10 |
 | [M069H](./M069H_satrni_tiklash) | Satrni tiklash | - | 10 ms | 2026-05-10 |
 | [M069J](./M069J_oquv_mashguloti) | O'quv mashg'uloti | - | 209 ms | 2026-05-10 |
-| [M069K](./M069K_qoyxona) | Qo'yxona | - | 103 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)

@@ -1,15 +1,8 @@
----
-title: "Robocontest.uz Yechimlari Indeksi — 55 ta masala"
-description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
-keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
-lang: uz
----
-
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T13:40:56_
+_Yangilangan: 2026-05-10T13:55:14_
 
-Jami: **55** ta masala
+Jami: **56** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -56,6 +49,7 @@ Jami: **55** ta masala
 | [M069J](./M069J_oquv_mashguloti) | O'quv mashg'uloti |  | 1% | 209 ms | 8800 KB |
 | [M069K](./M069K_qoyxona) | Qo'yxona |  | 1% | 103 ms | 10156 KB |
 | [M070A](./M070A_extensions_uzaytirgichlar) | Extensions (uzaytirgichlar) |  | 1% | 0 ms | 0 KB |
+| [M070E](./M070E_mex-xe-xe) | MEX-xe-xe |  | 1% | 0 ms | 0 KB |
 | [M072D](./M072D_futbol_oyini) | Futbol o'yini |  | 1% | 1 ms | 0 KB |
 | [M072F](./M072F_1) | 1% |  | 1% | 1 ms | 0 KB |
 | [M072G](./M072G_floor_funksiyasi) | Floor funksiyasi |  | 1% | 1 ms | 0 KB |
