@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T14:09:12_
+_Yangilangan: 2026-05-10T14:10:09_
 
-Jami: **63** ta masala
+Jami: **64** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -62,6 +62,7 @@ Jami: **63** ta masala
 | [M072J](./M072J_kvitansiya) | Kvitansiya |  | 1% | 1 ms | 0 KB |
 | [M073D](./M073D_juda_kop_talablar) | Juda ko'p talablar |  | 1% | 18 ms | 0 KB |
 | [M074B](./M074B_daraxtdagi_lis) | Daraxtdagi LIS |  | 1% | 174 ms | 26208 KB |
+| [M074G](./M074G_orollar_urushi) | Orollar urushi |  | 1% | 33 ms | 96 KB |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar |  | 1% | 7 ms | 0 KB |
 | [M084C](./M084C_qutilar) | Qutilar |  | 1% | 1 ms | 0 KB |
 | [M091F](./M091F_kanji_for_king_王) | Kanji for king (王) |  | 1% | 38 ms | 5216 KB |

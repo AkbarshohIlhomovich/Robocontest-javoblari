@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-63-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-64-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 63 ta masala
-- **O'rtacha qiyinchilik**: 5.3%
-- **O'rtacha vaqt**: 14.1 ms
-- **Eng oxirgi**: [M072E — Yo'qolgan son](./M072E_yoqolgan_son) _(2026-05-10)_
+- **Jami yechilgan**: 64 ta masala
+- **O'rtacha qiyinchilik**: 5.2%
+- **O'rtacha vaqt**: 14.4 ms
+- **Eng oxirgi**: [M074G — Orollar urushi](./M074G_orollar_urushi) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 50 |
+| Kategoriyasiz | 51 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -79,6 +79,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M074G](./M074G_orollar_urushi) | Orollar urushi | - | 33 ms | 2026-05-10 |
 | [M072E](./M072E_yoqolgan_son) | Yo'qolgan son | - | 14 ms | 2026-05-10 |
 | [M072J](./M072J_kvitansiya) | Kvitansiya | - | 1 ms | 2026-05-10 |
 | [M072H](./M072H_1) | +1 | - | 1 ms | 2026-05-10 |
@@ -88,7 +89,6 @@ solutions/
 | [M071A](./M071A_two_strings_ikki_satr) | Two strings (Ikki Satr) | - | 1 ms | 2026-05-10 |
 | [M070E](./M070E_mex-xe-xe) | MEX-xe-xe | - | 0 ms | 2026-05-10 |
 | [M070A](./M070A_extensions_uzaytirgichlar) | Extensions (uzaytirgichlar) | - | 0 ms | 2026-05-10 |
-| [R095D](./R095D_ifodani_maksimallashtirish) | Ifodani maksimallashtirish | - | 32 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
