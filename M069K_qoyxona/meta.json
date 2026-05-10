@@ -1,0 +1,14 @@
+{
+  "task_id": "M069K",
+  "title": "Qo'yxona",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 2000,
+  "memory_limit_mb": 256,
+  "verdict": {
+    "submission_id": "10992984",
+    "time_ms": 103,
+    "memory_kb": 10156
+  },
+  "saved_at": "2026-05-10T13:21:39"
+}

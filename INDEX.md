@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T13:14:57_
+_Yangilangan: 2026-05-10T13:21:39_
 
-Jami: **45** ta masala
+Jami: **46** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -45,6 +45,7 @@ Jami: **45** ta masala
 | [M069E](./M069E_matematikani_yomon_koraman) | Matematikani yomon ko'raman |  | 1% | 1 ms | 0 KB |
 | [M069F](./M069F_batalyon) | Batalyon |  | 1% | 46 ms | 1120 KB |
 | [M069G](./M069G_good_binary_tree) | Good binary tree |  | 1% | 18 ms | 96 KB |
+| [M069K](./M069K_qoyxona) | Qo'yxona |  | 1% | 103 ms | 10156 KB |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar |  | 1% | 7 ms | 0 KB |
 | [M084C](./M084C_qutilar) | Qutilar |  | 1% | 1 ms | 0 KB |
 | [M091F](./M091F_kanji_for_king_王) | Kanji for king (王) |  | 1% | 38 ms | 5216 KB |
