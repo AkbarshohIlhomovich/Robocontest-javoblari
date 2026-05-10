@@ -1,0 +1,14 @@
+{
+  "task_id": "M069J",
+  "title": "O'quv mashg'uloti",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 32,
+  "verdict": {
+    "submission_id": "10992988",
+    "time_ms": 209,
+    "memory_kb": 8800
+  },
+  "saved_at": "2026-05-10T13:23:03"
+}

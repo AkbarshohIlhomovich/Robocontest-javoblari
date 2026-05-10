@@ -6,7 +6,7 @@
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-46-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-47-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -44,10 +44,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 46 ta masala
-- **O'rtacha qiyinchilik**: 6.8%
-- **O'rtacha vaqt**: 9.2 ms
-- **Eng oxirgi**: [M069K — Qo'yxona](./M069K_qoyxona) _(2026-05-10)_
+- **Jami yechilgan**: 47 ta masala
+- **O'rtacha qiyinchilik**: 6.7%
+- **O'rtacha vaqt**: 13.4 ms
+- **Eng oxirgi**: [M069J — O'quv mashg'uloti](./M069J_oquv_mashguloti) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -55,7 +55,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 33 |
+| Kategoriyasiz | 34 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -68,6 +68,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M069J](./M069J_oquv_mashguloti) | O'quv mashg'uloti | - | 209 ms | 2026-05-10 |
 | [M069K](./M069K_qoyxona) | Qo'yxona | - | 103 ms | 2026-05-10 |
 | [M069G](./M069G_good_binary_tree) | Good binary tree | - | 18 ms | 2026-05-10 |
 | [M069F](./M069F_batalyon) | Batalyon | - | 46 ms | 2026-05-10 |
@@ -77,7 +78,6 @@ solutions/
 | [M064F](./M064F_ketma-ketlik_ab) | Ketma-ketlik a/b | - | 1 ms | 2026-05-10 |
 | [M091F](./M091F_kanji_for_king_王) | Kanji for king (王) | - | 38 ms | 2026-05-10 |
 | [M095A](./M095A_increment_va_decrement) | Increment va Decrement | - | 77 ms | 2026-05-10 |
-| [M057C](./M057C_sakrashlar_soni) | Sakrashlar soni | #Matematika | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
