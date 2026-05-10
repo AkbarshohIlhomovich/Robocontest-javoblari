@@ -1,0 +1,14 @@
+{
+  "task_id": "M077D",
+  "title": "O'rtacha maosh",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 64,
+  "verdict": {
+    "submission_id": "10993129",
+    "time_ms": 44,
+    "memory_kb": 1120
+  },
+  "saved_at": "2026-05-10T14:19:33"
+}

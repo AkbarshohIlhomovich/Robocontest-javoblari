@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T14:17:50_
+_Yangilangan: 2026-05-10T14:19:33_
 
-Jami: **66** ta masala
+Jami: **67** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -63,6 +63,7 @@ Jami: **66** ta masala
 | [M073D](./M073D_juda_kop_talablar) | Juda ko'p talablar |  | 1% | 18 ms | 0 KB |
 | [M074B](./M074B_daraxtdagi_lis) | Daraxtdagi LIS |  | 1% | 174 ms | 26208 KB |
 | [M074G](./M074G_orollar_urushi) | Orollar urushi |  | 1% | 33 ms | 96 KB |
+| [M077D](./M077D_ortacha_maosh) | O'rtacha maosh |  | 1% | 44 ms | 1120 KB |
 | [M077E](./M077E_navbat) | Navbat |  | 1% | 1 ms | 0 KB |
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar |  | 1% | 7 ms | 0 KB |
 | [M084C](./M084C_qutilar) | Qutilar |  | 1% | 1 ms | 0 KB |
