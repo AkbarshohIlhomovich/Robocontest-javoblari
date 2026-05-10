@@ -2,6 +2,7 @@
 title: "M069J — O'quv mashg'uloti | Robocontest.uz Yechimi"
 description: "Robocontest.uz M069J (O'quv mashg'uloti) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
 keywords: "robocontest M069J, O'quv mashg'uloti yechimi, robocontest O'quv mashg'uloti, M069J c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M069J_oquv_mashguloti/
 lang: uz
 ---
 
@@ -160,6 +161,7 @@ int main() {
 *   **`K=1` holati**: Agar faqat bitta maydoncha bo'lsa, har safar yangi qurol kerak bo'lganda, avvalgi qurol omborxonaga qaytariladi va yangisi olinadi. Bu algoritm bu holatni ham to'g'ri boshqaradi.
 *   **`std::set<pair<int, int>>` ning ishlashi**: `std::set` elementlarni avtomatik ravishda saralaydi. `pair<int, int>` holatida, avval `first` (birinchi) element bo'yicha, keyin `second` (ikkinchi) element bo'yicha saralaydi. Bizning holatda `first` element `next_occurrence` bo'lgani uchun, `set.begin()` eng kichik `next_occurrence`ga ega qurolni (eng tezda kerak bo'ladigani), `set.rbegin()` esa eng katta `next_occurrence`ga ega qurolni (eng uzoqda kerak bo'ladigani) beradi. Bu bizga almashtirish uchun optimal qurolni `O(log K)` vaqtda topish imkonini beradi.
 *   **Optimal harakat**: Masala shartida "optimal harakat qilishsa" deb aytilgan. Bu aynan yuqorida tavsiflangan "kelajakda eng uzoq ishlatiladigan qurolni almashtirish" strategiyasini anglatadi, chunki bu greedy yechim ushbu turdagi muammolar uchun optimal ekanligi isbotlangan.
+---
 ---
 
 ## Robocontest haqida ko'proq

@@ -2,6 +2,7 @@
 title: "M038B — Kvadrat | Robocontest.uz Yechimi"
 description: "Robocontest.uz M038B (Kvadrat) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest M038B, Kvadrat yechimi, robocontest Kvadrat, M038B c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M038B_kvadrat/
 lang: uz
 ---
 
@@ -65,6 +66,7 @@ int main() {
 Ushbu masala juda sodda bo'lsa-da, diqqat qilish kerak bo'lgan asosiy jihat bu natijaning ma'lumot turidir:
 - **Natijaning ma'lumot turi**: `A` ning maksimal qiymati $4 \times 10^5$ bo'lganligi sababli, uning kvadrati $16 \times 10^{10}$ ga teng bo'ladi. Bu qiymat standart 32-bitli `int` ma'lumot turining chegarasidan (taxminan $2 \times 10^9$) ancha kattadir. Shuning uchun, hisoblangan kvadratni saqlash uchun 64-bitli `long long` ma'lumot turidan foydalanish shart. Aks holda, **integer overflow (butun sonning ortib ketishi)** xatosi yuz berishi va noto'g'ri natija qaytarilishi mumkin.
 - Masala matnida `A` ning "natural son" ekanligi aytilgan, ya'ni `A` musbat butun son (1, 2, 3, ...). Bu 0 yoki manfiy sonlarni hisobga olish kerak emasligini bildiradi.
+---
 ---
 
 ## Robocontest haqida ko'proq

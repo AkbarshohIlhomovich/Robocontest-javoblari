@@ -2,6 +2,7 @@
 title: "M064F — Ketma-ketlik a/b | Robocontest.uz Yechimi"
 description: "Robocontest.uz M064F (Ketma-ketlik a/b) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
 keywords: "robocontest M064F, Ketma-ketlik a/b yechimi, robocontest Ketma-ketlik a/b, M064F c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M064F_ketma-ketlik_ab/
 lang: uz
 ---
 
@@ -82,6 +83,7 @@ int main() {
     `result = 0 + 1 = 1`. Natija to'g'ri, chunki \(1/1\) ketma-ketlikdagi birinchi element.
 *   **Tezlik:** `std::ios_base::sync_with_stdio(false);` va `std::cin.tie(0);` qatorlari C++ dagi standart kirish/chiqish operatsiyalarini sezilarli darajada tezlashtiradi. Bu juda katta hajmdagi ma'lumotlarni o'qish yoki yozish talab qilinadigan musobaqa dasturlash masalalarida muhim. Ushbu masalada kirish hajmi kichik bo'lsa-da, bu yaxshi amaliyotdir.
 *   **Umumiylik:** Yechim ketma-ketlikdagi har qanday \(\frac{a}{b}\) kasri uchun ishlaydi, chunki u ketma-ketlikning tuzilishidagi umumiy naqshga asoslangan.
+---
 ---
 
 ## Robocontest haqida ko'proq

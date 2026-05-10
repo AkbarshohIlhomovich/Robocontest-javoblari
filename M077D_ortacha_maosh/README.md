@@ -1,3 +1,11 @@
+---
+title: "M077D — O'rtacha maosh | Robocontest.uz Yechimi"
+description: "Robocontest.uz M077D (O'rtacha maosh) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 64 MB."
+keywords: "robocontest M077D, O'rtacha maosh yechimi, robocontest O'rtacha maosh, M077D c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M077D_ortacha_maosh/
+lang: uz
+---
+
 # M077D — O'rtacha maosh
 
 ## Masala haqida
@@ -103,3 +111,14 @@ int main() {
 *   **Ma'lumot turlari**: `current_sum` va `max_sum` o'zgaruvchilari `long long` tipida e'lon qilingan. Buning sababi, \(N\) va maosh qiymatlari juda katta bo'lishi mumkinligi tufayli (masalan, \(5 \times 10^5\) ta xodimning har birining maoshi \(10^6\) bo'lsa, yig'indi \(5 \times 10^{11}\) ga yetadi), bu qiymat standart `int` (odatda \(2 \times 10^9\) gacha) chegarasidan oshib ketishi mumkin. O'rtacha qiymatni hisoblashda yuqori aniqlikni ta'minlash uchun `long double` dan foydalanilgan.
 *   **Chiqarish aniqligi**: Masala 10^-5 absolut xatolik talab qiladi. Kodda ishlatilgan `std::setprecision(14)` `long double` uchun bu aniqlikni qondirishga yetarli. Namuna natijalariga moslashish uchun butun sonli o'rtachalar (masalan, 80.0) alohida formatlangan. Bu yaxshi amaliyot bo'lib, ba'zi test tizimlari uchun muhim bo'lishi mumkin.
 *   **I/O Tezlashtirish**: `std::ios_base::sync_with_stdio(false);` va `std::cin.tie(0);` kod qatorlari katta kirish/chiqish (I/O) ma'lumotlari bilan ishlaganda dasturning vaqt chegarasidan oshib ketmasligi uchun muhim. Ular C++ streamlarining ishlashini sezilarli darajada tezlashtiradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M077D) platformasidagi **M077D** raqamli **O'rtacha maosh** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M077D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M077D, O'rtacha maosh yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

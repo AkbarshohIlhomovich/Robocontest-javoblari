@@ -2,6 +2,7 @@
 title: "M084C — Qutilar | Robocontest.uz Yechimi"
 description: "Robocontest.uz M084C (Qutilar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest M084C, Qutilar yechimi, robocontest Qutilar, M084C c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M084C_qutilar/
 lang: uz
 ---
 
@@ -100,6 +101,7 @@ int main() {
 *   **Kublar**: Agar qutilar kub shaklida bo'lsa (masalan, `2x2x2`), ularning o'lchamlari saralangandan keyin ham bir xil bo'ladi, va algoritmlar to'g'ri ishlaydi.
 *   **Minimal va maksimal o'lchamlar**: Masala shartida quti o'lchamlari 1 dan kichik bo'lmasligi va \(10^3\) dan oshmasligi kafolatlangan. Bu butun sonlar bilan ishlashda hech qanday muammo tug'dirmaydi.
 *   **Optimal orientatsiya**: O'lchamlarni saralash usuli qutini joylashtirish mumkin bo'lgan barcha mumkin bo'lgan orientatsiyalar orasidan eng qulayini avtomatik ravishda tanlaydi. Bu bizga bo'yi, eni, balandlikni aniq moslashtirish haqida o'ylamasdan, shunchaki eng kichikni kichigiga, o'rtanchani o'rtanchasiga va eng kattani kattasiga solishtirish imkonini beradi.
+---
 ---
 
 ## Robocontest haqida ko'proq

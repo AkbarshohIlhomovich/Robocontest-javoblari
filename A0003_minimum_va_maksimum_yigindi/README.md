@@ -2,6 +2,7 @@
 title: "A0003 — Minimum va maksimum yig'indi | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0003 (Minimum va maksimum yig'indi) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Oson. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0003, Minimum va maksimum yig'indi yechimi, robocontest Minimum va maksimum yig'indi, A0003 c++ kod, oson, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0003_minimum_va_maksimum_yigindi/
 lang: uz
 ---
 
@@ -98,6 +99,7 @@ int main() {
 *   **Katta sonlar va `long long`**: Sonlar `10^9` gacha bo'lganligi sababli, ularning yig'indisi `int` ma'lumot turining sig'imidan oshib ketishi mumkin. Shu sababli, barcha yig'indi va individual sonlarni saqlash uchun `long long` ma'lumot turidan foydalanish muhimdir. Aks holda, overflow (qiymat chegarasidan chiqib ketish) sodir bo'lishi va noto'g'ri natijalar berilishi mumkin.
 *   **Bitta sonni tashlab yuborish mantiqi**: Bu masala uchun eng muhim tushuncha, to'rtta sonni tanlash — bu bitta sonni tashlab yuborishga teng ekanligidir. Bu tushuncha yechimni juda soddalashtiradi.
 *   **Kod samaradorligi**: Kod `std::min_element` va `std::max_element` kabi standart kutubxona funksiyalaridan foydalanmasdan min/max qiymatlarini topadi. Bu unchalik farq qilmasa-da, doimiy kichik hajmli ma'lumotlar bilan ishlaganda o'zimizning oddiy tsikl yozish kutubxona funksiyalarini chaqirishdan biroz tezroq bo'lishi mumkin. Umumiy samaradorlik O(1) bo'lib qoladi.
+---
 ---
 
 ## Robocontest haqida ko'proq

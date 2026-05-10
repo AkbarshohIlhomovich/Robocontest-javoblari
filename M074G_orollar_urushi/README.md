@@ -1,3 +1,11 @@
+---
+title: "M074G — Orollar urushi | Robocontest.uz Yechimi"
+description: "Robocontest.uz M074G (Orollar urushi) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M074G, Orollar urushi yechimi, robocontest Orollar urushi, M074G c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M074G_orollar_urushi/
+lang: uz
+---
+
 # M074G — Orollar urushi
 
 ## Masala haqida
@@ -113,3 +121,14 @@ int main() {
 *   **`last_broken_bridge_pos` ning boshlang'ich qiymati**: `0` ga o'rnatish muhimdir, chunki ko'prik indekslari $1$ dan boshlanadi. Agar uni `1` qilib qo'yilsa va birinchi oraliq `[1, R]` bo'lsa, `1 > 1` sharti bajarilmaydi va noto'g'ri hisobga olish mumkin. `0` ga o'rnatish birinchi ko'prik indeksini ($1$) har doim `0` dan katta deb hisoblashni ta'minlaydi, bu esa birinchi qoplanmagan oraliq uchun ko'prikni buzishni kafolatlaydi.
 *   **Saralash tartibi**: Oraloqlarni o'ng chegarasi bo'yicha saralash bu ochko'z algoritmning to'g'riligi uchun juda muhim. Agar o'ng chegaralar teng bo'lsa, chap chegara bo'yicha saralash natijaga ta'sir qilmaydi, ammo xuddi shunday qiymatlarga ega oraliqlar uchun tartibni barqaror qiladi.
 *   **N va M chegaralari**: $N, M \le 10^5$ kabi katta qiymatlar `O(M log M)` yoki `O(N log N)` kabi samarali algoritmlarni talab qilishini ko'rsatadi, kvadratik (`O(N^2)`) yechimlar vaqt limitidan oshib ketadi. Bizning yechimimiz bu talabga javob beradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M074G) platformasidagi **M074G** raqamli **Orollar urushi** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M074G>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M074G, Orollar urushi yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

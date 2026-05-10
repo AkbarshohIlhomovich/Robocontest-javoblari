@@ -1,3 +1,11 @@
+---
+title: "M087B — Tik Tak Toe | Robocontest.uz Yechimi"
+description: "Robocontest.uz M087B (Tik Tak Toe) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M087B, Tik Tak Toe yechimi, robocontest Tik Tak Toe, M087B c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M087B_tik_tak_toe/
+lang: uz
+---
+
 # M087B — Tik Tak Toe
 
 ## Masala haqida
@@ -107,3 +115,14 @@ int main() {
 *   **Bo'sh joy yo'qligi**: Agar boshlang'ich satrda umuman `o` belgisi bo'lmasa (masalan, "xxxxxxx"), `s.find('o')` darhol `string::npos` qaytaradi va dastur "Hech kim" deb chiqarib tugaydi. Bu to'g'ri.
 *   **Qisqa satrlar**: Agar kirish satrining uzunligi 3 dan kam bo'lsa (masalan, "xo", "xx"), `check_win` funksiyasining sikli (`i <= (int)board.length() - 3`) ishlamaydi va `false` qaytaradi, chunki uchta ketma-ket `x` hosil qilish imkonsiz. Bu ham to'g'ri.
 *   **Boshida allaqachon uchta 'x' mavjud bo'lsa**: Masalan, "xxoxxx". Birinchi o'yinchi birinchi `o` ni almashtiradi (masalan, "xxxoxx" bo'ladi). Shundan so'ng `check_win` funksiyasi tekshirib, g'olibni topadi ("Birinchi" o'yinchi g'alaba qozonadi), chunki masala sharti "Kimda birinchi bo'lib 3 ta ketma-ket x hosil bo'lsa o'sha g'olib bo'ladi" deydi, bu o'z harakati natijasida hosil bo'lishini anglatadi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M087B) platformasidagi **M087B** raqamli **Tik Tak Toe** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M087B>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M087B, Tik Tak Toe yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

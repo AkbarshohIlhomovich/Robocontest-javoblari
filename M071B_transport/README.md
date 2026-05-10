@@ -1,3 +1,11 @@
+---
+title: "M071B — Transport | Robocontest.uz Yechimi"
+description: "Robocontest.uz M071B (Transport) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 128 MB."
+keywords: "robocontest M071B, Transport yechimi, robocontest Transport, M071B c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M071B_transport/
+lang: uz
+---
+
 # M071B — Transport
 
 ## Masala haqida
@@ -63,3 +71,14 @@ Har bir transport turi uchun ikkita variant bor: abonement sotib olish yoki olma
 *   **Narxlar oralig'i**: Masala narxlar `10^9` gacha va `N` `10^5` gacha bo'lishini ko'rsatgan. Shuning uchun umumiy narx `N * max_cost = 10^5 * 10^9 = 10^{14}` gacha yetishi mumkin. Bu `int` turining maksimal qiymatidan (taxminan `2 * 10^9`) ancha katta. Shuning uchun `long long` turidan foydalanish zarur. Kodda `long long` tipi to'g'ri ishlatilgan.
 *   **Barcha transportlar uchun abonement sotib olish**: `mask = 15` (`1111` ikkilikda) bo‘lgan holatda barcha 4 ta transport turiga abonement sotib olinadi. Bunday holda, segmentlar bo‘ylab harakatlanish tekin bo‘ladi (agar -1 bo‘lmasa), faqat abonement narxlari (`C[0] + C[1] + C[2] + C[3]`) hisobga olinadi.
 *   **Hech qanday abonement sotib olmaslik**: `mask = 0` bo‘lgan holatda hech qanday abonement sotib olinmaydi. Bunday holda, har bir segment uchun faqatgina `A[t][i]` qiymatlaridan minimali tanlanadi. Bu holat ham to'g'ri hisobga olinadi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M071B) platformasidagi **M071B** raqamli **Transport** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M071B>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M071B, Transport yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -2,6 +2,7 @@
 title: "A0014 — Ketma-ketlik yig'indisi | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0014 (Ketma-ketlik yig'indisi) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0014, Ketma-ketlik yig'indisi yechimi, robocontest Ketma-ketlik yig'indisi, A0014 c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0014_ketma-ketlik_yigindisi/
 lang: uz
 ---
 
@@ -93,6 +94,7 @@ Kodning ushbu qismida yuqorida tushuntirilgan algebraik soddalashtirish va modul
 *   **`N=1` holati**: Agar `N=1` bo'lsa, `S_1 = T_1 = 1^2 - (1-1)^2 = 1`. Bizning formula bo'yicha `S_1 = 1^2 = 1`. `1 \pmod{10^9+7} = 1`. Natija to'g'ri.
 *   **`N` ning kattaligi**: `N` `10^{16}` gacha bo'lishi mumkin. Bu `long long` turiga sig'adi, ammo `N^2` `10^{32}` bo'lib, `long long` (maks. `~9 \cdot 10^{18}`) dan oshib ketadi. Shuning uchun `(N % MOD) * (N % MOD) % MOD` yondashuvi juda muhim. Agar bu qoida e'tiborga olinmasa, `overflow` (qiymatning turga sig'masligi) sodir bo'lib, xato natijalarga olib kelishi mumkin.
 *   **Modulning tub sonligi**: `10^9 + 7` tub son hisoblanadi. Garchi bu masala uchun unchalik kritik bo'lmasa-da, ko'plab modulyar arifmetika masalalarida (masalan, modulyar inversiya, Fermatning kichik teoremasi) modulning tub sonligi muhim rol o'ynaydi. Bu yerda esa faqat modulyar ko'paytirish qoidasidan foydalanilgan.
+---
 ---
 
 ## Robocontest haqida ko'proq

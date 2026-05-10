@@ -1,3 +1,11 @@
+---
+title: "M072E — Yo'qolgan son | Robocontest.uz Yechimi"
+description: "Robocontest.uz M072E (Yo'qolgan son) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M072E, Yo'qolgan son yechimi, robocontest Yo'qolgan son, M072E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M072E_yoqolgan_son/
+lang: uz
+---
+
 # M072E — Yo'qolgan son
 
 ## Masala haqida
@@ -70,3 +78,14 @@ int main() {
 *   **Xotira samaradorligi**: Yechim sonlarni massivda saqlamasdan, ularni o'qish jarayonida darhol yig'indiga qo'shadi. Bu xotiradan foydalanishni sezilarli darajada kamaytiradi va berilgan 32 MB limitiga osongina mos keladi.
 
 Ushbu yechim berilgan cheklovlar va talablarga to'liq javob beradi, juda samarali va to'g'ri ishlaydi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072E) platformasidagi **M072E** raqamli **Yo'qolgan son** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M072E>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M072E, Yo'qolgan son yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

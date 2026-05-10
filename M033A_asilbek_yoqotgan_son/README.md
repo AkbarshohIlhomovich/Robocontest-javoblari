@@ -2,12 +2,14 @@
 title: "M033A — Asilbek yo`qotgan son | Robocontest.uz Yechimi"
 description: "Robocontest.uz M033A (Asilbek yo`qotgan son) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest M033A, Asilbek yo`qotgan son yechimi, robocontest Asilbek yo`qotgan son, M033A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M033A_asilbek_yoqotgan_son/
 lang: uz
 ---
 
 # M033A — Asilbek yo`qotgan son
 
 _Documentation generatsiya qilinmadi._
+---
 ---
 
 ## Robocontest haqida ko'proq

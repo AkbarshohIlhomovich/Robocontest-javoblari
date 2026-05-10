@@ -1,3 +1,11 @@
+---
+title: "M076G — Степень двойки | Robocontest.uz Yechimi"
+description: "Robocontest.uz M076G (Степень двойки) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 2000 ms, xotira: 32 MB."
+keywords: "robocontest M076G, Степень двойки yechimi, robocontest Степень двойки, M076G c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M076G_степень_двойки/
+lang: uz
+---
+
 # M076G — Ikki darajasi
 
 ## Masala haqida
@@ -67,3 +75,14 @@ int main() {
     - Misol: `n = 4 (0100_2)`. `c = 4`. `r = 4+4 = 8 (1000_2)`. `n^r = 1100_2`. `((1100_2 >> 2) / 4) | 8 = (0011_2 / 4) | 8 = (3 / 4) | 8 = 0 | 8 = 8`.
 - **Barcha bitlar o'rnatilgan holatlar**: Agar `n = 2^k - 1` (masalan, `n = 7 (0111_2)`) bo'lsa, algoritm keyingi `2^k + 2^(k-2) + ... + 2^0` turdagi sonni topadi. Bu ham to'g'ri ishlaydi, chunki bu sonning popcounti `n` ning popcounti bilan bir xil bo'ladi.
     - Misol: `n = 7 (0111_2)`. `c = 1`. `r = 7+1 = 8 (1000_2)`. `n^r = 1111_2`. `((1111_2 >> 2) / 1) | 8 = (0011_2 / 1) | 8 = 3 | 8 = 11 (1011_2)`. `popcount(7)=3`, `popcount(11)=3`.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M076G) platformasidagi **M076G** raqamli **Степень двойки** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M076G>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M076G, Степень двойки yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

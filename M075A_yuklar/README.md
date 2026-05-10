@@ -1,3 +1,11 @@
+---
+title: "M075A — Yuklar | Robocontest.uz Yechimi"
+description: "Robocontest.uz M075A (Yuklar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 64 MB."
+keywords: "robocontest M075A, Yuklar yechimi, robocontest Yuklar, M075A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M075A_yuklar/
+lang: uz
+---
+
 # M075A — Yuklar
 
 ## Masala haqida
@@ -96,3 +104,14 @@ Algoritm quyidagicha ishlaydi:
 *   **`k=1` holati**: Agar Sunnat bir sayohatda faqat bitta yuk olib keta olsa, har safar pochta markaziga borganida faqat bitta yukni (eng erta muddati tugaydiganini) olib ketadi va yana bir sayohat qilishi kerak bo'ladi. Bu holda ham algoritm to'g'ri ishlaydi.
 *   **Yuklarning kelish tartibi**: Yuklar saralanganligi sababli, `current_collection_day` (`packages[i].r`) har doim `packages[j].r` dan (`j >= i` uchun) kichik yoki teng bo'ladi. Shu sababli, ichki `while` siklida `packages[current_package_idx].r >= current_collection_day` shartini tekshirish shart emas, chunki bu shart `current_package_idx >= i` bo'lgan har qanday yuk uchun avtomatik bajariladi. Faqat `packages[current_package_idx].l <= current_collection_day` shartini tekshirish kifoya.
 *   **Greedy yondashuvning to'g'riligi**: Nega "eng erta muddat" strategiyasi optimal? Chunki biz har doim eng qisqa muddat ichida yig'ilishi kerak bo'lgan yukni birinchi bo'lib ko'rib chiqamiz. Bu yukni yig'ishni keyinga qoldirish, boshqa yuklarning muddatini ham tugatishi mumkin, natijada ko'proq sayohat qilishga to'g'ri keladi. Bu yukni uning tugash kunida yig'ish esa, boshqa yuklar uchun maksimal yig'ish oynasini saqlab qoladi va ularni ham shu sayohatda yig'ish imkoniyatini oshiradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M075A) platformasidagi **M075A** raqamli **Yuklar** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M075A>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M075A, Yuklar yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

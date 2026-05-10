@@ -1,3 +1,11 @@
+---
+title: "M071E — Two Trees (Ikki daraxt) | Robocontest.uz Yechimi"
+description: "Robocontest.uz M071E (Two Trees (Ikki daraxt)) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 512 MB."
+keywords: "robocontest M071E, Two Trees (Ikki daraxt) yechimi, robocontest Two Trees (Ikki daraxt), M071E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M071E_two_trees_ikki_daraxt/
+lang: uz
+---
+
 # M071E — Two Trees (Ikki daraxt)
 
 ## Masala haqida
@@ -85,3 +93,14 @@ Bunday turdagi masalalarni samarali hal qilish uchun "sweep-line" (sudrab o'tish
 *   **DFS `p` parametri:** DFS funksiyasida `p` (ota tugun) parametri yo'naltirilmagan daraxtlarda cheksiz tsikllarning oldini oladi.
 *   **`timer_dfs` ni nolga qaytarish:** Ikkinchi daraxt uchun DFS ni ishga tushirishdan oldin `timer_dfs` ni qayta nolga o'rnatish muhimdir, chunki `tin1` va `tin2` qiymatlari bir-biridan mustaqil bo'lishi kerak.
 *   **Optimal I/O:** `std::ios_base::sync_with_stdio(false); std::cin.tie(0);` qatorlari C++ oqimlarining standart kirish/chiqarish operatsiyalarini tezlashtirish uchun ishlatiladi, bu katta hajmdagi kiritish/chiqarishga ega bo'lgan raqobatbardosh dasturlash masalalarida muhim.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M071E) platformasidagi **M071E** raqamli **Two Trees (Ikki daraxt)** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M071E>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M071E, Two Trees (Ikki daraxt) yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

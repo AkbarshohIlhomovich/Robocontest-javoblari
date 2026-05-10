@@ -2,6 +2,7 @@
 title: "M069K — Qo'yxona | Robocontest.uz Yechimi"
 description: "Robocontest.uz M069K (Qo'yxona) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 2000 ms, xotira: 256 MB."
 keywords: "robocontest M069K, Qo'yxona yechimi, robocontest Qo'yxona, M069K c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M069K_qoyxona/
 lang: uz
 ---
 
@@ -117,6 +118,7 @@ int main() {
 *   **Bog'lanmagan komponentlar:** Algoritmning tashqi `for` sikli barcha tugunlarni qamrab olganligi sababli, u grafning barcha bog'lanmagan komponentlarini avtomatik ravishda tekshiradi va har bir komponentdagi sikllarni hisobga oladi.
 *   **Massiv indeksatsiyasi:** C++ da `std::vector`lar odatda 0-indekslangan bo'ladi. Masalada qo'yxonalar 1 dan `N` gacha raqamlanganligi sababli, kodda massivlar `N+1` o'lchamda e'lon qilingan va 1-indekslangan holda ishlatilgan. Bu noqulaylikni oldini oladi va masalaning shartiga mos keladi.
 *   **Vaqt va xotira optimallashlari:** `std::ios_base::sync_with_stdio(false); std::cin.tie(0);` qatorlari katta kirish ma'lumotlari (input) bilan ishlashda C++ oqimlarining ish faoliyatini sezilarli darajada oshiradi, bu `N = 10^6` kabi katta qiymatlar uchun muhim ahamiyatga ega.
+---
 ---
 
 ## Robocontest haqida ko'proq

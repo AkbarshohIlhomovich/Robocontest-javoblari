@@ -1,3 +1,11 @@
+---
+title: "M076D — Минимальное Максимальное Ребро | Robocontest.uz Yechimi"
+description: "Robocontest.uz M076D (Минимальное Максимальное Ребро) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 2000 ms, xotira: 32 MB."
+keywords: "robocontest M076D, Минимальное Максимальное Ребро yechimi, robocontest Минимальное Максимальное Ребро, M076D c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M076D_минимальное_максимальное_ребро/
+lang: uz
+---
+
 # M076D — Minimal Maksimal Qirra
 
 ## Masala haqida
@@ -126,3 +134,14 @@ int main() {
 *   **Tugun raqamlash**: Tugunlar 1 dan `N` gacha raqamlangan. Kod `parent` va `sz` massivlarini `N+1` o'lchamda yaratib va 1-indekslashdan foydalanib bunga moslashgan.
 *   **`s == t` holati**: Agar `s` va `t` bir xil tugunlar bo'lsa, `find_set(s) == find_set(t)` sharti DSU initsializatsiyasidan keyinoq, hatto birorta qirra qo'shmasdan ham `true` bo'ladi. Biroq, kod loopga kiradi va birinchi qirrani qo'shib, keyin tekshiradi. Agar `s == t` bo'lsa, nazariy jihatdan javob 0 bo'lishi kerak edi (hech qanday qirra ishlatmasdan o'z-o'ziga borish). Lekin, odatda, bunday masalalarda `s != t` deb faraz qilinadi. Agar bu holat yuzaga kelsa, kod birinchi qirraning og'irligini chop etadi, bu noto'g'ri bo'lishi mumkin. Masala shartiga ko'ra, bu muammo emas, deb hisoblaymiz.
 *   **Qirra og'irliklari**: Qirra og'irliklari `1` dan `10^9` gacha bo'lishi mumkin. `int` tipi bu diapazonni qoplash uchun yetarli.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M076D) platformasidagi **M076D** raqamli **Минимальное Максимальное Ребро** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M076D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M076D, Минимальное Максимальное Ребро yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -2,6 +2,7 @@
 title: "R078I — A+B | Robocontest.uz Yechimi"
 description: "Robocontest.uz R078I (A+B) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Oson. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest R078I, A+B yechimi, robocontest A+B, R078I c++ kod, oson, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /R078I_ab/
 lang: uz
 ---
 
@@ -81,6 +82,7 @@ int main() {
 *   **Ma'lumotlar turi**: Berilgan sonlar $10^9$ dan kichik bo'lganligi sababli, ularning yig'indisi $2 \times 10^9$ dan kichik bo'ladi. C++ dagi standart `int` ma'lumotlar turi odatda -2,147,483,648 dan 2,147,483,647 gacha bo'lgan qiymatlarni saqlay oladi. Bu masala uchun `int` tipi to'liq mos keladi. Agar sonlar kattaroq bo'lganda (masalan, $10^{18}$ gacha), `long long` ma'lumotlar turini ishlatish kerak bo'lardi.
 *   **Natural sonlar**: Masala matnida "natural sonlar" deb berilgan. Matematikada natural sonlar odatda 1, 2, 3, ... (ba'zida 0 ham qo'shiladi) deb qabul qilinadi. Bu yerda kiritiladigan sonlarning manfiy bo'lmasligi va juda kichik bo'lmasligi e'tiborga olingan.
 *   **Tezkor I/O**: Garchi bu masalada tezkor kirish/chiqish (`ios_base::sync_with_stdio(false); cin.tie(0);`) juda muhim bo'lmasa-da, katta hajmdagi ma'lumotlar bilan ishlaganda bu yaxshi odat va dasturning ishlashini sezilarli darajada tezlashtirishi mumkin. Shuning uchun buni har doim dasturlaringizga kiritishni tavsiya etamiz.
+---
 ---
 
 ## Robocontest haqida ko'proq

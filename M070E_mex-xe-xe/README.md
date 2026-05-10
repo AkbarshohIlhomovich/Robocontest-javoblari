@@ -1,3 +1,11 @@
+---
+title: "M070E — MEX-xe-xe | Robocontest.uz Yechimi"
+description: "Robocontest.uz M070E (MEX-xe-xe) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 2000 ms, xotira: 512 MB."
+keywords: "robocontest M070E, MEX-xe-xe yechimi, robocontest MEX-xe-xe, M070E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M070E_mex-xe-xe/
+lang: uz
+---
+
 Bu masala bo'yicha toza, batafsil va o'rgatuvchi documentation quyida keltirilgan:
 
 # M070E — MEX-xe-xe
@@ -148,3 +156,14 @@ Kodda `SegmentTree` struct` va undan keyingi ba'zi kommentlar bor, ammo ular aso
 *   **`k=1` holati**: Bu holatda segmentda `0` va `1` qiymatlari bir vaqtning o'zida bo'lmasligi kerak. Bu `f(k)` ning eng katta qiymatlaridan birini berishi mumkin.
 *   **Bo'sh `pos_list[x]`**: Agar `x` qiymati massivda umuman uchramasa, `pos_list[x]` bo'sh bo'ladi. `std::lower_bound` chaqirilganda `pos_list[x].end()` ni qaytaradi, bu `found_missing_in_range_0_to_k = true` holatiga olib keladi va to'g'ri ishlaydi.
 *   `std::ios_base::sync_with_stdio(false); std::cin.tie(0);` qatorlari C++ da katta kirish/chiqish hajmlari bilan ishlaganda vaqtni optimallashtirish uchun ishlatiladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M070E) platformasidagi **M070E** raqamli **MEX-xe-xe** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M070E>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M070E, MEX-xe-xe yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

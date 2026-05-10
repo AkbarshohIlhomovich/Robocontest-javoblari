@@ -2,6 +2,7 @@
 title: "M057C — Sakrashlar soni | Robocontest.uz Yechimi"
 description: "Robocontest.uz M057C (Sakrashlar soni) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Matematika. Vaqt limiti: 1000 ms, xotira: 32 MB."
 keywords: "robocontest M057C, Sakrashlar soni yechimi, robocontest Sakrashlar soni, M057C c++ kod, matematika, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M057C_sakrashlar_soni/
 lang: uz
 ---
 
@@ -99,6 +100,7 @@ int main() {
 - **`long long` dan foydalanish**: \(X\) ning qiymati va `current_sum` ning maksimal qiymatlari (taxminan \(10^9\)) `int` tipidan oshib ketishi mumkin. Shu sababli, `long long` ma'lumot turi toshib ketish (overflow) muammosining oldini oladi.
 - **Paritet sharti muhimligi**: `(current_sum - x) % 2 == 0` sharti yechimning eng muhim qismidir. Ushbu shartni tushunish, har qanday qadamning yo'nalishini o'zgartirish umumiy yig'indini juft songa o'zgartirishini va shuning uchun maksimal erishish mumkin bo'lgan yig'indi (`current_sum`) va maqsad (`x`) bir xil juft/toqlikka ega bo'lishi kerakligini anglatadi.
 - **Minimal qadamlar**: Algoritm `k` ni 1 dan boshlab bosqichma-bosqich oshirib boradi va shartlar bajarilganda birinchi topilgan `k` minimal hisoblanadi, chunki `current_sum` monoton ravishda o'sib boradi.
+---
 ---
 
 ## Robocontest haqida ko'proq

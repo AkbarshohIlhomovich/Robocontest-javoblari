@@ -2,6 +2,7 @@
 title: "A0002 — Dasturchilar kuni | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0002 (Dasturchilar kuni) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Oson. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0002, Dasturchilar kuni yechimi, robocontest Dasturchilar kuni, A0002 c++ kod, oson, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0002_dasturchilar_kuni/
 lang: uz
 ---
 
@@ -122,6 +123,7 @@ int main() {
 *   **Dasturchilar kuni indeksi:** "1-yanvar nolinchi kun deb hisoblanadi" degan jumla muhim. Agar 1-yanvar 1-kun boʻlganda edi, 255-kunni izlagan boʻlardik. Lekin 1-yanvar 0-kun boʻlgani uchun, hisob-kitoblarda biz yilning 256-kunini topishimiz kerak (`target_day_of_year = 256`). Bu sample testlar orqali tasdiqlangan.
 *   **Kiritma diapazoni:** Yil 1 dan 9999 gacha boʻlgan butun son. Bizning algoritmimiz bu diapazondagi barcha yillar uchun toʻgʻri ishlaydi, chunki yilning qiymati hisob-kitoblarning murakkabligini oʻzgartirmaydi, faqat `is_leap_year` funksiyasining natijasiga ta'sir qiladi.
 *   **Chiqish formati:** `DD/MM/YYYY` formatini ta'minlash uchun `iomanip` kutubxonasidagi `setfill('0')` va `setw()` manipulyatorlaridan foydalanish shart. Bular kun va oy uchun ikki xonali, yil uchun toʻrt xonali formatni, kerak boʻlsa oldiga nollar qoʻyib chiqarilishini ta'minlaydi. Masalan, yil 9 bo'lsa `0009` ko'rinishida chiqariladi.
+---
 ---
 
 ## Robocontest haqida ko'proq

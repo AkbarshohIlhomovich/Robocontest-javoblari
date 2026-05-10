@@ -1,3 +1,11 @@
+---
+title: "R094D — Teleportatsiya | Robocontest.uz Yechimi"
+description: "Robocontest.uz R094D (Teleportatsiya) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Matrix. Vaqt limiti: 2000 ms, xotira: 64 MB."
+keywords: "robocontest R094D, Teleportatsiya yechimi, robocontest Teleportatsiya, R094D c++ kod, matrix, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /R094D_teleportatsiya/
+lang: uz
+---
+
 # R094D — Teleportatsiya
 
 ## Masala haqida
@@ -180,3 +188,14 @@ int main() {
 *   **`K_val` ning kichikligi**: Matritsa darajasi faqat `K_val` kichik bo'lganda samarali ishlaydi. Agar `K_val` katta bo'lsa, matritsa juda katta bo'lib, vaqt chegarasiga sig'maydi.
 *   **DP bazis holatlari**: `N_val <= K_val + 1` holatining to'g'ri aniqlanishi va `dp[i] = 2^(i-2)` ning to'g'ri qo'llanilishi muhim. DP ni boshidan boshlab qo'lda hisoblab ko'rish bu bazis holatlarning to'g'riligini tasdiqlashga yordam beradi.
 *   **Indekslar bilan ehtiyot bo'lish**: Matritsa va vektor indekslari, ayniqsa `dp[t-K_val]` kabi atamalar bilan ishlaganda (ular vektorning qaysi indeksiga to'g'ri kelishi) diqqat talab qiladi. Kodda `initial_vec[i]` ning `dp[K_val + 1 - i]` ga mos kelishi to'g'ri qabul qilingan.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/R094D) platformasidagi **R094D** raqamli **Teleportatsiya** masalasi. U **Matrix** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/R094D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest R094D, Teleportatsiya yechimi, robocontest masalalari, c++17, olimpiada yechimi, matrix, dasturlash uzbek, competitive programming O'zbekiston.</sub>

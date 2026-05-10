@@ -2,6 +2,7 @@
 title: "R059E — Ajoyib o'yin | Robocontest.uz Yechimi"
 description: "Robocontest.uz R059E (Ajoyib o'yin) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest R059E, Ajoyib o'yin yechimi, robocontest Ajoyib o'yin, R059E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /R059E_ajoyib_oyin/
 lang: uz
 ---
 
@@ -59,6 +60,7 @@ int main() { // Har qanday C++ dasturining boshlanish nuqtasi.
 -   **Chegaraviy qiymatlar**: `a` va `b` ning maksimal qiymati `1000` bo'lishi mumkin. Eng katta oraliq `[1, 1000]` bo'lib, uning uzunligi `1000 - 1 + 1 = 1000` ga teng. `int` ma'lumot turi bu qiymatni bemalol saqlay oladi.
 -   **Ma'lumot turlari**: `a` va `b` ning qiymati ham, natija ham (`b - a + 1`) `int` ma'lumot turiga sig'adi, chunki ular 1000 dan oshmaydi.
 -   **Tezlik va xotira samaradorligi**: `O(1)` murakkablikdagi bu yechim berilgan vaqt va xotira cheklovlari doirasida eng optimal hisoblanadi.
+---
 ---
 
 ## Robocontest haqida ko'proq

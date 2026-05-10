@@ -2,6 +2,7 @@
 title: "M034A — Yangi yil archasi | Robocontest.uz Yechimi"
 description: "Robocontest.uz M034A (Yangi yil archasi) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest M034A, Yangi yil archasi yechimi, robocontest Yangi yil archasi, M034A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M034A_yangi_yil_archasi/
 lang: uz
 ---
 
@@ -91,6 +92,7 @@ int main() {
 *   **Kirish ma'lumotlari diapazoni**: `h, d, g` qiymatlari 0 dan 5000 gacha, `N` esa 0 dan 10000 gacha. Bu qiymatlar `int` turidagi o'zgaruvchilarga bemalol sig'adi va butun sonlar (integer) bilan ishlashda toshib ketish (overflow) muammosi yuzaga kelmaydi.
 *   **Tezlik**: Yuqorida tushuntirilgan I/O optimizatsiyalari ( `ios_base::sync_with_stdio(false); cin.tie(0);` ) ko'p miqdordagi kiritish/chiqarish operatsiyalari mavjud bo'lgan masalalarda sezilarli tezlikni oshirishga yordam beradi. Garchi bu masala uchun juda muhim bo'lmasada, bu amaliyotni odat tusiga kiritish tavsiya etiladi.
 *   **Oddiylik**: Bu masala shartli operatorlar (`if-else`) va mantiqiy operatorlar (`&&`) dan foydalanishning eng asosiy namunasi hisoblanadi. Unda murakkab algoritm yoki ma'lumotlar tuzilmasiga ehtiyoj yo'q.
+---
 ---
 
 ## Robocontest haqida ko'proq

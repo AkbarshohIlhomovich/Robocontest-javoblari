@@ -2,6 +2,7 @@
 title: "A0022 — Super daraja | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0022 (Super daraja) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Sonlar nazariyasi. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0022, Super daraja yechimi, robocontest Super daraja, A0022 c++ kod, sonlar nazariyasi, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0022_super_daraja/
 lang: uz
 ---
 
@@ -137,6 +138,7 @@ int main() {
 *   **Eylerning Totient Teoremasi kengaytmasi**: Kodda `if (is_exponent_large_enough_for_phi_rule) { exponent_for_outer_val += phi_b; }` qismi juda muhim. Agar `X^Y \pmod M` ni hisoblayotgan bo'lsak va `Y \ge \phi(M)` bo'lsa, Eyler teoremasining kengaytirilgan shakli \(X^Y \equiv X^{(Y \pmod{\phi(M)}) + \phi(M)} \pmod M\) bo'ladi. Agar \(Y \pmod{\phi(M)}\) qiymati 0 ga teng bo'lsa (yoki kichik son), lekin asl `Y` qiymati \(\phi(M)\) dan katta bo'lsa, faqat qoldiqni ishlatish xato natija berishi mumkin. Masalan, \(2^4 \pmod 6\). \(\phi(6) = 2\). \(4 \pmod 2 = 0\). Agar faqat \(2^0 \pmod 6\) ni hisoblasak, 1 ni olamiz, aslida \(2^4 = 16 \equiv 4 \pmod 6\). Kengaytirilgan teoremaga ko'ra, \(2^{(4 \pmod 2) + 2} \pmod 6 = 2^{0+2} \pmod 6 = 2^2 \pmod 6 = 4 \pmod 6\), bu to'g'ri. `is_exponent_large_enough_for_phi_rule` flagi aynan shu holatni qamrab oladi.
 *   **`a >= 20` sharti**: Bu shart \(2^a\) sonining kattaligini taxmin qilish uchun ishlatilgan. `a` qiymati 20 dan katta bo'lsa, \(2^a\) soni juda katta bo'lib, `long long` tipida ham to'g'ri saqlab bo'lmasligi mumkin (masalan, `a=63` da `2^63` `long long` dan oshib ketadi). Bunday hollarda, \(2^a\) deyarli har doim `phi_b` dan katta bo'ladi. Shu sababli, uning `phi_b` modulidagi qoldig'ini `power` funksiyasi yordamida hisoblash xavfsizroq va to'g'riroqdir.
 *   **`long long` ishlatilishi**: Barcha hisob-kitoblar, ayniqsa oraliq ko'paytmalar `long long` tipida bajariladi. Bu 0 dan \(10^6\) gacha bo'lgan `a` va `b` qiymatlari uchun mumkin bo'lgan overflow (to'lib ketish) xavfini oldini oladi.
+---
 ---
 
 ## Robocontest haqida ko'proq

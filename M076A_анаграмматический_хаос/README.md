@@ -1,3 +1,11 @@
+---
+title: "M076A — Анаграмматический Хаос | Robocontest.uz Yechimi"
+description: "Robocontest.uz M076A (Анаграмматический Хаос) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M076A, Анаграмматический Хаос yechimi, robocontest Анаграмматический Хаос, M076A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M076A_анаграмматический_хаос/
+lang: uz
+---
+
 # M076A — Anagrammatik Xaos
 
 ## Masala haqida
@@ -161,3 +169,14 @@ Biz `pairwise_inversions[char_type_X][char_type_Y]` massivida `s` satrida `char_
 *   **Inversiya hisoblash**: `d(x, y)` ning inversiyalar soniga tengligi algoritming asosiy qismidir. Qo'shni elementlarni almashtirish orqali satrni permutatsiyaga aylantirish uchun zarur bo'lgan minimal operatsiyalar soni aynan inversiyalar soniga teng.
 *   **Ma'lumot turlari**: `pairwise_inversions` va `dp` jadvalidagi qiymatlar `long long` bo'lishi muhim, chunki inversiyalar soni `N * N / 2` gacha yetishi mumkin, bu `(10^5)^2 / 2 = 5 * 10^9` ga teng bo'lishi mumkin, `int` diapazonidan tashqarida.
 *   **`memset`dan foydalanish**: `memset` tezkor initsializatsiya uchun qulay, lekin u faqat baytlarda bir xil qiymat (masalan, `0` yoki `-1` uchun barcha bitlari `1`) bilan to'ldirishda ishlaydi. Boshqa qiymatlar uchun `std::fill` yoki sikldan foydalanish kerak bo'ladi. Bu holatda `0` va `-1` (barcha bitlari 1, ya'ni `0xFFFFFFFF` to'ldiriladi) uchun to'g'ri ishlaydi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M076A) platformasidagi **M076A** raqamli **Анаграмматический Хаос** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M076A>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M076A, Анаграмматический Хаос yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

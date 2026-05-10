@@ -1,3 +1,11 @@
+---
+title: "M077E — Navbat | Robocontest.uz Yechimi"
+description: "Robocontest.uz M077E (Navbat) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M077E, Navbat yechimi, robocontest Navbat, M077E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M077E_navbat/
+lang: uz
+---
+
 # M077E — Navbat
 
 ## Masala haqida
@@ -84,3 +92,14 @@ int main() {
 *   **Faqat band joylar**: Agar navbatda faqat 1 lar bo'lsa (masalan, "111"), `count` 0 bo'lib qoladi, chunki `s[i] == '0'` sharti hech qachon bajarilmaydi.
 *   **Faqat bo'sh joylar**: Agar navbatda faqat 0 lar bo'lsa (masalan, "00000"), algoritm har bir ikkinchi joyga ishtirokchi qo'yib boradi: 0-joyga, keyin 2-joyga, keyin 4-joyga va hokazo. Bu "greedy" strategiya to'g'ri natijani beradi.
 *   **Algoritmning asosi — greedy tanlov**: Har doim birinchi mavjud shartlarni qanoatlantiruvchi joyga ishtirokchi qo'yishimiz, keyingi joyni o'tkazib yuborish orqali eng optimal yechimga erishiladi. Bu shuning uchunki, joylashtirish har doim eng chapdagi birinchi imkoniyatda amalga oshiriladi va bu keyingi imkoniyatlarni kamaytirishi mumkin bo'lgan ta'sirlarni minimallashtiradi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M077E) platformasidagi **M077E** raqamli **Navbat** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M077E>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M077E, Navbat yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

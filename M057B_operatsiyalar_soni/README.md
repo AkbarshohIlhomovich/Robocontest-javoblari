@@ -2,6 +2,7 @@
 title: "M057B — Operatsiyalar soni | Robocontest.uz Yechimi"
 description: "Robocontest.uz M057B (Operatsiyalar soni) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
 keywords: "robocontest M057B, Operatsiyalar soni yechimi, robocontest Operatsiyalar soni, M057B c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M057B_operatsiyalar_soni/
 lang: uz
 ---
 
@@ -74,6 +75,7 @@ int main() {
 *   **Nol sonlar:** Agar kirishda `a` yoki `b` (yoki ikkalasi ham) nol bo'lsa, `while (a != 0 && b != 0)` sharti bajarilmaydi va `operations` o'zgaruvchisi o'zgarmagan holda `0` ni qaytaradi. Bu to'g'ri, chunki sonlardan biri allaqachon nol bo'lsa, operatsiya qilish shart emas.
 *   **Katta sonlar:** Kirish sonlari $10^{18}$ gacha bo'lishi mumkinligi sababli, `long long` ma'lumot turi ishlatilgan. Bu integer (butun son) toshib ketishining (overflow) oldini oladi. `operations` o'zgaruvchisi ham `long long` bo'lishi muhim, chunki ba'zi holatlarda u ham juda katta qiymatlarga yetishi mumkin (masalan, `a = 1`, `b = 10^18` bo'lsa, birinchi qadamda `operations` ga `10^18` qo'shiladi).
 *   **Evklid algoritmi bilan bog'liqlik:** Bu masala Evklid algoritmining "ayirish usuli" ni umumlashtiradi. Evklid algoritmi ikki sonning eng katta umumiy bo'luvchisini (GCD) topish uchun ishlatiladi. Bizning holatimizda, biz GCD ni topmaymiz, balki nolga erishish uchun bajarilgan operatsiyalar sonini hisoblaymiz.
+---
 ---
 
 ## Robocontest haqida ko'proq

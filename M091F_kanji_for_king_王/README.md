@@ -2,6 +2,7 @@
 title: "M091F — Kanji for king (王) | Robocontest.uz Yechimi"
 description: "Robocontest.uz M091F (Kanji for king (王)) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
 keywords: "robocontest M091F, Kanji for king (王) yechimi, robocontest Kanji for king (王), M091F c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M091F_kanji_for_king_王/
 lang: uz
 ---
 
@@ -101,6 +102,7 @@ Yechimning asosiy g'oyasi – berilgan daraxtdagi har bir tugunni "Kanji for Kin
 *   **Modular aritmetika:** Natija juda katta son bo'lishi mumkinligi sababli, barcha oraliq hisoblashlar `10^9 + 7` modulida amalga oshiriladi. (`A - B + MOD) % MOD` shaklida manfiy natijalarning oldini olish muhim.
 *   **Tugun raqamlash:** Tugunlar 1 dan `N` gacha raqamlangan, shuning uchun massivlar (masalan, `adj` va `deg`) 0-indeksdan foydalanmaslik uchun `N+1` o'lchamda e'lon qilingan.
 *   **Sub-daraxtlar farqi:** Masalada ikki sub-daraxt bir-biridan, agar bittasida qaysidir tugun mavjud bo'lsa, lekin boshqasida bo'lmasa, farqli hisoblanishi aytilgan. Bizning yondashuvimiz har bir markaziy tugun atrofida hosil bo'lishi mumkin bo'lgan har bir noyob 9 tugunli to'plamni sanash orqali bu shartni qanoatlantiradi, chunki har xil kombinatsiyalar doimo tugunlarning har xil to'plamiga olib keladi.
+---
 ---
 
 ## Robocontest haqida ko'proq

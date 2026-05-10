@@ -2,6 +2,7 @@
 title: "M038A — PIIMA olimpiadasiga xush kelibsiz #2 | Robocontest.uz Yechimi"
 description: "Robocontest.uz M038A (PIIMA olimpiadasiga xush kelibsiz #2) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest M038A, PIIMA olimpiadasiga xush kelibsiz #2 yechimi, robocontest PIIMA olimpiadasiga xush kelibsiz #2, M038A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M038A_piima_olimpiadasiga_xush_kelibsiz_2/
 lang: uz
 ---
 
@@ -62,6 +63,7 @@ int main() {             // 3
 *   **Bo'shliqli ismlar**: `cin >> name;` operatori faqat bo'shliqgacha bo'lgan bitta so'zni o'qiydi. Agar o'quvchining ismi bo'shliqlarni o'z ichiga olgan bo'lsa (masalan, "Alijon Valiev"), bu operator faqat "Alijon" qismini o'qigan bo'lar edi. Biroq, odatda bu kabi masalalarda ism bir so'zdan iborat bo'lishi nazarda tutiladi. Agar bo'shliqli ismlar kiritilishi mumkin bo'lsa, `getline(cin, name);` funksiyasidan foydalanish kerak bo'ladi.
 *   **Maxsus belgilar**: Masala matnida ismda maxsus belgilar bo'lishi haqida hech qanday cheklov yo'q. C++ ning `string` turi har qanday UTF-8 (yoki boshqa kodlashdagi) belgilarni qo'llab-quvvatlaydi, shuning uchun bu muammo tug'dirmaydi.
 *   **Katta/kichik harflar**: Dastur kiritilgan ismni aynan o'sha katta/kichik harflar bilan chop etadi. Masalada bu haqda hech qanday talab bo'lmagani uchun, o'zgartirish shart emas.
+---
 ---
 
 ## Robocontest haqida ko'proq

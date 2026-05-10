@@ -2,6 +2,7 @@
 title: "A0019 — Ko'zalar | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0019 (Ko'zalar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0019, Ko'zalar yechimi, robocontest Ko'zalar, A0019 c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0019_kozalar/
 lang: uz
 ---
 
@@ -79,6 +80,7 @@ int main() {
 *   **`A` yoki `B` nol bo'lishi:** Masala shartiga ko'ra `1 <= A, B, C <= 1000`, shuning uchun `A` yoki `B` ning nol bo'lish holati haqida tashvishlanish shart emas.
 *   **`A = B` holati:** Agar `A = B` bo'lsa, `std::gcd(A, A)` `A` ga teng bo'ladi. Agar `C` ham `A` ga teng bo'lsa (`C % A == 0`), "YES" chiqadi, bu to'g'ri. Agar `C` `A` dan farqli bo'lsa, `C % A != 0` bo'ladi va "NO" chiqadi, bu ham to'g'ri.
 *   **`C <= 0` holati:** Masala shartiga ko'ra `1 <= C <= 1000`, shuning uchun `C` ning nol yoki manfiy bo'lish holatlari ham ko'rib chiqilmaydi.
+---
 ---
 
 ## Robocontest haqida ko'proq

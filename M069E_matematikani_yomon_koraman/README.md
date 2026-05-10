@@ -2,6 +2,7 @@
 title: "M069E — Matematikani yomon ko'raman | Robocontest.uz Yechimi"
 description: "Robocontest.uz M069E (Matematikani yomon ko'raman) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
 keywords: "robocontest M069E, Matematikani yomon ko'raman yechimi, robocontest Matematikani yomon ko'raman, M069E c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M069E_matematikani_yomon_koraman/
 lang: uz
 ---
 
@@ -136,6 +137,7 @@ int main() {
     *   `105` ni `1`, `0` va `5` deb ajratish mumkin.
     *   Lekin `105` ni `1` va `05` deb ajratib bo'lmaydi, chunki `05` (ikkita bir xonali raqam yig'indisi sifatida) aslida `5` deb yozilishi kerak. `s_n[i] != '0'` sharti shu kabi noto'g'ri parchalashlarning oldini oladi va faqat `10` kabi haqiqiy ikki xonali sonlarnigina ikki xonali yig'indi deb hisoblashga imkon beradi.
 *   **`i + 1 < len` sharti**: Ikki xonali raqamni ajratish uchun `s_n[i+1]` raqami mavjud bo'lishi kerak. Bu shart DP siklining chegaralardan chiqib ketmasligini ta'minlaydi.
+---
 ---
 
 ## Robocontest haqida ko'proq

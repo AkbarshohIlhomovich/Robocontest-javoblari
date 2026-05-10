@@ -1,3 +1,11 @@
+---
+title: "M071A — Two strings (Ikki Satr) | Robocontest.uz Yechimi"
+description: "Robocontest.uz M071A (Two strings (Ikki Satr)) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 128 MB."
+keywords: "robocontest M071A, Two strings (Ikki Satr) yechimi, robocontest Two strings (Ikki Satr), M071A c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M071A_two_strings_ikki_satr/
+lang: uz
+---
+
 # M071A — Two strings (Ikki Satr)
 
 ## Masala haqida
@@ -91,3 +99,14 @@ int main() {
 *   **Harflarning yo'qligi**: Agar biror harf (`'x'`) `S` satrida umuman mavjud bo'lmasa (`freqS['x'-'a'] == 0`) yoki `T` satrida mavjud bo'lmasa (`freqT['x'-'a'] == 0`), bu harf uchun `min(0, ...)` natijasi 0 bo'ladi va u `total_matches` ga ta'sir qilmaydi. Bu ham algoritm tomonidan to'g'ri ishladi.
 *   **Alifbo cheklovi**: Masala sharti bo'yicha faqat kichik ingliz harflari ("a" dan "z" gacha) ishlatiladi. Bu `freqS` va `freqT` massivlarining hajmini aniq 26 ta element bilan cheklashga imkon beradi, bu esa algoritmning `O(1)` xotira murakkabligini ta'minlaydi.
 *   **Kirish/chiqish optimizatsiyalari**: `ios_base::sync_with_stdio(false);` va `cin.tie(0);` qatorlari C++ dasturlashda katta hajmdagi kirish/chiqish ma'lumotlari bilan ishlashda dastur ish faoliyatini sezilarli darajada yaxshilash uchun keng qo'llaniladigan standart amaliyotdir.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M071A) platformasidagi **M071A** raqamli **Two strings (Ikki Satr)** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M071A>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M071A, Two strings (Ikki Satr) yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

@@ -2,6 +2,7 @@
 title: "A0015 — Raqamlangan to'plar | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0015 (Raqamlangan to'plar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0015, Raqamlangan to'plar yechimi, robocontest Raqamlangan to'plar, A0015 c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0015_raqamlangan_toplar/
 lang: uz
 ---
 
@@ -101,6 +102,7 @@ int main() {
     *   Keyingi qadamda (`i=1`) `[1, N-1]` diapazon teskariga buriladi. `current_pos` (`0`) bu diapazonga tushmaydi (chunki `0 < 1`). Uning pozitsiyasi `0` da qoladi.
     *   Keyingi barcha qadamlarda ham `current_pos` (`0`) har doim `[i, N-1]` diapazoniga tushmaydi (chunki `i` har doim `0` dan katta yoki teng, shuning uchun `0 < i` bo'ladi). Demak, `N-1`-chi to'p o'yin oxirida `0`-chi pozitsiyada bo'ladi.
 *   **`std::ios_base::sync_with_stdio(false); std::cin.tie(0);`**: Ushbu qatorlar C++ standart kirish/chiqish (I/O) oqimlarini raqobatli dasturlash muhitida tezlashtirish uchun juda muhimdir. Ular `std::cin` va `std::cout` ning C tilining `stdio` kutubxonasi bilan sinxronizatsiyasini o'chiradi va `std::cin` ning har bir kiritish operatsiyasidan oldin `std::cout` buferini tozalashini bekor qiladi. Bu katta miqdordagi kiritish/chiqish operatsiyalari mavjud bo'lgan masalalarda dasturning umumiy ish vaqtini sezilarli darajada qisqartirishi mumkin.
+---
 ---
 
 ## Robocontest haqida ko'proq

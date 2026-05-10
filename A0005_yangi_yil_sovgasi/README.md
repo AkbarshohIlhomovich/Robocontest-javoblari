@@ -2,6 +2,7 @@
 title: "A0005 — Yangi yil sovg'asi | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0005 (Yangi yil sovg'asi) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Oson. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0005, Yangi yil sovg'asi yechimi, robocontest Yangi yil sovg'asi, A0005 c++ kod, oson, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0005_yangi_yil_sovgasi/
 lang: uz
 ---
 
@@ -68,6 +69,7 @@ int main() {
 *   **Ma'lumot turlari (Data Types)**: Eng muhim nuqta. $N, A, B, C$ qiymatlari $10^9$ gacha bo'lishi mumkin. Uchta $10^9$ lik sonning yig'indisi $3 \cdot 10^9$ bo'lishi mumkin. Standart C++ `int` ma'lumot turi odatda $2 \cdot 10^9$ atrofidagi qiymatlarni saqlay oladi xolos. Shuning uchun `long long` ma'lumot turidan foydalanish juda muhim, aks holda sonlar toshib ketishi (overflow) va noto'g'ri natija berishi mumkin. Taqdim etilgan yechimda bu holat to'g'ri qabul qilingan.
 *   **Nol qiymatlari**: Agar $N=0$ bo'lsa, sovg'a bepul degani. Bu holda, opalarda qancha pul bo'lishidan qat'i nazar (hatto 0 so'm bo'lsa ham), ular uni ola oladilar, chunki $A+B+C \ge 0$ har doim rost. Algoritm bu holatni to'g'ri boshqaradi. Agar $A, B, C$ hammasi 0 bo'lsa-yu, $N>0$ bo'lsa, $0 < N$ bo'lgani uchun "No" chiqadi, bu ham to'g'ri.
 *   **Minimal masala**: Masala juda oddiy va asosan asosiy arifmetikaga, shuningdek, to'g'ri ma'lumot turini tanlashga qaratilgan. Bu turdagi masalalar ko'pincha dasturlash musobaqalariga kirish qismi sifatida beriladi.
+---
 ---
 
 ## Robocontest haqida ko'proq

@@ -2,6 +2,7 @@
 title: "A0006 — O'yin | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0006 (O'yin) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Sonlar nazariyasi. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0006, O'yin yechimi, robocontest O'yin, A0006 c++ kod, sonlar nazariyasi, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0006_oyin/
 lang: uz
 ---
 
@@ -104,6 +105,7 @@ int main() {
 *   **`n = 1` holati**: Agar `n = 1` bo'lsa, `{1}` to'plamida tub sonlar yo'q. `prime_count` `0` ga teng bo'ladi. `0` juft son bo'lgani uchun "Bobur" g'olib chiqadi, bu to'g'ri, chunki Ali hech qanday yurish qila olmaydi.
 *   **`n = 2` holati**: Agar `n = 2` bo'lsa, `{1, 2}` to'plamida yagona tub son `2` mavjud. `prime_count` `1` ga teng bo'ladi. `1` toq son bo'lgani uchun "Ali" g'olib chiqadi, bu to'g'ri, chunki Ali `2` ni tanlab oladi va Boburga yurishga hech narsa qoldirmaydi.
 *   **Xotira optimizatsiyasi**: C++ dagi `vector<bool>` xususan bit-packing (bitlarni yig'ish) mexanizmi orqali juda samarali xotiradan foydalanadi, ya'ni har bir `bool` uchun 1 bayt emas, balki 1 bit ishlatadi. Bu `N=10^5` kabi katta `N` qiymatlarida `16 MB` kabi kichik xotira chegaralariga sig'ishga yordam beradi.
+---
 ---
 
 ## Robocontest haqida ko'proq

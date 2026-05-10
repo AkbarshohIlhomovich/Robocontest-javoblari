@@ -2,6 +2,7 @@
 title: "M069H — Satrni tiklash | Robocontest.uz Yechimi"
 description: "Robocontest.uz M069H (Satrni tiklash) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
 keywords: "robocontest M069H, Satrni tiklash yechimi, robocontest Satrni tiklash, M069H c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M069H_satrni_tiklash/
 lang: uz
 ---
 
@@ -117,6 +118,7 @@ int main() {
 *   **`k` ning katta qiymati**: Agar `k` satr uzunligi `N` dan katta bo'lsa (ya'ni `k >= N`), u holda `(N + k - 1) / k` ifodasi 1 ga teng bo'ladi. Bu holda satrning barcha belgilarini bir operatsiyada o'chirish va ularning o'rniga yangi `k` belgini qo'shish mumkin, bu esa satrni to'liq tiklaydi. Tsikldagi `m*k < n` sharti ham to'g'ri ishlaydi va `m=1` dan boshlab `m*k >= N` bo'lganligi sababli tsikl umuman ishlamaydi, natijada `min_ops` 1 bo'lib qoladi, bu to'g'ri.
 *   **`N=0` (bo'sh satr)**: Masala matnida "0 ga teng bo'lmagan minimum amallar sonini chop eting" deyilganligi sababli, kiruvchi satrning bo'sh bo'lmasligi ehtimoli yuqori (odatda kamida 1 belgidan iborat bo'ladi). Kod `N=0` holatini ham to'g'ri ishlashi mumkin, `z_array` bo'sh qaytariladi va `min_ops = 0` bo'ladi. Biroq, masala shartiga ko'ra natija 0 bo'lmasligi kerak, shuning uchun `N >= 1` deb faraz qilish mumkin.
 *   **`long long` dan foydalanish**: `m` operatsiyalar soni va `k` ko'paytmasi `m*k` `int` turining maksimal qiymatidan (taxminan 2 * 10^9) oshib ketishi mumkin (`m` 10^6 ga, `k` ham 10^6 ga yetishi mumkin, ko'paytma 10^12). Shuning uchun `m` va uning ko'paytmasi uchun `long long` turidan foydalanish zarur va kodda bu to'g'ri qo'llanilgan.
+---
 ---
 
 ## Robocontest haqida ko'proq

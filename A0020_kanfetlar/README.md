@@ -2,6 +2,7 @@
 title: "A0020 — Kanfetlar | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0020 (Kanfetlar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Dinamik dasturlash. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0020, Kanfetlar yechimi, robocontest Kanfetlar, A0020 c++ kod, dinamik dasturlash, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0020_kanfetlar/
 lang: uz
 ---
 
@@ -168,6 +169,7 @@ int main() {
 *   **Modul arifmetikasi**: Barcha oraliq hisob-kitoblarda `% MOD` operatorini ishlatish muhim. Aks holda, sonlar `long long` tipidan oshib ketishi va noto'g'ri natijaga olib kelishi mumkin.
 *   **`MAX_COMB_N` ni to'g'ri tanlash**: Bu qiymat `K + N - 1` ning maksimal mumkin bo'lgan qiymatidan kichik bo'lmasligi kerak. Bizning holatda `999 + 999 - 1 = 1997` bo'lganligi sababli `1999` xavfsiz tanlangan.
 *   **Tez I/O**: `ios_base::sync_with_stdio(false); cin.tie(0);` kod qatorlari katta kiritish/chiqarish hajmlari bo'lgan musobaqa dasturlash masalalarida vaqtni tejash uchun standart amaliyot hisoblanadi.
+---
 ---
 
 ## Robocontest haqida ko'proq

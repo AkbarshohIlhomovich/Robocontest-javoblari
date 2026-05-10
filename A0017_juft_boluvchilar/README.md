@@ -2,6 +2,7 @@
 title: "A0017 — Juft bo'luvchilar | Robocontest.uz Yechimi"
 description: "Robocontest.uz A0017 (Juft bo'luvchilar) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 16 MB."
 keywords: "robocontest A0017, Juft bo'luvchilar yechimi, robocontest Juft bo'luvchilar, A0017 c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /A0017_juft_boluvchilar/
 lang: uz
 ---
 
@@ -135,6 +136,7 @@ int main() {
 *   **N ning o'zi tub son bo'lsa (va juft)**: Masalan, \(N=2\). `exponent_of_2` 1 ga teng bo'ladi, `n` esa 1 ga aylanadi. `count_odd_divisors_factor` 1 ga teng bo'ladi. Natija `1 * 1 = 1`. To'g'ri, 2 ning yagona juft bo'luvchisi bu 2 ning o'zidir.
 *   **`i * i` da toshib ketish xavfi**: `for` siklida `(long long)i * i <= n` sharti `i * i` ning natijasi `int` tipi diapazonidan chiqib ketishining oldini oladi. \(N_{max} = 10^9\) bo'lganida, \(\sqrt{N_{max}} \approx 31622\). \(31622 \times 31622 \approx 999950884\). Bu qiymat `int` tipiga sig'adi (\(2 \cdot 10^9\) atrofida). Shunga qaramay, `(long long)` dan foydalanish xavfsizlikni oshiradi va \(N\) ning maksimal qiymati kattaroq bo'lganda (masalan, \(10^{18}\) bo'lsa) zarur bo'lar edi.
 *   **Algoritmning samaradorligi**: Tub ko'paytuvchilarga ajratish uchun kvadrat ildizgacha tekshirish juda samarali yondashuv hisoblanadi, ayniqsa \(N\) ning qiymati \(10^9\) kabi bo'lganda.
+---
 ---
 
 ## Robocontest haqida ko'proq

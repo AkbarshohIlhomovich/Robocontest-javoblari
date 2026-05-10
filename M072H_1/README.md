@@ -1,3 +1,11 @@
+---
+title: "M072H — +1 | Robocontest.uz Yechimi"
+description: "Robocontest.uz M072H (+1) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M072H, +1 yechimi, robocontest +1, M072H c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M072H_1/
+lang: uz
+---
+
 # M072H — +1
 
 ## Masala haqida
@@ -70,3 +78,14 @@ int main() {
 *   **Kirish formatlash**: Input soni bo'sh joylar bilan ajratilganligi sababli, `cin >> s` o'rniga `getline(cin, s)` dan foydalanish juda muhim. `cin >> s` faqat birinchi bo'sh joygacha bo'lgan qismni o'qib, qolganini o'qimaydi.
 *   **Oxirgi raqam 9 bo'lsa**: Agar sonning oxirgi raqami 9 bo'lsa (masalan, "123 456 789"), unga 1 qo'shganda raqamlar o'zgarishi ("123456790") yoki hattoki xonalar soni ortishi (masalan, "999 999" ga 1 qo'shganda "1000000") mumkin. `long long` ma'lumot turi bu hisob-kitoblarni avtomatik tarzda to'g'ri bajaradi.
 *   **Bo'sh joylarni olib tashlash usuli**: `remove` va `erase` funksiyalarining birgalikda ishlatilishi C++ da stringdagi ma'lum belgilarni samarali olib tashlashning standart va tavsiya etilgan usullaridan biridir.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072H) platformasidagi **M072H** raqamli **+1** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M072H>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M072H, +1 yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

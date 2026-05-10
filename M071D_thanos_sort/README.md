@@ -1,3 +1,11 @@
+---
+title: "M071D — Thanos sort | Robocontest.uz Yechimi"
+description: "Robocontest.uz M071D (Thanos sort) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1500 ms, xotira: 128 MB."
+keywords: "robocontest M071D, Thanos sort yechimi, robocontest Thanos sort, M071D c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M071D_thanos_sort/
+lang: uz
+---
+
 Mazkur hujjat Thanos sort masalasining C++ tilidagi yechimini chuqur tahlil qiladi va tushuntiradi.
 
 # M071D — Thanos sort
@@ -110,3 +118,14 @@ Bu turdagi oraliklar bo'yicha maksimal qiymatni topish masalalari odatda **Segme
 *   **Uzunlik 2 ning darajasi ekanligi:** Masalada `r - l + 1` qismmassiv uzunligi har doim 2 ning darajasi ekanligi kafolatlanadi. Bu juda muhim, chunki Thanosning bo'lish jarayoni ham doim uzunlikni ikkiga bo'ladi, shuning uchun `L_final_sorted` ham har doim 2 ning darajasi bo'lib qoladi. Bu `log2_int` funksiyasining noto'g'ri qiymatlar uchun chaqirilmasligini va `max_len` nol bo'lmagan holda har doim to'g'ri natija berishini ta'minlaydi.
 *   **1-indeksdan foydalanish:** Kodda massiv `a` va so'rov oralig'i `l, r` 1-indeksdan boshlab ishlatilgan. Bu indeksatsiya sxemasiga doimiy ravishda rioya qilish zarur.
 *   **`__builtin_clz` ning portativligi:** `__builtin_clz` funksiyasi GCC va Clang kompilyatorlariga xosdir. Agar boshqa kompilyatorlar (masalan, MSVC) ishlatilsa, u ishlamasligi mumkin. Bunday hollarda, `std::log2` (double qabul qiladi, butun sonlarga aylantirish kerak bo'ladi) yoki bitli operatsiyalar bilan `log2` ni hisoblaydigan boshqa butun son funksiyasini yozish kerak bo'ladi. Biroq, competitive programming muhitlarida bu intrinsik funksiyalar keng qo'llaniladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M071D) platformasidagi **M071D** raqamli **Thanos sort** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M071D>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M071D, Thanos sort yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>

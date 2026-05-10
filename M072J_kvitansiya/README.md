@@ -1,3 +1,11 @@
+---
+title: "M072J — Kvitansiya | Robocontest.uz Yechimi"
+description: "Robocontest.uz M072J (Kvitansiya) masalasining C++17 yechimi va o'zbek tilida batafsil tushuntirishi. Kategoriya: Algoritm. Vaqt limiti: 1000 ms, xotira: 32 MB."
+keywords: "robocontest M072J, Kvitansiya yechimi, robocontest Kvitansiya, M072J c++ kod, algoritm, robocontest.uz, robocontest yechimlari, c++17, olimpiada yechimi, algoritm"
+permalink: /M072J_kvitansiya/
+lang: uz
+---
+
 # M072J — Kvitansiya
 
 ## Masala haqida
@@ -61,3 +69,14 @@ int main() {
 *   **Qisqa sonlar (masalan, 1, 12, 123)**: Bu sonlar uchun `len` qiymati 1, 2 yoki 3 bo'ladi. `(len - i) % 3 == 0` sharti hech qachon `i > 0` bilan birga to'g'ri bo'lmaydi, chunki bu sonlarda 3 xonali guruhlarga ajratish uchun bo'sh joy kerak emas. Natijada, sonning o'zi va `,00` chop etiladi (masalan, `1,00`, `12,00`, `123,00`), bu ham to'g'ri.
 *   **Maksimal qiymat (10^15)**: Bu 16 xonali son. `long long` tipi uni bemalol saqlay oladi. Satrga o'tkazish va sikl bu uzunlikdagi sonni ham to'g'ri qayta ishlaydi va spaces to'g'ri joylarga qo'yiladi (masalan, `1 000 000 000 000 000,00`).
 *   **Vaqt va xotira samaradorligi**: Yondashuv `O(L)` vaqt va `O(L)` xotira murakkabligiga ega bo'lib, `L` (raqamlar soni) juda kichik bo'lganligi sababli, bu yechim berilgan vaqt va xotira chegaralariga bemalol mos keladi.
+---
+
+## Robocontest haqida ko'proq
+
+Bu masala — [Robocontest.uz](https://robocontest.uz/tasks/M072J) platformasidagi **M072J** raqamli **Kvitansiya** masalasi. U **algoritm** kategoriyasiga kiradi va C++17 da yechilgan.
+
+- Asl masala havolasi: <https://robocontest.uz/tasks/M072J>
+- Boshqa yechimlar: [INDEX.md](../INDEX.md)
+- Repo: [Robocontest-javoblari](https://github.com/AkbarshohIlhomovich/Robocontest-javoblari)
+
+<sub>**Kalit so'zlar**: robocontest M072J, Kvitansiya yechimi, robocontest masalalari, c++17, olimpiada yechimi, algoritm, dasturlash uzbek, competitive programming O'zbekiston.</sub>
