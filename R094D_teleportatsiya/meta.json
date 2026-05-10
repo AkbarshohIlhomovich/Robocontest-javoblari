@@ -1,0 +1,14 @@
+{
+  "task_id": "R094D",
+  "title": "Teleportatsiya",
+  "category": "#Matrix",
+  "complexity_pct": 1,
+  "time_limit_ms": 2000,
+  "memory_limit_mb": 64,
+  "verdict": {
+    "submission_id": "10993102",
+    "time_ms": 1069,
+    "memory_kb": 0
+  },
+  "saved_at": "2026-05-10T14:12:06"
+}

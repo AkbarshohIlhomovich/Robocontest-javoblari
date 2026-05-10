@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-64-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-65-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 64 ta masala
-- **O'rtacha qiyinchilik**: 5.2%
-- **O'rtacha vaqt**: 14.4 ms
-- **Eng oxirgi**: [M074G — Orollar urushi](./M074G_orollar_urushi) _(2026-05-10)_
+- **Jami yechilgan**: 65 ta masala
+- **O'rtacha qiyinchilik**: 5.1%
+- **O'rtacha vaqt**: 30.6 ms
+- **Eng oxirgi**: [R094D — Teleportatsiya](./R094D_teleportatsiya) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -72,6 +72,7 @@ solutions/
 | Uzun sonlar arifmetikasi | 1 |
 | Dinamik dasturlash | 1 |
 | Matematika | 1 |
+| Matrix | 1 |
 <!-- AUTO:categories-END -->
 
 ## So'nggi yechilgan masalalar
@@ -79,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [R094D](./R094D_teleportatsiya) | Teleportatsiya | #Matrix | 1069 ms | 2026-05-10 |
 | [M074G](./M074G_orollar_urushi) | Orollar urushi | - | 33 ms | 2026-05-10 |
 | [M072E](./M072E_yoqolgan_son) | Yo'qolgan son | - | 14 ms | 2026-05-10 |
 | [M072J](./M072J_kvitansiya) | Kvitansiya | - | 1 ms | 2026-05-10 |
@@ -88,7 +90,6 @@ solutions/
 | [M071B](./M071B_transport) | Transport | - | 0 ms | 2026-05-10 |
 | [M071A](./M071A_two_strings_ikki_satr) | Two strings (Ikki Satr) | - | 1 ms | 2026-05-10 |
 | [M070E](./M070E_mex-xe-xe) | MEX-xe-xe | - | 0 ms | 2026-05-10 |
-| [M070A](./M070A_extensions_uzaytirgichlar) | Extensions (uzaytirgichlar) | - | 0 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)

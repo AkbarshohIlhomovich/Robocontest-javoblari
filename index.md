@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T14:10:09_
+_Yangilangan: 2026-05-10T14:12:06_
 
-Jami: **64** ta masala
+Jami: **65** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -69,4 +69,5 @@ Jami: **64** ta masala
 | [M095A](./M095A_increment_va_decrement) | Increment va Decrement |  | 1% | 77 ms | 5216 KB |
 | [R059E](./R059E_ajoyib_oyin) | Ajoyib o'yin |  | 1% | 2 ms | 0 KB |
 | [R078I](./R078I_ab) | A+B | #Oson | 1% | 0 ms | 0 KB |
+| [R094D](./R094D_teleportatsiya) | Teleportatsiya | #Matrix | 1% | 1069 ms | 0 KB |
 | [R095D](./R095D_ifodani_maksimallashtirish) | Ifodani maksimallashtirish |  | 1% | 32 ms | 10848 KB |
