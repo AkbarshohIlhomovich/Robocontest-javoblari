@@ -6,7 +6,7 @@
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-40-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-41-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -44,10 +44,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 40 ta masala
-- **O'rtacha qiyinchilik**: 7.7%
-- **O'rtacha vaqt**: 5.7 ms
-- **Eng oxirgi**: [M064F — Ketma-ketlik a/b](./M064F_ketma-ketlik_ab) _(2026-05-10)_
+- **Jami yechilgan**: 41 ta masala
+- **O'rtacha qiyinchilik**: 7.6%
+- **O'rtacha vaqt**: 6.2 ms
+- **Eng oxirgi**: [M064D — Qavslar](./M064D_qavslar) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -55,7 +55,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 27 |
+| Kategoriyasiz | 28 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -68,6 +68,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M064D](./M064D_qavslar) | Qavslar | - | 26 ms | 2026-05-10 |
 | [M064F](./M064F_ketma-ketlik_ab) | Ketma-ketlik a/b | - | 1 ms | 2026-05-10 |
 | [M091F](./M091F_kanji_for_king_王) | Kanji for king (王) | - | 38 ms | 2026-05-10 |
 | [M095A](./M095A_increment_va_decrement) | Increment va Decrement | - | 77 ms | 2026-05-10 |
@@ -77,7 +78,6 @@ solutions/
 | [M084A](./M084A_kvadrat_sonlar) | Kvadrat sonlar | - | 7 ms | 2026-05-10 |
 | [M084C](./M084C_qutilar) | Qutilar | - | 1 ms | 2026-05-10 |
 | [M054E](./M054E_damino_toshlari) | Damino toshlari | - | 1 ms | 2026-05-10 |
-| [M047B](./M047B_juft_karrali) | Juft karrali | #Oson | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)

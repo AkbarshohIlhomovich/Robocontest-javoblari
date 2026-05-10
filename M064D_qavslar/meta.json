@@ -1,0 +1,14 @@
+{
+  "task_id": "M064D",
+  "title": "Qavslar",
+  "category": "",
+  "complexity_pct": 1,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 32,
+  "verdict": {
+    "submission_id": "10992930",
+    "time_ms": 26,
+    "memory_kb": 4296
+  },
+  "saved_at": "2026-05-10T13:09:21"
+}
