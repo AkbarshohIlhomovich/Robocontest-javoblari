@@ -1,5 +1,5 @@
 ---
-title: "Robocontest.uz Yechimlari Indeksi — 86 ta masala"
+title: "Robocontest.uz Yechimlari Indeksi — 87 ta masala"
 description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
 keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
 lang: uz
@@ -7,9 +7,9 @@ lang: uz
 
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T15:12:38_
+_Yangilangan: 2026-05-10T15:14:39_
 
-Jami: **86** ta masala
+Jami: **87** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -74,6 +74,7 @@ Jami: **86** ta masala
 | [M073B](./M073B_ikkilik_yigindi) | Ikkilik yig'indi |  | 1% | 1 ms | 0 KB |
 | [M073D](./M073D_juda_kop_talablar) | Juda ko'p talablar |  | 1% | 18 ms | 0 KB |
 | [M073E](./M073E_togri_chiziq) | To'g'ri chiziq |  | 1% | 1 ms | 96 KB |
+| [M073F](./M073F_javascript_vs_python) | JavaScript vs Python |  | 1% | 1 ms | 0 KB |
 | [M073G](./M073G_satrni_qayta_qurish) | Satrni qayta qurish |  | 1% | 1 ms | 0 KB |
 | [M073H](./M073H_modullar_yigindisi) | Modullar yig'indisi |  | 1% | 2 ms | 0 KB |
 | [M074B](./M074B_daraxtdagi_lis) | Daraxtdagi LIS |  | 1% | 174 ms | 26208 KB |
