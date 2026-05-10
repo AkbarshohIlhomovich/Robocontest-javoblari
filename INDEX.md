@@ -1,8 +1,8 @@
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-10T13:35:46_
+_Yangilangan: 2026-05-10T13:36:34_
 
-Jami: **54** ta masala
+Jami: **55** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -48,6 +48,7 @@ Jami: **54** ta masala
 | [M069H](./M069H_satrni_tiklash) | Satrni tiklash |  | 1% | 10 ms | 4192 KB |
 | [M069J](./M069J_oquv_mashguloti) | O'quv mashg'uloti |  | 1% | 209 ms | 8800 KB |
 | [M069K](./M069K_qoyxona) | Qo'yxona |  | 1% | 103 ms | 10156 KB |
+| [M070A](./M070A_extensions_uzaytirgichlar) | Extensions (uzaytirgichlar) |  | 1% | 0 ms | 0 KB |
 | [M072D](./M072D_futbol_oyini) | Futbol o'yini |  | 1% | 1 ms | 0 KB |
 | [M072F](./M072F_1) | 1% |  | 1% | 1 ms | 0 KB |
 | [M072G](./M072G_floor_funksiyasi) | Floor funksiyasi |  | 1% | 1 ms | 0 KB |
