@@ -6,7 +6,7 @@
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-52-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-53-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -44,10 +44,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 52 ta masala
-- **O'rtacha qiyinchilik**: 6.2%
-- **O'rtacha vaqt**: 12.8 ms
-- **Eng oxirgi**: [M072G — Floor funksiyasi](./M072G_floor_funksiyasi) _(2026-05-10)_
+- **Jami yechilgan**: 53 ta masala
+- **O'rtacha qiyinchilik**: 6.1%
+- **O'rtacha vaqt**: 15.8 ms
+- **Eng oxirgi**: [M074B — Daraxtdagi LIS](./M074B_daraxtdagi_lis) _(2026-05-10)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -55,7 +55,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 39 |
+| Kategoriyasiz | 40 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -68,6 +68,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M074B](./M074B_daraxtdagi_lis) | Daraxtdagi LIS | - | 174 ms | 2026-05-10 |
 | [M072G](./M072G_floor_funksiyasi) | Floor funksiyasi | - | 1 ms | 2026-05-10 |
 | [M073D](./M073D_juda_kop_talablar) | Juda ko'p talablar | - | 18 ms | 2026-05-10 |
 | [M072F](./M072F_1) | 1% | - | 1 ms | 2026-05-10 |
@@ -77,7 +78,6 @@ solutions/
 | [M069K](./M069K_qoyxona) | Qo'yxona | - | 103 ms | 2026-05-10 |
 | [M069G](./M069G_good_binary_tree) | Good binary tree | - | 18 ms | 2026-05-10 |
 | [M069F](./M069F_batalyon) | Batalyon | - | 46 ms | 2026-05-10 |
-| [M069E](./M069E_matematikani_yomon_koraman) | Matematikani yomon ko'raman | - | 1 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
