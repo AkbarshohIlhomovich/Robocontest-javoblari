@@ -1,5 +1,5 @@
 ---
-title: "Robocontest.uz Yechimlari Indeksi — 97 ta masala"
+title: "Robocontest.uz Yechimlari Indeksi — 98 ta masala"
 description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
 keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
 lang: uz
@@ -7,9 +7,9 @@ lang: uz
 
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-11T09:09:43_
+_Yangilangan: 2026-05-11T09:25:58_
 
-Jami: **97** ta masala
+Jami: **98** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -85,6 +85,7 @@ Jami: **97** ta masala
 | [M074D](./M074D_xor_va_summa) | Xor va summa |  | 1% | 10 ms | 7264 KB |
 | [M074G](./M074G_orollar_urushi) | Orollar urushi |  | 1% | 33 ms | 96 KB |
 | [M075A](./M075A_yuklar) | Yuklar |  | 1% | 550 ms | 3228 KB |
+| [M075E](./M075E_3_ta_har_xil_belgi) | 3 ta har xil belgi |  | 1% | 11 ms | 0 KB |
 | [M076A](./M076A_анаграмматический_хаос) | Анаграмматический Хаос |  | 1% | 8 ms | 0 KB |
 | [M076B](./M076B_космическая_балансировка) | Космическая Балансировка |  | 1% | 7 ms | 15968 KB |
 | [M076D](./M076D_минимальное_максимальное_ребро) | Минимальное Максимальное Ребро |  | 1% | 89 ms | 5660 KB |
