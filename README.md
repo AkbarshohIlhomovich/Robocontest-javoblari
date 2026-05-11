@@ -17,7 +17,7 @@ lang: uz
 
 <!-- AUTO:badges-START -->
 <p align="center">
-  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-95-brightgreen?style=for-the-badge"></a>
+  <a href="./INDEX.md"><img alt="Yechilgan" src="https://img.shields.io/badge/yechilgan-96-brightgreen?style=for-the-badge"></a>
   <img alt="Til" src="https://img.shields.io/badge/til-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus">
   <img alt="Tushuntirishlar" src="https://img.shields.io/badge/docs-o'zbek-blue?style=for-the-badge">
   <img alt="Litsenziya" src="https://img.shields.io/badge/litsenziya-MIT-yellow?style=for-the-badge">
@@ -55,10 +55,10 @@ solutions/
 ## Statistika
 
 <!-- AUTO:stats-START -->
-- **Jami yechilgan**: 95 ta masala
+- **Jami yechilgan**: 96 ta masala
 - **O'rtacha qiyinchilik**: 3.8%
-- **O'rtacha vaqt**: 36.2 ms
-- **Eng oxirgi**: [M072B — Masala uchun checker](./M072B_masala_uchun_checker) _(2026-05-11)_
+- **O'rtacha vaqt**: 35.8 ms
+- **Eng oxirgi**: [M074A — Yoqimli raqam](./M074A_yoqimli_raqam) _(2026-05-11)_
 <!-- AUTO:stats-END -->
 
 ## Kategoriyalar bo'yicha
@@ -66,7 +66,7 @@ solutions/
 <!-- AUTO:categories-START -->
 | Kategoriya | Yechilgan |
 |-----------|-----------|
-| Kategoriyasiz | 81 |
+| Kategoriyasiz | 82 |
 | Oson | 7 |
 | Sonlar nazariyasi | 3 |
 | Uzun sonlar arifmetikasi | 1 |
@@ -80,6 +80,7 @@ solutions/
 <!-- AUTO:recent-START -->
 | ID | Sarlavha | Kategoriya | Vaqt | Sana |
 |----|----------|-----------|------|------|
+| [M074A](./M074A_yoqimli_raqam) | Yoqimli raqam | - | 1 ms | 2026-05-11 |
 | [M072B](./M072B_masala_uchun_checker) | Masala uchun checker | - | 1 ms | 2026-05-11 |
 | [M072C](./M072C_antiqa_poyga) | Antiqa poyga | - | 1 ms | 2026-05-11 |
 | [M088C](./M088C_shirinlik) | Shirinlik | - | 110 ms | 2026-05-10 |
@@ -89,7 +90,6 @@ solutions/
 | [M080F](./M080F_dunes) | Dunes | - | 3 ms | 2026-05-10 |
 | [M074D](./M074D_xor_va_summa) | Xor va summa | - | 10 ms | 2026-05-10 |
 | [M073F](./M073F_javascript_vs_python) | JavaScript vs Python | - | 1 ms | 2026-05-10 |
-| [M073H](./M073H_modullar_yigindisi) | Modullar yig'indisi | - | 2 ms | 2026-05-10 |
 <!-- AUTO:recent-END -->
 
 **Barcha yechimlar bo'yicha to'liq jadval** → [INDEX.md](./INDEX.md)
