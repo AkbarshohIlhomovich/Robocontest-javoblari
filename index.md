@@ -1,5 +1,5 @@
 ---
-title: "Robocontest.uz Yechimlari Indeksi — 96 ta masala"
+title: "Robocontest.uz Yechimlari Indeksi — 97 ta masala"
 description: "Robocontest.uz dasturlash olimpiadasi masalalarining C++17 yechimlari ro'yxati. Algoritm, dinamik dasturlash, sonlar nazariyasi va boshqa kategoriyalar bo'yicha yechilgan masalalar jadvali."
 keywords: "robocontest, robocontest.uz yechimlari, robocontest masalalari ro'yxati, c++ algoritm, olimpiada yechimlari, competitive programming uzbekistan"
 lang: uz
@@ -7,9 +7,9 @@ lang: uz
 
 # Yechilgan masalalar indeksi
 
-_Yangilangan: 2026-05-11T09:08:45_
+_Yangilangan: 2026-05-11T09:09:43_
 
-Jami: **96** ta masala
+Jami: **97** ta masala
 
 | ID | Sarlavha | Kategoriya | Qiyinchilik | Vaqt | Xotira |
 |----|----------|------------|-------------|------|--------|
@@ -74,6 +74,7 @@ Jami: **96** ta masala
 | [M072J](./M072J_kvitansiya) | Kvitansiya |  | 1% | 1 ms | 0 KB |
 | [M073A](./M073A_vazifalar) | Vazifalar |  | 1% | 1 ms | 0 KB |
 | [M073B](./M073B_ikkilik_yigindi) | Ikkilik yig'indi |  | 1% | 1 ms | 0 KB |
+| [M073C](./M073C_yoqimli_raqam_2) | Yoqimli raqam #2 |  | 1% | 1 ms | 0 KB |
 | [M073D](./M073D_juda_kop_talablar) | Juda ko'p talablar |  | 1% | 18 ms | 0 KB |
 | [M073E](./M073E_togri_chiziq) | To'g'ri chiziq |  | 1% | 1 ms | 96 KB |
 | [M073F](./M073F_javascript_vs_python) | JavaScript vs Python |  | 1% | 1 ms | 0 KB |
